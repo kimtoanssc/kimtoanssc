@@ -1,1518 +1,9 @@
 #EXTM3U
 #EXTM3U
 
-
-
-
-
-
 #EXTM3U url-tvg="http://gg.gg/epgvnHT" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
-#EXTM3U url-tvg="http://bit.ly/epgphaptx5" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=2
-#EXTM3U url-tvg="http://megavie.live/schedule/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=3
-#EXTM3U url-tvg="http://bit.ly/guidevn" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=4
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
-#EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://static.megavie.live/media/vtv1hd.jpg"  group-title="🆅🆃🆅"  tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8" ,VTV1 HD
-#EXTVLCOPT:http-user-agent="Pháp Đẹp Trai"
-https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2" tvg-logo="https://static.megavie.live/media/vtv2hd.jpg"  group-title="🆅🆃🆅" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV2 HD
-#EXTVLCOPT:http-user-agent="Pháp Đẹp Trai"
-https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3" tvg-logo="https://static.megavie.live/media/vtv3hd.jpg"  group-title="🆅🆃🆅" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV3 HD
-#EXTVLCOPT:http-user-agent="Pháp Đẹp Trai"
-
-https://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4" tvg-logo="https://static.megavie.live/media/vtv4hd.jpg"  group-title="🆅🆃🆅" tvg-chno="4" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV4 HD
-#EXTVLCOPT:http-user-agent="Pháp Đẹp Trai"
-https://livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5" tvg-logo="https://static.megavie.live/media/vtv5hd.jpg"  group-title="🆅🆃🆅" tvg-chno="5" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV5 HD
-#EXTVLCOPT:http-user-agent="Pháp Đẹp Trai"
-https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6" tvg-logo="https://static.megavie.live/media/vtv6hd.jpg"  group-title="🆅🆃🆅" tvg-chno="6" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV6 HD
-#EXTVLCOPT:http-user-agent="Pháp Đẹp Trai"
-https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7" tvg-logo="https://static.megavie.live/media/vtv7hd.jpg"  group-title="🆅🆃🆅" tvg-chno="7" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV7 HD
-#EXTVLCOPT:http-user-agent="Pháp Đẹp Trai"
-https://livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv8hd" tvg-name="VTV8" tvg-logo="https://static.megavie.live/media/vtv8hd.jpg"  group-title="🆅🆃🆅" tvg-chno="8" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV8 HD
-#EXTVLCOPT:http-user-agent="Pháp Đẹp Trai"
-https://livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9" tvg-logo="https://static.megavie.live/media/vtv9hd.jpg" group-title="🆅🆃🆅" tvg-chno="9" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV9 HD
-#EXTVLCOPT:http-user-agent="Pháp Đẹp Trai"
-https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
-
-
-#EXTINF:-1 group-title="🆅🆃🆅" tvg-id="vtv5hdtnb" tvg-logo="https://i.ibb.co/12ZVqnS/VTV5-TNB-1.png", VTV5 Tây Nam Bộ HD
-#EXTVLCOPT:http-user-agent="Pháp Đẹp Trai"
-https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
-
-#EXTINF:-1 group-title="🆅🆃🆅"  tvg-id="vtv5hdtn" tvg-logo="https://i.ibb.co/XyNYs84/VTV5TN.jpg", VTV5 Tây Nguyên HD
-#EXTVLCOPT:http-user-agent="Pháp Đẹp Trai"
-https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
-
-
-#EXTINF:-1 tvg-id="vtc1hd" tvg-name="VTC1" tvg-logo="https://static.megavie.live/media/vtc1hd.jpg"  group-title="🆅🆃🅲" tvg-chno="10" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-10800.m3u8" ,VTC1 HD
-#EXTVLCOPT:http-user-agent="Pháp Đẹp Trai"
-https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="vtc2" tvg-logo="https://static.megavie.live/media/vtc2.jpg" tvg-chno="11" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC2 HD
-#EXTVLCOPT:http-user-agent="Pháp Đẹp Trai"
-https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc3hd" tvg-name="VTC3" tvg-logo="https://static.megavie.live/media/vtc3hd.jpg"  group-title="🆅🆃🅲"  tvg-chno="12" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc3_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC3 HD
-https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtc4hd" tvg-name="VTC4" tvg-logo="https://static.megavie.live/media/vtc4hd.jpg"  group-title="🆅🆃🅲" tvg-chno="13" catchup="append" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc4_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC4 HD
-https://vips-livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtc5hd" tvg-name="VTC5" tvg-logo="https://static.megavie.live/media/vtc5hd.jpg"  group-title="🆅🆃🅲" tvg-chno="14" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc5_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC5 HD
-https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  tvg-id="vtc6hd" tvg-logo="https://static.megavie.live/media/vtc6hd.jpg"  group-title="🆅🆃🅲" tvg-chno="15" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc6_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC6 HD
-https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  tvg-id="vtc7hd" tvg-logo="https://static.megavie.live/media/vtc7hd.png"  group-title="🆅🆃🅲" tvg-chno="16" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc7_1000.stream/chunks_dvr_range-${start}-10800.m3u8" ,VTC7 HD
-https://livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc8" tvg-name="VTC8" tvg-logo="https://static.megavie.live/media/vtc8.jpg"   group-title="🆅🆃🅲" tvg-chno="17"  catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc8_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC8 HD
-https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc9hd" tvg-name="VTC9" tvg-logo="https://static.megavie.live/media/vtc9hd.jpg"   group-title="🆅🆃🅲" tvg-chno="18" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc9_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC9 HD
-https://livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  tvg-id="vtc10hd" tvg-logo="https://static.megavie.live/media/vtc10hd.jpg"  group-title="🆅🆃🅲" tvg-chno="19" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc10_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC10 HD
-https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  tvg-id="vtc11" tvg-logo="https://static.megavie.live/media/vtc11.jpg"  group-title="🆅🆃🅲" tvg-chno="20" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc11_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC11 HD
-https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  tvg-id="vtc12" tvg-logo="https://static.megavie.live/media/vtc12.png"  group-title="🆅🆃🅲" tvg-chno="21" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc12_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC12 HD
-https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc13hd" tvg-name="VTC13" tvg-logo="https://static.megavie.live/media/vtc13hd.jpg"   group-title="🆅🆃🅲" tvg-chno="22" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc13_1000.stream/chunks_dvr_range-${start}-10800.m3u8",,VTC13 HD
-http://vcdn1.vtc.gov.vn:1935/m_4K/smil:4k.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="vtc14hd" tvg-name="VTC14" tvg-logo="https://static.megavie.live/media/vtc14hd.jpg"   group-title="🆅🆃🅲" tvg-chno="23"  catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc14_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC14 HD
-https://vtc130121.cdn.vnns.io/VTC14/playlist.m3u8
-#https://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000
-#EXTINF:-1 tvg-id="vtc16" tvg-name="VTC16" tvg-logo="https://static.megavie.live/media/vtc16.jpg"   group-title="🆅🆃🅲" tvg-chno="24" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc16_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC16 HD
-https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="htv1" tvg-name="HTV1" tvg-logo="https://static.megavie.live/media/htv1.jpg"   group-title="🅷🆃🆅" tvg-chno="25",HTV1 HD
-https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="htv2hd" tvg-name="HTV2" tvg-logo="https://static.megavie.live/media/htv2hd.jpg"  group-title="🅷🆃🆅" tvg-chno="26" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/06b93ec20336126a28dd0872a68932901632397465/htv2.cat.720p.tms/chunks_dvr_range-${start}-3000.m3u8",HTV2 HD
-https://livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htv3" tvg-name="HTV3" tvg-logo="https://static.megavie.live/media/htv3.png"  group-title="🅷🆃🆅" tvg-chno="27",HTV3 HD
-https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="htv4" tvg-name="HTV4" tvg-logo="https://static.megavie.live/media/htvkey.jpg" group-title="🅷🆃🆅"  tvg-chno="28",HTV Key HD
-https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="htv7hd" tvg-name="HTV7" tvg-logo="https://static.megavie.live/media/htv7hd.jpg"  group-title="🅷🆃🆅" tvg-chno="29" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/9e4c1bcff9fbfc9480f7cbbfed485cba1632397465/htv7.cat.720p.tms/chunks_dvr_range-${start}-2400.m3u8",HTV7 HD
-https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
-#https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htv9hd" tvg-name="HTV9" tvg-logo="https://static.megavie.live/media/htv9hd.jpg"  group-title="🅷🆃🆅" tvg-chno="30" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/cb40af69a22267aa9177c35ee0a30ec81632397465/htv9.cat.720p.tms/chunks_dvr_range-${start}-5400.m3u8",HTV9 HD
-https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
-#https://livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htvthethaohd" tvg-name="HTV_THE_THAO" tvg-logo="https://i.ibb.co/BsT7gcT/htvthethao.png"  group-title="🅷🆃🆅" tvg-chno="31",HTV Thể Thao HD
-https://vips-livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
-#http://gg.gg/htv-the-thao
-#https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b1200000.m3u8
-
-
-#EXTINF:-1 tvg-id="vinhlong1hd" tvg-logo="https://static.megavie.live/media/vinhlong1hd.jpg"  group-title="🆃🅷🆅🅻" tvg-chno="32" catchup="append" catchup-days="0.3" catchup-source="https://live1.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvdGh2bDEtNzIwcCIsImV4cCI6MTYzMTg5NzI0MH0.uNJPhwOve1YdUwz6m4RPhE8_tml5LpFPnDz46kTDvBw-/thvl1-720p/chunks_dvr_range-${start}-2760.m3u8",THVL1 HD 
-https://livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vinhlong2hd" tvg-logo="https://static.megavie.live/media/vinhlong2hd.jpg" group-title="🆃🅷🆅🅻" tvg-chno="33"  catchup="append" catchup-days="0.3" catchup-source="https://live1.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvdGh2bDItNzIwcCIsImV4cCI6MTYzMTg5NzUwOX0.H-0qQ0vi85SUOJpX-gbTTUijHvcEHbGhEmBMfIFZqnE-/thvl2-720p/playlist_dvr_range-${start}-2700.m3u8",THVL2 HD 
-https://livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vinhlong3hd" tvg-logo="https://static.megavie.live/media/vinhlong3hd.jpg" group-title="🆃🅷🆅🅻" tvg-chno="34" catchup="append" catchup-days="0.3" catchup-source="https://live1.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvdGh2bDMtNzIwcCIsImV4cCI6MTYzMTg5ODAxOH0.3sjlofVodMaFu-ZwLIUvTD-eZhMZvdoTD5IGLxoDlZ8-/thvl3-720p/playlist_dvr_range-${start}-2699.m3u8",THVL3 HD
-https://livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vinhlong4hd" tvg-logo="https://static.megavie.live/media/vinhlong4hd.png" group-title="🆃🅷🆅🅻" tvg-chno="35" catchup="append" catchup-days="0.3" catchup-source="https://live1.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvdGh2bDQtNzIwcCIsImV4cCI6MTYzMTg5ODA0OH0.ZVpAeEqyRh1eIv9w1l8gTU46FbbbcE6U9zGtS07xizo-/thvl4-720p/playlist_dvr_range-${start}-1138.m3u8",THVL4 HD
-https://livecdn.fptplay.net/hda3/vinhlong4hd_vhls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="sctv1hd"  tvg-logo="https://static.megavie.live/media/sctv1hd.png" tvg-chno="35"   group-title="🆂🅲🆃🆅" ,SCTV1 HD 
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv1/sd1/index.m3u8?md5=pGyKSYjrGrL2ZLYg-J8v_g&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv2hd"  tvg-logo="https://static.megavie.live/media/sctv1hd.png" tvg-chno="36" group-title="🆂🅲🆃🆅" ,SCTV2 HD
-https://livecdn.fptplay.net/sda/sctv2_hls.smil/chunklist_b2500000.m3u8
-#https://e1.endpoint.cdn.sctvonline.vn/secure/sctv2/sd1/index.m3u8?md5=4uJKDAWdU9pdIfSzvhQJPQ&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv3hd"  tvg-logo="https://static.megavie.live/media/sctv3hd.png" tvg-chno="37"  group-title="🆂🅲🆃🆅" ,SCTV3 HD 
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv3/sd1/index.m3u8?md5=-RE2AlRfyZP_ntu4aRKUMA&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv4hd"  tvg-logo="https://static.megavie.live/media/sctv4hd.png" tvg-chno="38" group-title="🆂🅲🆃🆅" ,SCTV4 HD 
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv4/sd1/index.m3u8?md5=VvFuYftKuNK8bzBSxxbb0g&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv5"  tvg-logo="https://i.ibb.co/bLcnbBR/sctv5-auto-x2.jpg" tvg-chno="39" group-title="🆂🅲🆃🆅" ,SCTV5 HD 
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv5/sd1/index.m3u8?md5=WgFj80nCKRlhZ4R9zQoZzg&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv6hd"  tvg-logo="https://static.megavie.live/media/sctv6hd.png" tvg-chno="40" group-title="🆂🅲🆃🆅"  catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-10800.m3u8" ,SCTV6 HD
-https://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
-#https://e1.endpoint.cdn.sctvonline.vn/secure/sctv6/sd1/index.m3u8?md5=4SolymWJ8gDfu-b_dR7biA&expires=2556118740|Referer=http://sctvonline.vn/
-EXTINF:-1 tvg-id="sctv7hd"  tvg-logo="https://static.megavie.live/media/sctv7hd.png" tvg-chno="41" group-title="🆂🅲🆃🆅" ,SCTV7 HD
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv7/sd1/index.m3u8?md5=t2rQwa4sPnnjLhLl96Sgng&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv8hd"  tvg-logo="https://static.megavie.live/media/sctv8hd.png" tvg-chno="42" group-title="🆂🅲🆃🆅" ,SCTV8 HD
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv8/sd1/index.m3u8?md5=4VmSMUN05v9AhUS7aYe6Ig&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv9hd"  tvg-logo="https://static.megavie.live/media/sctv9hd.png" tvg-chno="43" group-title="🆂🅲🆃🆅" ,SCTV9 HD
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv9/sd1/index.m3u8?md5=YbHnb-7yJPcp86S-bNWnvA&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv10"  tvg-logo="https://i.ibb.co/jWjs5kF/sctv5.jpg" tvg-chno="44" group-title="🆂🅲🆃🆅" ,SCTV10 HD
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv10/sd1/index.m3u8?md5=goeMc3OrV5Un43gP6kDnlw&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv11hd"  tvg-logo="https://static.megavie.live/media/sctv11hd.png" tvg-chno="45" group-title="🆂🅲🆃🆅" ,SCTV11 HD 
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv11/sd1/index.m3u8?md5=i8wrzqxjGV7BQt9piOK5AA&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv12hd"  tvg-logo="https://static.megavie.live/media/sctv12hd.png" tvg-chno="46" group-title="🆂🅲🆃🆅" ,SCTV12 HD
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv12/sd1/index.m3u8?md5=i0L8AAUKtOAHBzsnl8UhlA&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv13hd"  tvg-logo="https://static.megavie.live/media/sctv13hd.png" tvg-chno="47" group-title="🆂🅲🆃🆅" ,SCTV13 HD 
-
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv13/sd1/index.m3u8?md5=GeobYI8uI8LhmTFo-CYFcA&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv14hd"  tvg-logo="https://static.megavie.live/media/sctv14hd.png" tvg-chno="48" group-title="🆂🅲🆃🆅" ,SCTV14 HD
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv14/sd1/index.m3u8?md5=bs-8dgbSHwp63TDXoCpnkw&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv15hd"  tvg-logo="https://static.megavie.live/media/sctv15hd.png"" tvg-chno="49" group-title="🆂🅲🆃🆅" ,SCTV15 HD 
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv15/sd1/index.m3u8?md5=npxSf8DiNb6h-lo6eNV-ow&expires=2556118740|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-id="sctv16hd"  tvg-logo="https://static.megavie.live/media/sctv16hd.png" tvg-chno="50" group-title="🆂🅲🆃🆅" ,SCTV16 HD 
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv16/sd1/index.m3u8?md5=xVPLXiUpFg73yuaDyEy-2w&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv17hd"  tvg-logo="https://static.megavie.live/media/sctv17hd.png" tvg-chno="51" group-title="🆂🅲🆃🆅" ,SCTV17 HD 
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv17/sd1/index.m3u8?md5=Ta95m8zjauF5U4Ya8NsJvg&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv18hd"  tvg-logo="https://static.megavie.live/media/sctv18hd.png" tvg-chno="52" group-title="🆂🅲🆃🆅" ,SCTV18 HD 
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv18/sd1/index.m3u8?md5=LpLRftYMafDSOLR-TKK6Mw&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv19hd"  tvg-logo="https://static.megavie.live/media/sctv19hd.png" tvg-chno="53" group-title="🆂🅲🆃🆅" ,SCTV19 HD 
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv19/sd1/index.m3u8?md5=uMR0F1oSOwIfKPtt7-a4xg&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv20hd"  tvg-logo="https://static.megavie.live/media/sctv20hd.png" tvg-chno="54" group-title="🆂🅲🆃🆅" ,SCTV20 HD
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv20/sd1/index.m3u8?md5=lb0MLr7Ra4oiddBQkWvAug&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv21hd"  tvg-logo="https://static.megavie.live/media/sctv21hd.jpg" tvg-chno="55" group-title="🆂🅲🆃🆅" ,SCTV21 HD
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv21/sd1/index.m3u8?md5=AxvpNDs0N57nBjln7px0IA&expires=2556118740|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-id="sctv22hd"  tvg-logo="https://static.megavie.live/media/sctv22hd.png" tvg-chno="56" group-title="🆂🅲🆃🆅" ,SCTV22 HD
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv22/sd1/index.m3u8?md5=MP6PbU0wC37imEmBeKk0EQ&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctvhdpth"  tvg-logo="https://i.ibb.co/TBG2QN5/sctv-phim.png" tvg-chno="57" group-title="🆂🅲🆃🆅" ,SCTV HD Phim Tổng Hợp
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctvphimtonghop/sd1/index.m3u8?md5=YtjAmEoXNzWyuoMM48a3Ug&expires=2556118740|Referer=http://sctvonline.vn/
-
-
-#EXTINF:-1 tvg-id="vtvcab1hd"  tvg-logo="https://vtvcabtaidanang.com/wp-content/uploads/2017/05/vtvcab-1-giai-tri-tv.jpg"  tvg-chno="65" group-title="🆅🆃🆅🅲🅰🅱" ,VTVCab1 HD 
-https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab1/index.m3u8?md5=dBooYMMaJzuC4PQSnva4EQ&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab2hd"" tvg-logo="https://i.ibb.co/n0W0LS5/kenh-2-ce40790f.jpg"  tvg-chno="66" group-title="🆅🆃🆅🅲🅰🅱" ,VTVCab2 HD 
-https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab2/index.m3u8?md5=QGYdEQjOO4Qj5YcwRFeV1w&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-id="vtvcab3hd" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/kenh-3_743a9dbd.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" tvg-chno="67" group-title="🆅🆃🆅🅲🅰🅱" ,VTVCab3 HD 
-https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab3/index.m3u8?md5=ytdJ0cly8LCK3zdy10OuxQ&expires=2556118740|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-id="vtvcab4hd" tvg-logo="https://i.ibb.co/6bj2GkX/cab4.jpg"  tvg-chno="68" group-title="🆅🆃🆅🅲🅰🅱" ,VTVCab4 HD 
-https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab4/index.m3u8?md5=VAQDb2DOBBBbwde5jBBfuA&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab5hd"  tvg-logo="https://static-stage.tv24.vn/channel/181/vtvcab5-EChannel.png"  tvg-chno="69" group-title="🆅🆃🆅🅲🅰🅱" ,VTVCab5 HD 
-https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab5/index.m3u8?md5=FI0vSweK0ZjVtshOO-v3LA&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab6hd"  tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/84_9b59e5ac.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn"  tvg-chno="70" group-title="🆅🆃🆅🅲🅰🅱" ,VTVCab6 HD 
-https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab6/index.m3u8?md5=UWqnKPkk8xH9hqll1u3iFg&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab7hd"  tvg-logo="https://i.ibb.co/fDSQnjm/cab10.jpg"  tvg-chno="71" group-title="🆅🆃🆅🅲🅰🅱" ,VTVCab7 HD
-https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab7/index.m3u8?md5=JGYvOsHHyqqsxl6Osg-j7g&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab8hd"  tvg-logo="https://i.ibb.co/fD73WwM/cab8.jpg"  tvg-chno="72" group-title="🆅🆃🆅🅲🅰🅱" ,VTVCab8 HD 
-https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab8/index.m3u8?md5=cDM9L0-Fmb5YYGIm5x8dMQ&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab9hd"  tvg-logo="https://i.ibb.co/rKrjJ08/cab9.jpg"  tvg-chno="73" group-title="🆅🆃🆅🅲🅰🅱" ,VTVCab9 HD 
-https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab9/index.m3u8?md5=H-CZgExdlhVls0-cEfpa4Q&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab10hd"  tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/kenh-10_f448d047.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn"  tvg-chno="74" group-title="🆅🆃🆅🅲🅰🅱" ,VTVCab 10 HD 
-https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab10/index.m3u8?md5=0hgEfHHQDkf2-k5aGSCR8Q&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab11hd"  tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/83_b051238f.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn"  tvg-chno="75" group-title="🆅🆃🆅🅲🅰🅱" ,VTVCab11 HD 
-https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab11/index.m3u8?md5=U3OmAeuvHI3rIJotPQ8EXg&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab12hd"  tvg-logo="https://i.ibb.co/wdsvRkD/cab12.jpg"  tvg-chno="75" group-title="🆅🆃🆅🅲🅰🅱" ,VTVCab12 HD 
-https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab12/index.m3u8?md5=16_sk-wKZo227CghUseBkQ&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab13hd" tvg-logo="https://i.ibb.co/RvzsCkn/cab13.jpg"  tvg-chno="76" group-title="🆅🆃🆅🅲🅰🅱" ,VTVCab13 HD
-
-#EXTINF:-1 tvg-id="vtvcab15hd" tvg-logo="https://static.megavie.live/media/vtvcab15.jpg"  tvg-chno="77" group-title="🆅🆃🆅🅲🅰🅱" ,VTVCab15 HD 
-https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab15/index.m3u8?md5=3JMqSO-g51A9uFwoqY3nUg&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-id="vtvcab16hd" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/kenh-16_4d3ff04e.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" tvg-chno="78" group-title="🆅🆃🆅🅲🅰🅱" ,VTVCab16 HD 
-
-https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab16/sd1/index.m3u8?md5=lpI7W1W0pFJXA6pGT3v5QQ&expires=2556118740|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-id="vtvcab17hd" tvg-logo="https://static-stage.tv24.vn/channel/186/vtvcab17-Yeah1TV.png"  tvg-chno="79" group-title="🆅🆃🆅🅲🅰🅱" ,VTVCab17 HD 
-https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab17/index.m3u8?md5=8sqdkkWw2j1jqPiPOHIhew&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab19hd" logo="https://i.ibb.co/1qxx1Wm/20.png" group-title="🆅🆃🆅🅲🅰🅱" ,VTVCab19 HD
-https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab19/index.m3u8?md5=1AYGbWlzHNKrvsQUMUP82Q&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab20hd"  tvg-logo="https://i.ibb.co/2vWKV2q/cab20.png"  tvg-chno="80" group-title="🆅🆃🆅🅲🅰🅱" ,VTVCab20 HD 
-https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab20/index.m3u8?md5=-sx6Mn0Nya1J6PIsvSKbWQ&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab21hd"  logo="https://i.ibb.co/308FQp8/cab21.jpg" group-title="🆅🆃🆅🅲🅰🅱" ,VTVCab21 HD
-#EXTINF:-1 tvg-id="vtvcab22hd"  tvg-logo="https://i.ibb.co/f8vpzsz/22.jpg"  tvg-chno="81" group-title="🆅🆃🆅🅲🅰🅱" ,VTVCab22 HD 
-
-#EXTINF:-1 tvg-id="vtvcab23hd" tvg-logo="https://i.ibb.co/84VXBCw/photo-3-1630981226856936120480.jpg"  tvg-chno="82" group-title="🆅🆃🆅🅲🅰🅱" ,VTVCab23 HD 
-https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="htvcthuanviethd"  tvg-logo="https://static.megavie.live/media/htvcthuanviethd.jpg"  tvg-chno="84" group-title="🅷🆃🆅🅲" ,HTVC Thuần Việt HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htvccanhachd" tvg-logo="https://static.megavie.live/media/htvccanhachd.jpg"  tvg-chno="85" group-title="🅷🆃🆅🅲" ,HTVC Ca Nhạc HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htvcphunuhd"  tvg-logo="https://static.megavie.live/media/htvcphunuhd.jpg"  tvg-chno="86" group-title="🅷🆃🆅🅲" ,HTVC Phụ Nữ 
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htvcgiadinhhd"  tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_htvcgiadinh.png"  tvg-chno="87" group-title="🅷🆃🆅🅲" ,HTVC Gia Đình 
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htvcthuanviet"  tvg-logo="https://static.megavie.live/media/htvcthuanviet.jpg"  tvg-chno="88" group-title="🅷🆃🆅🅲" ,HTVC Thuần Việt
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htvcdulichhd" tvg-logo="https://static.megavie.live/media/htvcdulichhd.jpg"  tvg-chno="89" group-title="🅷🆃🆅🅲" ,HTVC Du Lịch 
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htvcphimhd"  tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_paramount-channel-vietnam_153613137177.png"  tvg-chno="90" group-title="🅷🆃🆅🅲" ,HTVC Phim 
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htvcfbnc"  tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fbnc_145672745919.jpg" tvg-chno="86" group-title="🅷🆃🆅🅲" ,HTVC FBNC
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FBNC-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htvcplushd"  tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-plus_159175078181.png" group-title="🅷🆃🆅🅲" ,HTVC Plus 
-https://vips-livecdn.fptplay.net/hda3/htvcplus_4000.stream/chunklist.m3u8
-#https://livecdn.fptplay.net/sdb/htvcplus_hls.smil/chunklist_b2500000.m3u8
----------------
-
-
-
-
-
-
-#http://45.137.21.81/madturnip07@yahoo.com/8832554033/28067?token=HRRcUhFaEA4SAgFSAVBSVAJWUFkBV1UBAAlaXVMBU1NVUAcKBAAAA1YTGENDRkUDVl07CFZECgYPCVVSHhRFQgNEa1oGEAgWBQUCVQUQG0RDWQkEEFwBAgQKUV0DAQkFShREWgYQCBYGAANVEh4VA09EARNcB1xrU1wVDFFTEgsIQ1hfThBdWm9VUQxRXFNEDRJUQx5EWUdHG1kLR1pcHURUXUcQU0ZREgsWUAMAAVEVHEYCXRNeQEVAQV8QYH4TShRRSxZXXEdZXlpDChBDFRUcRghBOUJRRE0RAFNbVUNEDBYDQB4QWVFJawJfXFkDVEQNDlwVEg4VDUFJEFtfXw9CW0E9QltQEgsWUwQLA1MVTQ==
-#EXTINF:-1 tvg-id="vovtvhd" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vovtv_161070256824.jpg",VOV Đài Tiếng Nói Việt Nam
-#http://mediatech.vncdn.vn/vovlive/tv1live.m3u8
-#https://live.truyenhinhdulich.vn/vovlive/tv1live.m3u8
-https://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="ttxvnhd"  group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thong-tan-xa-viet-nam_162952438542.jpg",VNews Thông Tấn Xã Việt Nam
-
-http://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="antvhd"  group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_antv_156455515067.jpg",An Ninh TV
-
-https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="antg"  group-title="🅻🅾🅲🅰🅻" tvg-logo="http://imageidc1.tv360.vn/image1/2020_09_23/1600823403571/7eff0ae17e22_640_360.png",An Ninh Thế Giới
-
-#EXTINF:-1 tvg-id="nhandan"  group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_truyen-hinh-nhan-dan_15645602611.jpg",Nhân Dân TV
-https://livecdn.fptplay.net/sdc/truyenhinhnhandan_2000.stream/chunklist.m3u8
-#https://vips-livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="qpvnhd"  group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quoc-phong-vn_145673312681.jpg",Quốc Phòng TV
-
-https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="quochoi"  group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quoc-hoi-hd_145578230854.png",Quốc Hội TV
-https://vips-livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="danang1" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-nang-1_156455534553.jpg", Đà Nẵng 1 HD
-https://livecdn.fptplay.net/sdc/danang1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="danang2" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-nang-2_156455535103.jpg", Đà Nẵng 2 HD
-http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
-#https://livecdn.fptplay.net/sdc/danang2_hls.smil/chunklist_b2800000.m3u8
-
-#EXTINF:-1 tvg-id="hanoi1" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hanoitv-1_145672747757.jpg", Hà Nội 1 HD
-#https://livecdn.fptplay.net/sdc/hanoitv1_2000.stream/chunklist.m3u8
-https://live.hanoitv.vn/hntvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="hanoi2" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hanoitv-2_145672748742.jpg", Hà Nội 2 HD
-https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="btv1" tvg-logo="https://i.ibb.co/w6G1F5H/btv1.png" tvg-chno="58" group-title="🅻🅾🅲🅰🅻"  ,BTV1 HD
-https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  tvg-id="btv2" tvg-logo="https://i.ibb.co/Fz63hY5/btv2.jpg" tvg-chno="59" group-title="🅻🅾🅲🅰🅻" ,BTV2 HD
-https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  tvg-id="btv3hd"  tvg-logo="https://i.ibb.co/GFj9qVt/btv4.png" tvg-chno="60" group-title="🅻🅾🅲🅰🅻" ,BTV4 HD
-#https://vips-livecdn.fptplay.net/hda2/btv4hd_4000.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="btv5hd"  tvg-logo="https://i.ibb.co/0hkCNs2/btv5.jpg" tvg-chno="61" group-title="🅻🅾🅲🅰🅻"  ,BTV5 HD
-https://e2.endpoint.cdn.sctvonline.vn/secure/btv5/sd1/index.m3u8?md5=TIpsMcUws2BxLKEZ3ItG9g&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-id="btv6" tvg-logo="https://i.ibb.co/9nryb07/btv6.jpg" tvg-chno="62" group-title="🅻🅾🅲🅰🅻" ,BTV6 HD
-https://livecdn.fptplay.net/sda/btv6_2000.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="btv9"  tvg-logo="https://i.ibb.co/6DnYvpH/btv9.jpg" tvg-chno="63" group-title="🅻🅾🅲🅰🅻" ,BTV9 HD
-https://livecdn.fptplay.net/sdc/btv9_2000.stream/playlist.m3u8
-#EXTINF:-1  tvg-id="ncm"  tvg-logo="https://i.ibb.co/6bfTFkb/btv10.png" tvg-chno="64" group-title="🅻🅾🅲🅰🅻"  ,BTV10 HD
-https://livecdn.fptplay.net/sda/ncm_2000.stream/playlist.m3u8?
-#EXTINF:-1 tvg-id="binhduong11" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_btv-11_158459383676.png", BTV11 HD
-https://livecdn.fptplay.net/sda/btv11_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="dongnai1" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dong-nai-1_156455544303.jpg", Đồng Nai 1 HD
-https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="dongnai2" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dong-nai-2_156455545067.jpg", Đồng Nai 2 HD
-https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="dongthap" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dong-thap_145880869744.jpg", Đồng Tháp 1 HD
-#https://livecdn.fptplay.net/sdc/dongthap_2000.stream/chunklist.m3u8
-http://202.43.109.142:1935/THDT/thdttv/chunklist.m3u8
-#EXTINF:-1 tvg-id="dongthap2" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dong-thap_145880869744.jpg", Đồng Tháp 2
-http://202.43.109.144:1935/thdt2/thdt2/chunklist.m3u8
-#EXTINF:-1 tvg-id="binhphuoc1" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ca-mau_145880865141.jpg", Bình Phước 1 HD
-#https://livecdn.fptplay.net/sdc/binhphuoc1_hls.smil/chunklist_b2500000.m3u8
-http://103.90.220.236/bptvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="hometvbptv2" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-phuoc-2_145880693943.jpg", Bình Phước 2 HD
-#https://livecdn.fptplay.net/sdc/binhphuoc2_2000.stream/chunklist.m3u8
-http://103.90.220.236/bptvlive/tv2live.m3u8
-#EXTINF:-1 tvg-id="haiphong" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hai-phong_156455547372.jpg", Hải Phòng HD
-https://livecdn.fptplay.net/sdc/haiphong_hls.smil/chunklist_b2800000.m3u8
-#EXTINF:-1 tvg-id="haiphongplus" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hai-phong_156455547372.jpg", Hải Phòng HD+
-https://live.thhp.vn/hls/thpplus/index.m3u8
-#EXTINF:-1 tvg-id="kiengiang" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kien-giang_145880815375.jpg", Kiên Giang HD
-#https://livecdn.fptplay.net/sda/kiengiang_2000.stream/chunklist.m3u8
-http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
-#EXTINF:-1 tvg-id="kiengiang1" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kien-giang_145880815375.jpg",  Kiên Giang 1 HD
-http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
-#EXTINF:-1 tvg-id="quangninh1" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quang-ninh-1_145672976024.jpg", Quảng Ninh 1 HD
-#https://livecdn.fptplay.net/sda/quangninh1_2000.stream/chunklist.m3u8
-http://103.90.220.236/qtvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="quangninh3" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quang-ninh-3_145672977406.jpg", Quảng Ninh 3 HD
-#https://livecdn.fptplay.net/sda/quangninh3_2000.stream/chunklist.m3u8
-http://103.90.220.236/qtvlive/tv3live.m3u8
-#EXTINF:-1 tvg-id="quangnam" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quang-nam_145880919575.jpg", Quảng Nam HD
-https://livecdn.fptplay.net/sdc/quangnam_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="angiang" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_an-giang_145578823421.png", An Giang HD
-https://livecdn.fptplay.net/sda/angiang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vungtau" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ba-ria-vung-tau_156455527078.jpg", Bà Rịa Vũng Tàu HD
-https://livecdn.fptplay.net/sdc/bariavungtau_hls.smil/chunklist_b2800000.m3u8
-#EXTINF:-1 tvg-id="bacgiang" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bac-giang_15700007937.jpg", Bắc Giang HD
-#https://livecdn.fptplay.net/sdc/bacgiang_2000.stream/chunklist.m3u8
-
-http://103.90.220.236/bgtvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="bacninh" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bac-ninh_156455524327.jpg", Bắc Ninh HD
-https://livecdn.fptplay.net/sdc/bacninh_hls.smil/chunklist_b2800000.m3u8
-#EXTINF:-1 tvg-id="backan" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bac-kan_162952900786.jpg", Bắc Kạn
-##https://livecdn.fptplay.net/sdb/backan_hls.smil/chunklist_b2500000.m3u8
-http://113.160.162.131:8080/tv/bk.m3u8
-#EXTINF:-1 tvg-id="baclieu" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bac-lieu_156455519874.jpg", Bạc Liêu HD
-https://livecdn.fptplay.net/sdc/baclieu_hls.smil/chunklist_b2800000.m3u8
-#EXTINF:-1 tvg-id="bentre" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ben-tre_14588084926.jpg", Bến Tre
-#https://livecdn.fptplay.net/sdc/bentre_2000.stream/chunklist.m3u8
-http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
-#EXTINF:-1 tvg-id="binhdinh" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-dinh_145672697062.jpg", Bình Định HD
-#https://livecdn.fptplay.net/sda/binhdinh_hls.smil/chunklist_b2500000.m3u8
-http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
-
-
-
-#EXTINF:-1 tvg-id="binhthuan" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ca-mau_145880865141.jpg", Bình Thuận HD
-#https://livecdn.fptplay.net/sdc/binhthuan_2000.stream/chunklist.m3u8
-http://202.43.109.144:1935/thbttv/bttv/chunklist.m3u8
-#EXTINF:-1 tvg-id="camau" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ca-mau_145880865141.jpg", Cà Mau HD
-https://livecdn.fptplay.net/sdc/camau_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="cantho" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_can-tho_145672728114.jpg", Cần Thơ HD
-https://livecdn.fptplay.net/sda/cantho_2000.stream/chunklist.m3u8
-#https://mekongpassion.com/live/tv/chunklist.m3u8
-#EXTINF:-1 tvg-id="caobang" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cao-bang_149283044994.jpg", Cao Bằng HD
-#https://livecdn.fptplay.net/sda/caobang_1000.stream/chunklist.m3u8
-http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_b1384000.m3u8
-
-#EXTINF:-1 tvg-id="daklak" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dak-lak_145880969366.jpg", Đắk Lắk
-https://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="dienbien" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dien-bien_156455538188.jpg", Điện Biên
-https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="gialai" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ha-giang_145578965891.png", Gia Lai
-https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="hagiang" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ha-giang_145578965891.png", Hà Giang
-#https://livecdn.fptplay.net/sda/hagiang_2000.stream/chunklist.m3u8
-http://113.162.84.113:8080/hls/fm/index.m3u8
-#EXTINF:-1 tvg-id="hanam" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ha-nam_15323304952.jpg", Hà Nam HD
-#https://livecdn.fptplay.net/sda/hanam_2000.stream/chunklist.m3u8
-http://103.90.220.236/thhnlive/tv1live.m3u8
-
-#EXTINF:-1 tvg-id="hatinh" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ha-tinh_145881054027.jpg", Hà Tĩnh HD
-https://livecdn.fptplay.net/sdc/hatinh_2000.stream/chunklist.m3u8
-#http://hatinhtv.vn:82/hls/httv.m3u8
-#EXTINF:-1 tvg-id="haiduong" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hai-duong_145880941298.jpg", Hải Dương HD
-https://livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="haugiang" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hau-giang_145673319528.jpg", Hậu Giang HD
-https://livecdn.fptplay.net/sda/haugiang_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="hoabinh" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hoa-binh_145681701391.jpg", Hòa Bình
-https://livecdn.fptplay.net/sda/hoabinh_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="hungyen" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hung-yen_145880734258.jpg", Hưng Yên HD
-#https://livecdn.fptplay.net/sdc/hungyen_2000.stream/chunklist.m3u8
-http://103.90.220.236/hytvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="khanhhoa" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_khanh-hoa_145672791198.jpg", Khánh Hòa HD
-https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="kontum" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kon-tum_145881138908.jpg", Kon Tum HD
-#https://livecdn.fptplay.net/sdc/kontum_2000.stream/chunklist.m3u8
-http://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
-#EXTINF:-1 tvg-id="laichau" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_lai-chau_159849986283.png", Lai Châu
-https://livecdn.fptplay.net/sdc/laichau_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="lamdong" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_lam-dong_145880770362.jpg", Lâm Đồng HD
-#https://livecdn.fptplay.net/sdc/lamdong_2000.stream/chunklist.m3u8
-http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
-#EXTINF:-1 tvg-id="langson" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_lang-son_145880895824.jpg", Lạng Sơn HD
-#https://livecdn.fptplay.net/sdc/langson_2000.stream/chunklist.m3u8
-http://103.90.220.236/lstvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="laocai" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_lao-cai_145880951162.jpg", Lào Cai HD
-#https://livecdn.fptplay.net/sdc/laocai_hls.smil/chunklist_b2500000.m3u8
-http://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_long-an_145880901975.jpg", Long An HD
-#https://livecdn.fptplay.net/sdc/longan_hls.smil/chunklist_b2500000.m3u8
-http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
-#EXTINF:-1 tvg-id="namdinh" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_nam-dinh_145880959527.jpg", Nam Định
-https://livecdn.fptplay.net/sdc/namdinh_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="nghean" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_nghe-an_15426016909.jpg", Nghệ An HD
-#https://livecdn.fptplay.net/sda/nghean_hls.smil/chunklist_b2500000.m3u8
-http://103.90.220.236/natvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="ninhbinh" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ninh-binh_145672792288.jpg", Ninh Bình HD
-#https://livecdn.fptplay.net/sda/ninhbinh_hls.smil/chunklist_b2500000.m3u8
-http://103.90.220.236/nbtvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="ninhthuan" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ninh-thuan_154260171915.jpg", Ninh Thuận 
-https://livecdn.fptplay.net/sda/ninhthuan_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="phutho" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_phu-tho_14588083472.jpg", Phú Thọ HD
-#https://livecdn.fptplay.net/sda/phutho_hls.smil/chunklist_b2500000.m3u8
-http://cdn.3ssoft.vn/livetv/phuthotv/phuthotv/index.m3u8
-#EXTINF:-1 tvg-id="phuyen" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_phu-yen_151298361962.png", Phú Yên HD
-https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="quangbinhtv" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quang-binh-tv_145734126864.jpg", Quảng Bình
-https://livecdn.fptplay.net/sda/quangbinh_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="quangngai" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quang-ngai_146362646218.jpg", Quảng Ngãi HD
-https://livecdn.fptplay.net/sda/quangngai_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="quangtri" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quang-tri_150339367566.png", Quảng Trị HD
-http://103.90.220.236/qrtvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="soctrang" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_soc-trang_153233048284.jpg", Sóc Trăng 1
-https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="sonla" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_son-la_145881052785.jpg", Sơn La HD
-#https://livecdn.fptplay.net/sdc/sonla_hls.smil/chunklist_b2500000.m3u8
-http://118.107.85.4:1935/live/smil:STV.smil/chunklist_b1384000.m3u8
-#EXTINF:-1 tvg-id="tayninhhd" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_tay-ninh-hd_15323305071.jpg", Tây Ninh HD
-#https://livecdn.fptplay.net/sda/tayninhhd_hls.smil/chunklist_b2500000.m3u8
-http://202.43.109.142:1935/ttv11/tntv/playlist.m3u8
-#EXTINF:-1 tvg-id="thaibinh" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thai-binh_145673305396.jpg", Thái Bình HD
-#https://livecdn.fptplay.net/sda/thaibinh_hls.smil/chunklist_b2500000.m3u8
-http://103.90.220.236/tbtvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="thainguyen" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thai-nguyen_156455574521.jpg", Thái Nguyên 1 HD
-#https://livecdn.fptplay.net/sdc/thainguyen_hls.smil/chunklist_b2800000.m3u8
-http://103.90.220.236/tntvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="thanhhoa" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thanh-hoa_145828820204.jpg", Thanh Hóa HD
-https://livecdn.fptplay.net/sda/thanhhoa_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="thuathienhue" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thua-thien-hue_145880926795.jpg", Thừa Thiên Huế
-https://livecdn.fptplay.net/sdc/hue_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="tiengiang" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_tien-giang_145734128144.jpg", Tiền Giang HD
-http://thtg.vn:8001/thtg.m3u8
-#https://livecdn.fptplay.net/sda/tiengiang_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="travinh" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_tra-vinh_156455583815.jpg", Trà Vinh HD
-https://livecdn.fptplay.net/sdc/travinh_1000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="tuyenquang" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_tuyen-quang_145673727398.jpg", Tuyên Quang HD
-https://livecdn.fptplay.net/sda/tuyenquang_2000.stream/chunklist.m3u8
-#http://live.tuyenquangtv.vn/hls/ttv.m3u8
-#EXTINF:-1 tvg-id="vinhphuc" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-phuc_145880931198.jpg", Vĩnh Phúc HD
-
-#http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
-https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="yenbai" group-title="🅻🅾🅲🅰🅻" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_yen-bai_145880728083.jpg", Yên Bái HD
-https://yenbaitv.org.vn/hls/livestream.m3u8
-#https://livecdn.fptplay.net/sdc/yenbai_2000.stream/chunklist.m3u8
-
-
-
-
-
-
------------------
-
-
-
-
-#EXTINF:-1  tvg-id="sctv6hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fim360_163298589919.jpg?w=282&mode=scale" group-title="🅾🆃🅷🅴🆁"   catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-10800.m3u8",Film 360
-https://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
-
-
-#EXTINF:-1  tvg-id="blueantent" tvg-logo="https://static.megavie.live/media/blueantent.jpg" group-title="🅾🆃🅷🅴🆁" tvg-chno="94",Blue Ant Entertainment HD
-https://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="blueantext" tvg-logo="https://static.megavie.live/media/blueantext.jpg" group-title="🅾🆃🅷🅴🆁" tvg-chno="95",Blue Ant Extreme HD
-https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="KIX" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kix_152879800963.png" group-title="🅾🆃🅷🅴🆁" tvg-chno="97",KIX HD
-https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="afnhd"  tvg-name="AFC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_asian-food-channel_158279877356.png" group-title="🅾🆃🅷🅴🆁" tvg-chno="130",Asian Food Network HD 
-https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="ngwhd" tvg-logo="https://www.vippng.com/png/detail/442-4423779_nevet-s-log-t-v-lt-a-nat.png" group-title="🅾🆃🅷🅴🆁" tvg-chno="95",Nat Geo Wild HD
-
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="Da Vinci " tvg-name="DaVinci Learning" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-vinci-learning_160135703111.png" group-title="🅾🆃🅷🅴🆁"  tvg-chno="",Da Vinci Learning HD
-https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
-
- #EXTINF:-1 tvg-id="nhkworldhd" tvg-name="NHK_World-JAPAN(HD)" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_nhk-world-hd_150614115837.png" group-title="🅾🆃🅷🅴🆁"  tvg-chno="",NHK World HD
- https://vips-livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="arirang" tvg-name="arirang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_arirang_15148903242.png" group-title="🅾🆃🅷🅴🆁"  tvg-chno="",Arirang
-https://livecdn.fptplay.net/sdb/arirang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="channelnewsasia" tvg-name="Channel_News_Asia" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_channel-newsasia_151495143843.png" group-title="🅾🆃🅷🅴🆁"  tvg-chno="",New Asia
-https://livecdn.fptplay.net/sdb/newsasia_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="france24eng" tvg-name="France_24_English" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_france-24_151539541517.png" group-title="🅾🆃🅷🅴🆁"  tvg-chno="",France 24 English
-https://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="tv5monde" tvg-name="TV5_ASIE" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_tv5-monde_151557279144.png" group-title="🅾🆃🅷🅴🆁"  tvg-chno="",TV5MONDE
-https://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  tvg-id="outdoorhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_outdoor-channel_156456021259.jpg" group-title="🅾🆃🅷🅴🆁" tvg-chno="127",Outdoor Channel HD
-https://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
-
-
-
-#EXTINF:-1  tvg-id="hbohd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hbo_155834899497.png" group-title="🅾🆃🅷🅴🆁" tvg-chno="117",HBO HD
-https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  tvg-id="cinemaxhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_max-by-hbo_162970702915.jpg" group-title="🅾🆃🅷🅴🆁" tvg-chno="118",Cinemax HD
-https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="foxsportshd" tvg-name="Fox_Sports_1" tvg-logo="https://static.megavie.live/media/foxsportshd.jpg" group-title="🅾🆃🅷🅴🆁"  tvg-chno="91",Fox Sports HD
-#https://vips-livecdn.fptplay.net/hda2/foxsports_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="foxsports2hd" tvg-name="Fox_Sports_2" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-2_148654612771.jpg" group-title="🅾🆃🅷🅴🆁"  tvg-chno="92",Fox Sports 2 HD
-#https://vips-livecdn.fptplay.net/hda3/foxsports2_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="foxsports3hd" tvg-logo="https://static.megavie.live/media/foxsports3hd.jpg" group-title="🅾🆃🅷🅴🆁" tvg-chno="93", Fox Sports 3 HD
-#https://vips-livecdn.fptplay.net/hda2/foxsports3_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="axnhd" tvg-name="AXN" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/axn-hd.jpg" group-title="🅾🆃🅷🅴🆁"  tvg-chno="",AXN HD
-https://vips-livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="warnertvhd" tvg-name="WB" tvg-logo="https://static.megavie.live/media/warnertvhd.jpg" group-title="🅾🆃🅷🅴🆁" tvg-chno="115",Warner TV HD
-https://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="cinemaworld" tvg-logo="https://i.ibb.co/K0t7jJ0/cinemaw.jpg" group-title="🅾🆃🅷🅴🆁",Cinema World HD
-https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="dw" tvg-name="DW" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dw_145681789801.jpg" group-title="🅾🆃🅷🅴🆁"  tvg-chno="",DW HD
-https://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
- #EXTINF:-1 tvg-id="kbsworld" tvg-name="KBS_World" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kbs-world_145931294803.jpg" group-title="🅾🆃🅷🅴🆁"  tvg-chno="",KBS World FHD
- https://live-vthcm.vieon.vn/htv_drm/live/kbs_world/TV_HD/kbs_world_1080p/chunks.m3u8?=tvlinktop
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  tvg-id="fashionhd" tvg-logo="https://static.megavie.live/media/fashionhd.png" group-title="🅾🆃🅷🅴🆁" tvg-chno="129",Fashion TV HD
-https://vips-livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="cartoonhd" tvg-name="CARTOON_NETWORK" tvg-logo="https://i.ibb.co/JqJVv5b/cn.jpg" group-title="🅺🅸🅳🆂"  tvg-chno="",Cartoon Network HD
-https://vips-livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="animaxhd"  tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_animax_160869788037.png"  group-title="🅺🅸🅳🆂" tvg-chno="107", Animax HD
-https://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="boomerang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_boomerang_152240335127.png" group-title="🅺🅸🅳🆂" tvg-chno="108", Boomerang
-https://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="babyfirst" tvg-name="BabyFirst" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_baby-first_152332783386.png" group-title="🅺🅸🅳🆂"  tvg-chno="",BabyFirst
-
-https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="babytvhd" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/e6/74/5d/e6745d40-210e-315f-eaec-d5206a7c356c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" group-title="🅺🅸🅳🆂" roup-title="🅲🅰🆁🆃🅾🅾🅽", BabyTV
-https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="babytvhd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2at9oYen2pIwn9j_iVDufP_98c6buM62QMxd4J9ZnO_HYZyJpaVWGmO9UIZr-EeoVE2Q&usqp=CAU" group-title="🅺🅸🅳🆂" roup-title="🅲🅰🆁🆃🅾🅾🅽", DREAMWORK
-https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="tvg-id="cbeebies"" tvg-logo="https://i.ibb.co/mHNZbn0/bbc.jpg"  group-title="🅺🅸🅳🆂" tvg-chno="110",Cbeebies
-https://vips-livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="cnn" tvg-name="CNNHD" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cnn_146581309815.png" group-title="🅾🆃🅷🅴🆁"  tvg-chno="",CNN
-https://livecdn.fptplay.net/sdb/cnn_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="BBC Earth HD" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_148379672898.jpg" group-title="🅾🆃🅷🅴🆁" tvg-chno="109",BBC Earth HD
-https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="bbcworldnews" tvg-name="BBC_World_News" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-news_156325644439.png" group-title="🅾🆃🅷🅴🆁"  tvg-chno="",BBC World News
-https://livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="bbclifestyle" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_148379742953.jpg" group-title="🅾🆃🅷🅴🆁" tvg-chno="110",BBC Lifestyle 
-https://vips-livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist_b500000.m3u8
-#https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="bloomberg" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bloomberg_146581277148.png" group-title="🅾🆃🅷🅴🆁" tvg-chno="113",Bloomberg
-https://livecdn.fptplay.net/sdb/bloomberg_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="abcaustralia" tvg-name="Australia_Plus" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_australia-plus_153051623532.png" group-title="🅾🆃🅷🅴🆁"  tvg-chno="",Australia Plus
-https://livecdn.fptplay.net/sdb/australiaplus_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="discoveryhd" tvg-name="Discovery_Channel" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery_157259072379.png" group-title="🅾🆃🅷🅴🆁"  tvg-chno="",Discovery HD
-https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1  tvg-id="discoveryasiahd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery-asia_152332466749.png" group-title="🅾🆃🅷🅴🆁" tvg-chno="112",Discovery Asia HD
-https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="animalhd" tvg-name="Animal_Planet" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_animal-planet_156335404347.jpg" group-title="🅾🆃🅷🅴🆁"  tvg-chno="",Animal Planet HD
-https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="tlchd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_travel-living_156455581568.jpg" group-title="🅾🆃🅷🅴🆁" tvg-chno="114",Travel & Living HD
-https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="youtv"  tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_youtv_162952854632.jpg" group-title="🅾🆃🅷🅴🆁" tvg-chno="114",YouTV 
-https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="mtv" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_mtv_162952660009.jpg" group-title="🅼🆄🆂🅸🅲" tvg-chno="114",MTV HD
-https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="sbscnbchd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cnbc_162952697893.jpg" group-title="🅾🆃🅷🅴🆁" tvg-chno="114",CNBC 
-https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="🅾🆃🅷🅴🆁" tvg-id="     " tvg-logo="https://www.displaydaily.com/images/Logos/D-F/dmax-hd.png", DMAX
-
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vmx43Cc/CONtv-Logo.jpg" group-title="🅺🅸🅳🆂",CONTV ANIME FHD
-https://contvanime-localnow.cinedigm.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.cocoro.tv/channels/co/channel-banner.png" group-title="🅺🅸🅳🆂",Cocoro FHD
-https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwnS0EuBx_GfSVb3UlL_CKZxmxmtxNOXCMhQeCPM8gEceQrhqzSW3Qb0FbTGjIX7LD-fo&usqp=CAU" group-title="🅺🅸🅳🆂",Lego TV
-https://legochannel-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKAodqdGxRoBeslhDN17sdHnWw6GL0MUIkrY6iU93MYqcFNNuZbPF3955xiHTm1h4wozo&usqp=CAU" group-title="🅺🅸🅳🆂",Happy Kids
-https://futuretoday-happykids-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5da0c85bd2c9c10009370984&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=836&terminate=false&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yQ2T6wT/naruto-4eb4d771aae0d.jpg" group-title="🅺🅸🅳🆂",NaRuTo HD 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5da0c85bd2c9c10009370984&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=836&terminate=false&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="https://as.com/meristation/imagenes/2021/05/11/noticias/1620730378_165552_1620730455_sumario_normal.jpg" group-title="🅺🅸🅳🆂",Anime Clasico
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c7d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id=" " tvg-logo="https://corporate.pluto.tv/wp-content/uploads/2017/03/AnimeAllDay_blog_facebook_2-960x502.jpg" group-title="🅺🅸🅳🆂",Anime All Day
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed52a62fa750007733239/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ytimg.com/vi/XPtOB6ok9H8/maxresdefault.jpg" group-title="🅺🅸🅳🆂",Anime All Ages
-
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/xSZVCHw/CHN43-FB-535.jpg" group-title="🅺🅸🅳🆂",Disney Channel +1
-http://xcchui2.mrnova.online/live/60779_.m3u8
-#EXTINF:-1 tvg-id="disney"  group-title="🅺🅸🅳🆂" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/c/c0/844e8969b50080cb05f4d62acc5cbecc.jpg/revision/latest?cb=20171118134405", Disney International FHD
-https://feed.play.mv/live/10005200/IegKU9vXWg/1.m3u8
-#EXTINF:-1 tvg-id="disney"  group-title="🅺🅸🅳🆂" tvg-logo="https://www.kindpng.com/picc/m/727-7279287_tv-ident-for-russua-disney-channel-disney-channel.png", Disney HD
-https://qlobbidev.s.llnwi.net:443/bpk-tv/DISNEYCHANNEL/hls/DISNEYCHANNEL-audio_128052_und=128000-video=1900000.m3u8
-#EXTINF:-1 tvg-id="disneyjunior"    group-title="🅺🅸🅳🆂"  tvg-logo="https://i.ibb.co/gSBw6w6/dnj.png", Disney Junior HD
-https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYJUNIOR/hls/DISNEYJUNIOR-audio_129224_spa=128000-video=2900000.m3u8
-#EXTINF:-1 tvg-id="disneyjunior" group-title="🅺🅸🅳🆂" tvg-logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/76ed5aac-a25d-45cd-8116-4a82405a14f3", Disney XD HD
-#https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYXD/hls/DISNEYXD-audio_129324_und=128000-video=2900000.m3u8
-#http://stream.tvtap.live:8081/live/disneyxd.stream/playlist.m3u8
-https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYXD/hls/DISNEYXD-audio_129324_und=128000-video=2900000.m3u8?Token=TVLink
-
-#EXTINF:-1 tvg-id="disneyjunior" group-title="🅺🅸🅳🆂" tvg-logo="https://i.ytimg.com/vi/2DK2OYQmSB4/maxresdefault.jpg", Disney XD Marathon HD
-#http://stream.tvtap.live:8081/live/disneyxd.stream/playlist.m3u8
-http://stream.tvtap.live:8081/live/disneyxd.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUW5ahpjJWQjf4vKXt9UbytaJ9oslZTdKEQw&usqp=CAU" group-title="🅺🅸🅳🆂",+Kids
-http://xcchui2.mrnova.online/live/60810_.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://play-lh.googleusercontent.com/hR1BERKoBclEbEjNP0dT7UyDLT2kWjjfVaKOwKT7gjjnz9T7FmqeYBiGB6qG-v-7nisz=w1024-h500" group-title="🅺🅸🅳🆂",Yes Movie Kids
-http://xcchui2.mrnova.online/live/60297.m3u8
-
-https://qlobbidev.s.llnwi.net:443/bpk-tv/DISNEYXD/hls/DISNEYXD-audio_129324_und=128000-video=2900000.m3u8?Token=TVLink
-#EXTINF:-1 tvg-id="disneyjunior" group-title="🅺🅸🅳🆂" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRsE4vQzM5JZrUmrzwXyf_YIFTji7y8Yug2EPO3WxMcC3OFNgnAGLnghvJReBuhaf7U6A&usqp=CAU", TRT COCUK HD
-https://tv-trtcocuk.live.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="disneyjunior" group-title="🅺🅸🅳🆂" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTshkE3YMWGxlBTgWFVQrzmufv1LK7JsSa_zi1jVnXouMCIUUBWbfYRQPS1SX7APzzRGmk&usqp=CAU", JUNIOR HD
-http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id=" " tvg-logo="https://lh3.googleusercontent.com/YT2O35P2rzInw8nJu4DS360GsxrzJypasmYqhqzmnx1CBV-s9l7Cz1Rgr76T6bGvv6I=w512" group-title="🅺🅸🅳🆂",Anime TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.cdn.turner.com/adultswim/big/video/aqua-teen-hunger-force-marathon/marathonStream_athf10.jpg" group-title="🅺🅸🅳🆂",Adult Swim Aqua Teen Hunger Force
-https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://media.cdn.adultswim.com/uploads/20210610/thumbnails/2_21610117352-GlobalRAM_16x9_30_Dated.png" group-title="🅺🅸🅳🆂",Adult Swim Rick and Morty
-https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/03/00-robot-chicken-590x378.jpg" group-title="🅺🅸🅳🆂",Adult Swim Robot Chicken
-https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.gameplaymechanix.com/wp-content/uploads/2020/07/SAMURAI-JACK-VIDEO-GAME.jpg" group-title="🅺🅸🅳🆂",Adult Swim Samurai Jack
-https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ytimg.com/vi/48hmx022IJc/maxresdefault.jpg" group-title="🅺🅸🅳🆂",Adult Swim The Venture Bros
-https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
-#EXTINF:-1 tvg-id="disneyjunior" group-title="🅺🅸🅳🆂" tvg-logo="https://i.ibb.co/kSfwfBk/152-1523942-pbs-kids-channel-logotype-hd-png-download.png", PBS KIDS HD
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-logo="https://reviewnao.com/wp-content/uploads/2021/08/anime-phep-thuat-2.jpg" group-title="🅺🅸🅳🆂",Anime Action
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 tvg-id=" " tvg-logo="https://vnn-imgs-a1.vgcloud.vn/special-img.vnncdn.net/2021/4/20/9/thumbfb-kpop-600x400.jpg" group-title="🅺🅸🅳🆂",KPOP 
-https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ytimg.com/vi/hewioIU4a64/maxresdefault.jpg" group-title="🅺🅸🅳🆂",Animal Kids
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id=" " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr57V5uAz8mYXlMk0GXZW51cHWVNVFKH-zKA&usqp=CAU" group-title="🅺🅸🅳🆂",Dora TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e43c344b54fe800093552f4/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e43c344b54fe800093552f4&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=c28ebf75-0713-11eb-97af-0242ac110002&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="disneyjunior" group-title="🅺🅸🅳🆂" tvg-logo="https://previews.123rf.com/images/yuyuyi/yuyuyi1208/yuyuyi120800185/14990499-four-cute-little-kids.jpg", KIDS HD
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=61&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5f170d64b898490041b4938f&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=0&us_privacy=1---
-#EXTINF:-1 tvg-id="disneyjunior" group-title="🅺🅸🅳🆂" tvg-logo="https://dthorder.com/wp-content/uploads/channel/kids/nick-hd+.gif", NICK HD+
-https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
-#EXTINF:-1 tvg-id="disneyjunior" group-title="🅺🅸🅳🆂" tvg-logo="https://i.ibb.co/VWthhcm/unnamed-1.jpg", 3ABN KIDS HD
-#https://moiptvhls-i.akamaihd.net/hls/live/652318-b/secure/SQs/chunklist.m3u8
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:-1 tvg-id="disneyjunior" group-title="🅺🅸🅳🆂" tvg-logo="https://i.ibb.co/BtnwZ0w/images-1.jpg", TOONEE HD
-https://edge6a.v2h-cdn.com/appt7/Toonee.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="disneyjunior" group-title="🅺🅸🅳🆂" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRilu4c8fv-yQ1ZMTIj2zzNijaENnhJ0iVrW5cXhjpfq9DqTjjWKslXDzS8dR42cpzJ2xk&usqp=CAU", NASA
-
-#EXTINF:-1 tvg-id="disneyjunior" group-title="🅺🅸🅳🆂" tvg-logo="https://1.bp.blogspot.com/-6ZmwyXEauTc/YJMzooOrqeI/AAAAAAAAFes/EM-Z5a84fzU0OABxkHD2hvuzsXPPRN4NgCLcBGAsYHQ/s1920/Red%2BBull%2BTV%252C%2BNBA%2BTV%252C%2BMLB%2BNetwork%252C%2BNFL%2BNetwork%252C%2BNFL%2BRedzone%252C%2BWatch%2BUSA%2BTV%2Blive%2Bonline.jpg", Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id="English Club" tvg-name="English Club TV" tvg-logo="https://image.roku.com/developer_channels/prod/d0211c2d8b2f22758d15853c98db949c1411240d5918424c2f36f1e19b8760ca.png" group-title="🅺🅸🅳🆂", Học Tiếng Anh HD
-
-http://193.33.88.172/english_club_tv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="English Club" tvg-name="English Club TV" tvg-logo="https://image.roku.com/developer_channels/prod/d0211c2d8b2f22758d15853c98db949c1411240d5918424c2f36f1e19b8760ca.png" group-title="🅺🅸🅳🆂", English Club TV AceStream
-
-#http://127.0.0.1:6878/ace/manifest.m3u8?id=aeeed53fb95d563b95b16ad7ebfff20a4d48571a&.mkv&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id=" " tvg-logo="" group-title="🅺🅸🅳🆂",
-#EXTINF:-1 tvg-id=" " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFL_sKGqoeHmfJ-qO8tvjGR4ARI4xUnQuFl8CfzO0_cHL0Vrpn80ojMIgoAn2hr6CeoYo&usqp=CAU" group-title="🅼🆄🆂🅸🅲",Vevo Pop Europe FHD
-https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFL_sKGqoeHmfJ-qO8tvjGR4ARI4xUnQuFl8CfzO0_cHL0Vrpn80ojMIgoAn2hr6CeoYo&usqp=CAU" group-title="🅼🆄🆂🅸🅲",Vevo R&B
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id=" " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFL_sKGqoeHmfJ-qO8tvjGR4ARI4xUnQuFl8CfzO0_cHL0Vrpn80ojMIgoAn2hr6CeoYo&usqp=CAU" group-title="🅼🆄🆂🅸🅲",Vevo Country
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-
-#EXTINF:-1 tvg-id=" " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFL_sKGqoeHmfJ-qO8tvjGR4ARI4xUnQuFl8CfzO0_cHL0Vrpn80ojMIgoAn2hr6CeoYo&usqp=CAU" group-title="🅼🆄🆂🅸🅲",Vevo Reggeaton & Trap
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-
-
-
-#EXTINF:-1 tvg-id="boxmovie1" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/6_60ce711b.jpg" group-title="🅾🆃🅷🅴🆁",Box Movie
-#https://e4.endpoint.cdn.sctvonline.vn/secure/ /sd1/index.m3u8?md5=x2aVyF4ODqD23-IuA2MPlg&expires=2556118740|Referer=http://sctvonline.vn/
-https://e4.endpoint.cdn.sctvonline.vn/hls/ /sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="inthebox" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/7_e79f9654.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" group-title="🅼🆄🆂🅸🅲",The Box Music Televison
-#https://e4.endpoint.cdn.sctvonline.vn/secure/boxmusic/index.m3u8?md5=pR0QrkdxGuSRmHtTGT028A&expires=2556118740|Referer=http://sctvonline.vn/
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="🅾🆃🅷🅴🆁" tvg-logo="https://i.ibb.co/M7pxv8c/ta-i-xu-ng.jpg", Hollywood Classic
-https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-id="woman"  tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/62_82eb1789.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" group-title="🅾🆃🅷🅴🆁" tvg-chno="105",Woman HD
-#https://e4.endpoint.cdn.sctvonline.vn/secure/woman/index.m3u8?md5=nYLg_liiJXqdWAdw4D1wzw&expires=2556118740|Referer=http://sctvonline.vn/
-https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-id="planetearthhd" tvg-logo="https://i.ibb.co/yBV6zTY/logoplayout-planetearth-3d-plain.jpg" group-title="🅾🆃🅷🅴🆁" tvg-chno="102",Planet Earth HD
-#https://e4.endpoint.cdn.sctvonline.vn/secure/planetearth/index.m3u8?md5=6LuAM_K-RRvmm5Vq-zMaZw&expires=2556118740|Referer=http://sctvonline.vn/
-https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="happykids"   tvg-logo="https://i.ibb.co/ymTnSZQ/happykids.jpg" group-title="🅺🅸🅳🆂" tvg-chno="101",Happy Kids HD
-https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#https://e4.endpoint.cdn.sctvonline.vn/secure/happykid/index.m3u8?md5=RoppAcvPHs-dCJI1jRxvgQ&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-id="drfithd"  tvg-logo="https://i.ibb.co/0qh3zNs/drfit.jpg" group-title="🅾🆃🅷🅴🆁" tvg-chno="104",Dr.Fit HD
-https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#https://e4.endpoint.cdn.sctvonline.vn/secure/drfit/index.m3u8?md5=E5-H8WhpHUBeWV3JzaD5ng&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/10_4606159a.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" group-title="🅾🆃🅷🅴🆁",CNA HD
-#https://e4.endpoint.cdn.sctvonline.vn/secure/cna/sd1/index.m3u8?md5=PbxpiXxwvnbhM64ms3PoWw&expires=2556118740|Referer=http://sctvonline.vn/
-https://e4.endpoint.cdn.sctvonline.vn/hls/cna/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id=" " tvg-logo="https://lh3.googleusercontent.com/-WJtvINvLbXI/W1mCchJ_iiI/AAAAAAAAELw/9jm-ZtkJrXM3qDx_2qgO62MIuCP4cdS1gCLcBGAs/h250/icon_channel_national-geographic-hd_152238635227.png" group-title="🅾🆃🅷🅴🆁",National Geographic HD
-https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
-#http://xcchui2.mrnova.online/live/60720_.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-logo="https://i.ibb.co/CwLD1vf/img.png" group-title="🅾🆃🅷🅴🆁",History HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="disney"  group-title="🅾🆃🅷🅴🆁" tvg-logo="https://d3atsf3fgek2rw.cloudfront.net/content/uploads/2012/01/Discovery-MAX-logo.jpg", Discovery DMAX HD
-http://xcchui2.mrnova.online/live/60682_.m3u8
-#EXTINF:-1 group-title="🅾🆃🅷🅴🆁" tvg-id="angiang" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMaUmzru1dwSv4I22Odd72ZtwWU7M0dUPIEUG9he5oMPlrEl9euI7Wg62bDvjBLDoDON8&usqp=CAU",  Arirang Korea HD
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-
-#EXTINF:-1 tvg-id=" " tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704499.jpeg" group-title="🅾🆃🅷🅴🆁",Fox Action HD
-http://xcchui2.mrnova.online/live/60140_.m3u8
-#EXTINF:-1 tvg-id=" " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYvvaX4vgCNmd6Fnow82iII-LWsFQvoL3FdYiNzkth2iqACYctgLVcQdmhJzoxnT4eKc&usqp=CAU" group-title="🅾🆃🅷🅴🆁",Yes Movie Action HD
-#http://xcchui2.mrnova.online/live/60295_.m3u8
-
-#EXTINF:-1  tvg-id="hitshd"  tvg-logo="https://www.rapidtvnews.com/images/tvN_logo_-_29_April_2017_1.jpg" group-title="🅾🆃🅷🅴🆁" ",TVN HD
-https://tvn-seezn.pip.cjenm.com:443/tvn/_definst_/s5/chunklist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI4OTQ5OTUsInBhdGgiOiIvdHZuL19kZWZpbnN0Xy9zNSIsInVubyI6IjE2MjI4OTQ2OTU0MzQzNTU1NSIsImlhdCI6MTYyMjg5NDY5NX0.uTI9slMSRoAbTQ0zGWoEWepnugD9iC-LumyD4dUMJSE&solsessionid=ced1d8fb89dd32a90e5dfa3d317ca053
-#EXTINF:-1 group-title="🅾🆃🅷🅴🆁" tvg-id="       " tvg-logo="https://i.ibb.co/Tqs8M02/unnamed.jpg",  TVN MOVIES HD
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309066023
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JR0Gk7M/Canal-Film-HD-Logo-Alternativ.jpg", group-title="🅾🆃🅷🅴🆁",FILM HOT HD
-
-#EXTINF:-1 group-title="🅾🆃🅷🅴🆁" tvg-id="       " tvg-logo="https://i.ibb.co/vHcspp0/FILMBOX-HD.jpg",BOO HD
-http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:-1  tvg-id="hitshd"  tvg-logo="https://1.bp.blogspot.com/-Lpyykrgsurg/V4XS0ayqIbI/AAAAAAAAEtY/ZdrRD_O9GtMCsuE3JTA1CBdbbFoffuDWACLcB/s640/Mnet-p1.png" group-title="🅾🆃🅷🅴🆁" ",MNET HD
-https://mnet-seezn.pip.cjenm.com/mnet/_definst_/s5/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI3MzQ4OTIsInBhdGgiOiIvbW5ldC9fZGVmaW5zdF8vczUiLCJ1bm8iOiIxNjIyNzM0NTkyMjg5MTg3ODYiLCJpYXQiOjE2MjI3MzQ1OTJ9.Qy-cUxDm2zSdJFdFLYV_k6HB9wN_MPGm6ntVtOJASbY
-#EXTINF:-1  tvg-id="hitshd"  tvg-logo="https://i.ibb.co/LR9XrZb/Colors-tv2017.jpg" group-title="🅾🆃🅷🅴🆁" ",COLORS FHD
-https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
-#EXTINF:-1  tvg-id="hitshd"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg9nWE8XgCkl5e4z3zk-4RueePycVoDloF9eMGFFuYt96q4AH39ktCPcLDKnJTTcSc8lQ&usqp=CAU" group-title="🅾🆃🅷🅴🆁" ",TVB FHD
-https://edge6a.v2h-cdn.com:443/RE_HD/smil:TVB_HD_ABR.smil/chunklist_w1547988809_b3564000_sltha.m3u8
-#EXTINF:-1  tvg-id="hitshd"  tvg-logo="http://www.homa-tv.com/logo/cinefilmhd.png" group-title="🅾🆃🅷🅴🆁" ",FILM HD
-https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
-#EXTINF:-1 tvg-id="hbofamily" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/Gkz1wML/HBOFamily-us.jpg" group-title="🅾🆃🅷🅴🆁",HBO Family East FHD
-https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="hbohits" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/fQ6rQY6/HBOHits-id.jpg" group-title="🅾🆃🅷🅴🆁",HBO Hits FHD
-https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
-#EXTINF:-1 tvg-id="hbosignature" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/d6FqdxS/HBOSignature-us.jpg" group-title="🅾🆃🅷🅴🆁",HBO Signature East FHD
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-#EXTINF:-1  tvg-id="hitshd"  tvg-logo="https://hanoicab.net/mediacenter/media/images/1133/news/ava/s250_250/phim-starmovie.png" group-title="🅾🆃🅷🅴🆁" ",STAR MOVIES HD
-http://221.120.204.4:80/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-id="hitshd"  tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_starworld.jpg" group-title="🅾🆃🅷🅴🆁" ",STAR WORLD HD
-http://221.120.204.4/star-world-LOCKLE/index.m3u8
-#EXTINF:-1  tvg-id="hitshd"  tvg-logo="https://i.ibb.co/7Y9tY7d/hollywood.png" group-title="🅾🆃🅷🅴🆁" ",HOLLYWOOD HD
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 tvg-id="waku" tvg-logo="http://likeetv.com/uploads/tv_image/and-flix-hd.jpg" group-title="🅾🆃🅷🅴🆁",&Flix HD
-https://f8e7y4c6.ssl.hwcdn.net:443/andflixhd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="waku" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="🅾🆃🅷🅴🆁",&Privé HD
-https://f8e7y4c6.ssl.hwcdn.net:443/andprivehd/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-id="foxmovieshd" tvg-logo="https://lh3.googleusercontent.com/-Qkp_SUgbcuw/W1mAuWY3SgI/AAAAAAAAELE/rruHFb_wIg4HyiLpvoZYOkMt4pR1p9ymACLcBGAs/h250/icon_channel_fox-movies_152238665778.png" group-title="🅾🆃🅷🅴🆁",FOX MOVIES HD
-#https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-http://xcchui2.mrnova.online/live/60139_.m3u8
-#EXTINF:-1  tvg-id="foxfamilymovieshd" tvg-logo="https://static.megavie.live/media/foxfamilymovieshd.jpg" group-title="🅾🆃🅷🅴🆁",FOX FAMILY MOVIES HD
-
-#EXTINF:-1  tvg-id="foxhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-hd_152238767588.png" group-title="🅾🆃🅷🅴🆁",FOX HD
-
-#EXTINF:-1  tvg-id="foxlifehd" tvg-logo="https://lh3.googleusercontent.com/-fmippsPXbWM/W1mAPOBNBAI/AAAAAAAAEK8/movc4Mxn3ZADUClQ9-TNI-Tk2-z_kbS-QCLcBGAs/h350/icon_channel_fox-life_152238683897.png" group-title="🅾🆃🅷🅴🆁",FOX LIFE HD
-#https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
-http://xcchui2.mrnova.online/live/60136_.m3u8
-
-
-
-#EXTINF:-1 group-title="🅾🆃🅷🅴🆁" tvg-id="boxhits" tvg-logo="https://i.ibb.co/hCjHHvV/thumb-1626834087channel3-Box-Hit.jpg", BOX HITS 
-http://103.195.239.138/boxhits/mpegts
-
-
-
-
-#EXTINF:-1 tvg-id="waku" tvg-logo="https://www.wakuwakujapan.com/fileadmin/res/ogp.png" group-title="🅾🆃🅷🅴🆁",Waku Waku Japan FHD
-
-#EXTINF:-1 tvg-id="waku" tvg-logo="https://i.ibb.co/MfFbyHG/Stingray-Karaoke-Hor.jpg" group-title="🅼🆄🆂🅸🅲",STINGRAY KARAOKE
-https://stirr.ott-channels.stingray.com/karaoke/master_1280x720_2000kbps.m3u8?=xemtvnhanh
-#EXTINF:-1 tvg-id="waku" tvg-logo="https://ws.shoutcast.com/images/contacts/2/2d3f/2d3f02f4-effc-42dc-8141-1cc55152a131/radios/486d1d77-2e18-4fc8-b6c9-53ce65283747/486d1d77-2e18-4fc8-b6c9-53ce65283747.png" group-title="🅼🆄🆂🅸🅲",KPOP MUSIC
-https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
-#EXTINF:-1 tvg-id="waku" tvg-logo="https://i.ibb.co/WKbbbNc/1580029625.jpg" group-title="🅼🆄🆂🅸🅲",VIVA RUSSIA MUSIC
-https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
-#EXTINF:-1  tvg-id="hitshd"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAlR6wAMd8IR-xuenZhEZXm3sEVNTN1o7OtsiKvFkFTvt_RhXpwYHEmqI8Xt6UvW539WU&usqp=CAU" group-title="🅼🆄🆂🅸🅲" ",MTV HITS
-
-
-#EXTINF:-1  tvg-id="hitshd"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHQSX-bzGNuH3ijGizL1KnDPsyJ6bQG4WgK7Wtn0pz2zdc1elT0nRxJrK9pedpNCFC7Lk&usqp=CAU" group-title="🅼🆄🆂🅸🅲" ,CMT MUSIC
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-#EXTINF:-1  tvg-id="hitshd"  tvg-logo="https://www.nettvpro.live/uploads/allimg/21/1-2104151IH40-L.jpg" group-title="🅼🆄🆂🅸🅲" ,MTV BIGGEST POP
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-
-#EXTINF:-1  tvg-id="hitshd"  tvg-logo="https://i.ibb.co/0C3MDDM/hdmuc.png" group-title="🅼🆄🆂🅸🅲" ,MUSIC HD
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
-
-#EXTINF:-1  tvg-id="hgtv"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/HGTV_Logo.jpg/640px-HGTV_Logo.jpg" group-title="🅾🆃🅷🅴🆁" ,HGTV FHD
-https://feed.play.mv/live/10005200/Wvl02Co4S1/1.m3u8
-#EXTINF:-1  tvg-id="channelvhd"  tvg-logo="https://lh3.googleusercontent.com/-VMD7bQzHp0o/W2c9_eiYTCI/AAAAAAAAEQI/fkIrJO8TpW0C4hGBdAkk9ZRIA8gqLHxxQCLcBGAs/h300/icon_channel_channel-v-hd_152238787152.png" group-title="🅾🆃🅷🅴🆁" ",[V]HD
-#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="fashionhd" tvg-logo="https://i.ibb.co/GcXvQSd/bd.png" group-title="🅾🆃🅷🅴🆁",FTV Body HD
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/274eb05b-7332-4a40-831a-cee9b0878469/0.m3u8
-#EXTINF:-1  tvg-id="fashionhd"  tvg-logo="https://image.winudf.com/v2/image1/Y29tLnIzc3R1ZGlvLmZhc2NoYW5lbF9zY3JlZW5fM18xNTU1MDAxNTE3XzA4Nw/screen-3.jpg?fakeurl=1&type=.jpg" group-title="🅾🆃🅷🅴🆁" ,FTV Midnight Haute HD   
-https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1  tvg-id="fashionhd"  tvg-logo="https://i.ibb.co/Ctkc3Hx/FASHION.png" group-title="🅾🆃🅷🅴🆁" ,FTV UHD 
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="Loupe4K.us" tvg-country="US" tvg-language="" tvg-logo="https://i.ibb.co/9TyJWq7/Loupe.jpg" group-title="🅾🆃🅷🅴🆁",Loupe UHD
-http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="bloomberg" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bloomberg_146581277148.png" group-title="🅾🆃🅷🅴🆁" tvg-chno="113",Bloomberg UHD
-https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="boxmovie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2gmzmNrtRrH6W28MkjCJEEvWYSqcar3ewMmrpn_E1vpH23oSZm_u4b48_kFqGYd7k1k&usqp=CAU" group-title="🅾🆃🅷🅴🆁",Love4K Nature 
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-id="boxmovie" tvg-logo="https://cdn6.f-cdn.com/contestentries/1754102/33559757/5e7b8d68ee0a8_thumbCard.jpg" group-title="🅾🆃🅷🅴🆁",Relax Music UHD
-#https://youtu.be/_nFMeEv0bk8
-#EXTINF:-1 tvg-id="boxmovie" tvg-logo="https://i.ytimg.com/vi/qFZKK7K52uQ/maxresdefault.jpg" group-title="🅾🆃🅷🅴🆁",Beautiful Relax Music UHD
-#https://youtu.be/HMnatoiMdjA
-#EXTINF:-1 tvg-id="boxmovie" tvg-logo="https://i.ytimg.com/vi/4MmZzCqA9oI/maxresdefault.jpg" group-title="🅾🆃🅷🅴🆁",Popular Songs FHD
-#https://youtu.be/eHmrhzvWPek
-
-#EXTINF:-1 group-title="🅾🆃🅷🅴🆁" tvg-logo="https://howtoconfigure.org/wp-content/uploads/2020/05/Come-vedere-Eleven-Sports-gratis.jpg",Eleven Sports UHD
-https://hoaivnpt-livefootball.000webhostapp.com/d_iptv.php?id=101897
-#EXTINF:-1 group-title="🅾🆃🅷🅴🆁" tvg-logo="https://www.edcom.fr/img/actus/Les-cha-nes-RMC-Sport-seulement-9-sur-SFR-1581591780-large.jpg",RMC1 UHD
-https://hoaivnpt-livefootball.000webhostapp.com/d_iptv.php?id=19551
--------------
-
-
-
-
-
-
--------------
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="Sky Sport 1 HD"  tvg-logo="https://i.ibb.co/yFKCHtc/Sky-Sport-1-HD-PRIMARY-RGB.jpg" ,SKY SPORT 1 FHD 5.1 - Cài Thêm App ACESTREAM Để Xem
-http://127.0.0.1:6878/ace/getstream?id=c76c9dc85bd5beb93a6f9839af9f09a2b15c7fa6
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="Sky Sport 2 HD" tvg-logo="https://senderlogos.images.dvbdata.com/302x190_w/697.png",SKY SPORT 2 DE FHD 5.1
-http://127.0.0.1:6878/ace/getstream?id=46c49e9e01749e13c7fd87300924bfa5dad66d11
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="Sky Sport Austria 1 HD" tvg-logo="https://i.ibb.co/yyBRKyN/katkotati-logo-chaine-skyausrtia1hd.jpg" ,SKY SPORT AUSTRIA 1 FHD 5.1
-http://127.0.0.1:6878/ace/getstream?id=f1eb19e0733f7be5546a09f2aa89ff6b4d986767
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/JRq4bjp/Sky-Bundesliga-1.jpg" ,SKY SPORT BUNDESLIGA 1 FHD TA
-http://127.0.0.1:6878/ace/getstream?id=363e0c3c0273cbf0d8f6d8d2e8768544ecd0f370
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="МАТЧ! HD" tvg-logo="https://i.ibb.co/BzncktV/unnamed-2.jpg" ,Маtch ТV FHD TA
-http://127.0.0.1:6878/ace/getstream?id=c7f93329f3790d54491fe2c4146b59d0514d38b8
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="МАТЧ ПРЕМЬЕР HD" tvg-logo="https://tennismania.ru/wp-content/uploads/2020/08/match-premer-skolko-stoit_8.jpg",Матч! Премьер FHD
-http://127.0.0.1:6878/ace/getstream?id=513dabafb21429d6eff9813022b2d41f49dc5bdb
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT80ehXNTYsXAxyitSa6ZMYZ_tR9H8gALh9El0l0-nh4vat0wpQY8dp-eAbVm28bEauZI4&usqp=CAU" ,MOVISTAR LALIGA FHD TA
-http://127.0.0.1:6878/ace/getstream?id=9007568a18c3a3c89fb9e745206a60554c114917
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://www.futbol-futbol.com/wp-content/uploads/2021/08/movistar-liga-de-campeones-operadores-y-guia-de-canales-para-ver.jpg" ,MOVISTAR LIGA DE CAMPEONES FHD TA
-http://127.0.0.1:6878/ace/getstream?id=b0aa6d932aaf12452c91ed5fb07642c6a31394d7
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="DAZN 1 HD" tvg-logo="https://i.ibb.co/9sbHL6b/lr28p31602818839.png" ,DAZN 1 FHD
-http://127.0.0.1:6878/ace/getstream?id=9c2a1031d972cb21e51d8ff6cf95a38d98b8f87e
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="DAZN 2 HD" tvg-logo="https://i.ibb.co/ZRjM30J/dazn-2.jpg" ,DAZN 2 FHD
-http://127.0.0.1:6878/ace/getstream?id=699ed54b2a140b7d75ba06ecbe8c578e079b8db2
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRevQghF1UC96tu5GYeSZQz20C8CUId0EtnsFNm00ZZKUldniNW&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",DAZN 1TBN FHD
-http://127.0.0.1:6878/ace/getstream?id=f8cfb9c8c8f95a8e8848fd15f1b9be1e87d33284 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRevQghF1UC96tu5GYeSZQz20C8CUId0EtnsFNm00ZZKUldniNW&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",DAZN 2TBN FHD
-http://127.0.0.1:6878/ace/getstream?id=fd547d738c9e35b790171019d7465c32f30dc753 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GsQc1f2/unnamed-1.jpg" group-title="🆂🅿🅾🆁🆃🆂",Маtch Arena FHD
-http://127.0.0.1:6878/ace/getstream?id=d13cbb3eb8a843cbdacc9068fc76f98c2351af50
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GsQc1f2/unnamed-1.jpg" group-title="🆂🅿🅾🆁🆃🆂",Маtch Game FHD
-http://127.0.0.1:6878/ace/getstream?id=24428411815bc1dd069c0cbd377e55bee53c55a7
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="МАТЧ! Футбол 1 (HD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfSX5e36865f4HQWBFrVS_2tcaTectTL16xgN2kQI1_gsFx3IsSdmVnYNo1Mtv7S6leVs&usqp=CAU" ,Маtch Futbol 1 FHD
-http://127.0.0.1:6878/ace/getstream?id=dd2c44a9723af914d02b31bc7bb9e5e3d3ad9743
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="МАТЧ! Футбол 2 (HD)" tvg-logo="https://user.vsevnet.ru/cache/smotreshka/match-football2.png" ,Маtch Futbol 2 FHD
-http://127.0.0.1:6878/ace/getstream?id=cfc79383b29505fe88c4875e4997cbfce1a5196f
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="МАТЧ! Футбол 3 (HD)" tvg-logo="https://user.vsevnet.ru/cache/smotreshka/match-football3.png"  ,Маtch Futbol 3 FHD
-http://127.0.0.1:6878/ace/getstream?id=b120fc00572b516163aaa624f0d1ba095af58f9a
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/J5yXP9m/bong389-6.png" ,Live90P Server 1
-#http://127.0.0.1:6878/ace/getstream?id=4875a901a224a950421c9cb2d60456bd820d6199
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/J5yXP9m/bong389-6.png" ,Live90P Server 2
-#http://127.0.0.1:6878/ace/getstream?id=4bc1bfdcc400164b7c8afd2644108dd3311e85eb
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/J5yXP9m/bong389-6.png" ,Live90P Server 3
-#http://127.0.0.1:6878/ace/getstream?id=e9ed9d82db929115c74f295e6c9503f47987635a
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/J5yXP9m/bong389-6.png" ,Live90P Server 4
-#http://127.0.0.1:6878/ace/getstream?id=9d9e6ed068f0a5058b9e803a78fa765d8a8c3ffa
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/J5yXP9m/bong389-6.png" ,Live90P Server 5
-#http://127.0.0.1:6878/ace/getstream?id=fbda842baf2646ce181a6560cfa3fe453c11991f
-#EXTINF:-1 tvg-id="ksport2" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpc_163302406622.jpg" group-title="🆂🅿🅾🆁🆃🆂" tvg-chno="998",K+SPORT2 HD REAL
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" logo="https://i.ibb.co/d2YWz0t/hqth.jpg",CVACE CHANNEL
-http://127.0.0.1:6878/ace/getstream?id=3ff6dd67f269f7445f9132ca69888049c9b576f4
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂"  tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-f1-vector-logo.png" ,SKY SPORT F1 DE FHD 5.1
-http://127.0.0.1:6878/ace/getstream?id=bf1c1973456c16eeb0dc6a2ce897b65c8f721706
-
-
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="Sport TV 1 HD" tvg-logo="https://i.ibb.co/6w4GTfh/qpyqws1470407526.jpg",SPORT TV1 FHD
-http://127.0.0.1:6878/ace/getstream?id=d027b34465b1ed60b45819ac6bf12070dab3d1ee
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="Sport TV 2 HD" tvg-logo="https://i.ibb.co/fMLFLCy/qypxry1470408244.jpg",SPORT TV2 FHD
-http://127.0.0.1:6878/ace/getstream?id=6fae558689a5045dd02409711fa3b9bd2a8678dd
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="Sport TV 3 HD" tvg-logo="https://i.ibb.co/LP62q7N/qypxry1470408244.jpg",SPORT TV3 FHD
-http://127.0.0.1:6878/ace/getstream?id=7abfed961d37a0aae62097ac6ac5678dbeeef8bd
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="Sport TV 4 HD" tvg-logo="https://i.ibb.co/YbWzpP8/qypxry1470408244.jpg",SPORT TV4 FHD
-http://127.0.0.1:6878/ace/getstream?id=e09a642d1b3d7ff62fe6838b84b007f5f2f90475
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="Sky Sport 1 HD" tvg-logo="https://www.thesportsdb.com/images/media/logo/Sky_Sport_1_HD.png",SKY SPORT 1 DE FHD 5.1
-
-
-
-
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/qNcThQ4/setanta-sports-ukraine.jpg",SETANTA SPORT UA FHD
-http://127.0.0.1:6878/ace/getstream?id=4b7b97e7e516eb1e2375c8d026c2ea5aac0d4d26
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/wYvktHQ/bigthumb-227-9675029428.jpg",SETANTA SPORT+ UA FHD
-http://127.0.0.1:6878/ace/getstream?id=eb44e7bd39a1c6bb73a0ab62baa8ae7965d0811f
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="Setanta Sports 1" tvg-logo="https://i.ibb.co/SPXdkkm/se.jpg",SETANTA SPORT 1 FHD
-http://127.0.0.1:6878/ace/getstream?id=1512fb17842a64e7cecbc5a987ebf44e00a0b0ad
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="Setanta Sports 2" tvg-logo="https://i.ibb.co/3fVr9d8/o-h-0-438-setanta-sports-2-2.jpg",SETANTA SPORT 2 FHD
-http://127.0.0.1:6878/ace/getstream?id=4dfb535a08ce667b16d09b090717d93842a384a4
-
-#
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://www.coolstreaming.us/img/ch/image24452744424.jpg",DIGI SPORT 1 HU FHD
-http://127.0.0.1:6878/ace/getstream?id=467b8af5fb3f51bb46632ddc9e5f4bc3fd6bc399
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/9Vj7wPn/unnamed-2.jpg",DIGI SPORT 2 HU FHD
-http://127.0.0.1:6878/ace/getstream?id=96301308f598c999279e27d035cfd78d4ec46546
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/BCJpmy2/ta-i-xu-ng-1.jpg",DIGI SPORT 3 HU FHD
-http://127.0.0.1:6878/ace/getstream?id=5ad076155333ea8f362bf66300333b64a3151e26
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://www.coolstreaming.us/img/ch/image24452744424.jpg" ,DIGI SPORT 1 RO FHD
-http://127.0.0.1:6878/ace/getstream?id=c575315526a0b6a1a75bd6ebe548b62b7dc50a82
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/9Vj7wPn/unnamed-2.jpg" ,DIGI SPORT 2 RO FHD
-http://127.0.0.1:6878/ace/getstream?id=3b3d22e60aa72aff95a92e7667878f63ba898a50
-
-
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://www.dsl.cz/files/images/article/15887.jpg" ,PREMIER SPORT CZ FHD 50FPS
-http://127.0.0.1:6878/ace/getstream?id=b0b2db107f292437139d735b469df71c8a553f46
-
-
-
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/HH51ZcV/Movistar-Deportes-Logo-wine.jpg",MOVISTAR DEPORTES FHD
-http://127.0.0.1:6878/ace/getstream?id=57fb15b9403695ef6eaa79699a7ea5c374e4fa2f
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/WHcNN3N/Movistar-Golf-Logo-wine.jpg" ,MOVISTAR GOLF FHD
-http://127.0.0.1:6878/ace/getstream?id=b93ec5d6adee1c59192ae9811b0d5df66adc29af
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/WFYCqPN/Toros-movistar.jpg" ,MOVISTAR TOROS FHD
-http://127.0.0.1:6878/ace/getstream?id=a6b3bd14c848f9b9573cbc52e08dca6b76059349
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://p.kindpng.com/picc/s/47-477972_movistar-deportes-1-logo-hd-png-download.png" ,MOVISTAR FORMULA 1 FHD
-http://127.0.0.1:6878/ace/getstream?id=00e0f5e4990c1177512fed77430a9c3f945b4893
-
-
-
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Novasports21.jpg" group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="",Nova Sports 1 FHD 5.1
-http://127.0.0.1:6878/ace/getstream?id=d8c921e06e63427c97f423a4cdd63af05cc04f6e
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Novasports21.jpg" group-title="🆂🅿🅾🆁🆃🆂",Nova Sports 2 FHD 5.1
-http://127.0.0.1:6878/ace/getstream?id=ecb8eaa3013119be6707cc16540ad455db33a512
-
-
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://www.satellitetveurope.co.uk/IMAGES/eurobird9a/hello%20+%20UPC/sport1.jpg" ,SPORT 1 HU FHD
-http://127.0.0.1:6878/ace/getstream?id=fd32c653e3e913a1ee8d654dafbfab9d86a464eb
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://www.nicepng.com/png/detail/337-3372181_amway-center-orlando-fl-nba-and-wnba-logo.png",NBA TV FHD
-http://127.0.0.1:6878/ace/getstream?id=eb24f16f4c86976dfa96b928789bd2db4dcf15b7
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5xcUqqLZCAIWLKrEpkiWDnQ1Rhpaqyj8CR1d-MPDB4QW1L5KGBoc31_iO_WxZcQCEX4&usqp=CAU" ,PIMPLETV 1 HD 50FPS
-http://127.0.0.1:6878/ace/getstream?id=11b6aa16e978a409504b9e3e9c3b29c56f392bdf
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5xcUqqLZCAIWLKrEpkiWDnQ1Rhpaqyj8CR1d-MPDB4QW1L5KGBoc31_iO_WxZcQCEX4&usqp=CAU" ,PIMPLETV 2 HD 50FPS
-http://127.0.0.1:6878/ace/getstream?id=955bc653f090c238b8d933b41d8a66fee1bf7893
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5xcUqqLZCAIWLKrEpkiWDnQ1Rhpaqyj8CR1d-MPDB4QW1L5KGBoc31_iO_WxZcQCEX4&usqp=CAU" ,PIMPLETV 3 HD 50FPS
-http://127.0.0.1:6878/ace/getstream?id=d2a36e305458e200c2a4952317fc33e38bd80187
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5xcUqqLZCAIWLKrEpkiWDnQ1Rhpaqyj8CR1d-MPDB4QW1L5KGBoc31_iO_WxZcQCEX4&usqp=CAU" ,PIMPLETV 4 FHD 50FPS EPL
-http://127.0.0.1:6878/ace/getstream?id=722f34a71cedbeb96bda429dc0f4d0e015995ea4
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5xcUqqLZCAIWLKrEpkiWDnQ1Rhpaqyj8CR1d-MPDB4QW1L5KGBoc31_iO_WxZcQCEX4&usqp=CAU" ,PIMPLETV 5 FHD 50FPS EPL
-http://127.0.0.1:6878/ace/getstream?id=ceaa2553d401c294166b8e498f5aaa1ef1aee8e4
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="Canal+ sport" tvg-logo="https://2.bp.blogspot.com/-jWrIfydwZQE/WUID4BxEjqI/AAAAAAAAEAE/goqjK1SLa5ESrlZuIERD97u11S8w_fbegCLcBGAs/s1600/CANAL_-_SPORT_HD_2013.jpg",CANAL+ SPORT FHD
-http://127.0.0.1:6878/ace/getstream?id=2f5e9dde4e1a3a5c1c65933fdfd240d182d299ac
-
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="🆂🅿🅾🆁🆃🆂",Eleven Sports 1HD
-http://127.0.0.1:6878/ace/getstream?id=5f7ba5cddba6d44435b75e28649b00393bbf2dc4
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="🆂🅿🅾🆁🆃🆂",Eleven Sports 2HD
-http://127.0.0.1:6878/ace/getstream?id=572880fd38805efc2d5c9fa72a72669a00583808
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="🆂🅿🅾🆁🆃🆂",Eleven Sports 3HD
-http://127.0.0.1:6878/ace/getstream?id=d7f042a816012aaa4898b1f56107a2c13c7df323
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="🆂🅿🅾🆁🆃🆂",Eleven Sports 4HD
-http://127.0.0.1:6878/ace/getstream?id=0e86afa4f4aea82b00e527967eec9dc938ded8c1
-
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://i.ibb.co/ckNWqPj/infokanal-30-arenasport1.jpg" group-title="🆂🅿🅾🆁🆃🆂",Arena Sports 1HD
-http://127.0.0.1:6878/ace/getstream?id=e4c0aff2c98cc3bd09f678325ae09d8d560f2705 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSreVFxzor6iSGiwc17m8V-72FBZsLY5RoCsc1stE1EqZ9N99llZd9Y7swiVUcrAOdSkk&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Arena Sports 2HD
-http://127.0.0.1:6878/ace/getstream?id=776f3e403abc35022765ed0ea19ec38856ca291e
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgdBi7C3rDtD8Tt52lt6eri8mQRT0SbwKRKTIcMHHZ4ems2ui5RBS_gRoB9nmHLFQIHYE&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",TRT Sports HD
-http://127.0.0.1:6878/ace/getstream?id=d739c631ec0a21590a1d46d77c867f3c91f298f3 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://i.ibb.co/8jSMZn6/D-sport-logo-26504724-DD-seeklogo-com.png" group-title="🆂🅿🅾🆁🆃🆂",Sports 1HD
-http://127.0.0.1:6878/ace/getstream?id=80c56f650421f104181a46a5d318584f3d9b64eb
-
-
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ikzaJ0Hfvp7-qfb0fXfUBsksuMtjepDFNA&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Posat News HD
-http://127.0.0.1:6878/ace/getstream?id=22bf9f925c167ff4e2541d42fe1edf0d5668a8de 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ikzaJ0Hfvp7-qfb0fXfUBsksuMtjepDFNA&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Posat Sports HD
-http://127.0.0.1:6878/ace/getstream?id=12989443272b25e8b402aa609aa436a89536933c
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ikzaJ0Hfvp7-qfb0fXfUBsksuMtjepDFNA&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Posat Premium 1HD
-http://127.0.0.1:6878/ace/getstream?id=0e4f19a8e1d43880c228dfd522aa31cf726c7296 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ikzaJ0Hfvp7-qfb0fXfUBsksuMtjepDFNA&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Posat Premium 2HD
-http://127.0.0.1:6878/ace/getstream?id=a5f1c6f87283e5c3f54f927d3825105961770112
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-523904158.jpg" group-title="🆂🅿🅾🆁🆃🆂",Sports 1 HD
-http://127.0.0.1:6878/ace/getstream?id=1885e9bcdda920291dd640c32ac3b137dc7a7b95
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-523904158.jpg" group-title="🆂🅿🅾🆁🆃🆂",Sports 2 HD
-http://127.0.0.1:6878/ace/getstream?id=d342fee30beccf53f2563f5b81e4e909e57202bf
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-523904158.jpg" group-title="🆂🅿🅾🆁🆃🆂",Sports 3 FHD
-http://127.0.0.1:6878/ace/getstream?id=9ba8774882f10a28c986644f0aaff997e3fb3ca9
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-523904158.jpg" group-title="🆂🅿🅾🆁🆃🆂",Sports 4 FHD
-http://127.0.0.1:6878/ace/getstream?id=5bfbc045dab5bf27841aeae8b1d1f1a111dd1799
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://i.ibb.co/4FyPDz4/images.png" group-title="🆂🅿🅾🆁🆃🆂",5 Sports HD
-http://127.0.0.1:6878/ace/getstream?id=f25827c9d236a4ec19cd49394e495928dd7813da 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="🆂🅿🅾🆁🆃🆂",FightBox FHD
-http://127.0.0.1:6878/ace/getstream?id=ddfa71c1c676887fb06b1e732e2bbe37900fda72 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://i.ibb.co/LN5kp18/Untitled.jpg" group-title="🆂🅿🅾🆁🆃🆂",FightKlub FHD
-http://127.0.0.1:6878/ace/getstream?id=176afce7bf6860f1b848cbd29152bf20e79ad206 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://kokfights.com/wp-content/uploads/2018/05/kok_logo.jpg" group-title="🆂🅿🅾🆁🆃🆂",Kok Fight HD
-http://127.0.0.1:6878/ace/getstream?id=88e4baadd0ef49935380c79f8e57dc0eaf277199 
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/gray/VSUJ6T2YJNJNPCWN65IR3X6F3A.png", UFC - Boxing FHD
-http://127.0.0.1:6878/ace/getstream?id=585860881c0e1f4b9921a2d2db1f43f1bd45134f 
-
-
-
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://i.ibb.co/CV0Nfkp/images-1.png" group-title="🆂🅿🅾🆁🆃🆂",Giggo Racing FHD 
-http://127.0.0.1:6878/ace/getstream?id=e37b2a23b3484d9533035a60f08453acdc69599c 
-
-
-
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://sports.cbsimg.net/images/video/player/CBSSportsLogo_640x360.jpg" group-title="🆂🅿🅾🆁🆃🆂",CBS Sports HQ FHD
-http://127.0.0.1:6878/ace/getstream?id=7c213bb9895a185c7ce136d56e38ebb81f2931db 
-
-
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYrRVcFTWcoV3I2HfgpEE7DOmPc0H18JAg8NqlD82fnJk8VFcj4bpNOQFH4kRnlEDYA9Y&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Euro Sports 1FR FHD 5.1
-http://127.0.0.1:6878/ace/getstream?id=4ea1ad94480378835e26e71e4a65baddd2c9f7ea 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://s3-eu-west-1.amazonaws.com/discovery-assets-production/app/uploads/2019/04/03130856/logo-eurosport-2-hd.jpg" group-title="🆂🅿🅾🆁🆃🆂",Euro Sports 2FR FHD 5.1
-http://127.0.0.1:6878/ace/getstream?id=c0bf131adf43db2e86211a8c663380ffc7f5b0c3 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://layout.eurosport.com/i/v8/logo/logo-esp-og-new.jpg" group-title="🆂🅿🅾🆁🆃🆂",Euro Sports 1DE FHD
-http://127.0.0.1:6878/ace/getstream?id=d72051505d01ab6993ce9304973b8e6885e24229 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://layout.eurosport.com/i/v8/logo/logo-esp-og-new.jpg" group-title="🆂🅿🅾🆁🆃🆂",Euro Sports 2DE FHD
-http://127.0.0.1:6878/ace/getstream?id=0a8d397b734c653bcd810ea9e2742b986bcbec2f 
-
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Tv2_sport.png" group-title="🆂🅿🅾🆁🆃🆂", TV2 Sports FHD 50FPS
-http://127.0.0.1:6878/ace/getstream?id=7e9e9c33c9e9697cc1f221b16172dce2a6a27331 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGqYFHdpY88qBirGejvFqPdKQQvuwXOKgrEw&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂", TV3 Sports Live FHD
-http://127.0.0.1:6878/ace/getstream?id=024526a5659202ec13b077f21ea8e6044d6d7df2 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGqYFHdpY88qBirGejvFqPdKQQvuwXOKgrEw&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂", TV3 Sports 2 FHD
-http://127.0.0.1:6878/ace/getstream?id=8172d547d41ff1b8b30ec3f39601ca96269c6d43 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeuEBfDys420yd-ULRhdaIM9emdap-IbK8PQ&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Ziggo golf 
-#http://127.0.0.1:6878/ace/getstream?id=0077bcf5759d69e7413bd3bcce79d8a5e19bb181 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeuEBfDys420yd-ULRhdaIM9emdap-IbK8PQ&usqp=CAU" group-title="🆂🅿🅾🆁🆃🆂",Ziggo Sleet FHD
-http://127.0.0.1:6878/ace/getstream?id=38d77beafa2a8763686f76576480e9f73d9ae3e6 
-
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://media.thehypemagazine.com/wp-content/uploads/2018/04/ESPN-Logo2-660x400.jpg" group-title="🆂🅿🅾🆁🆃🆂",ESPN 1US HD 60FPS
-http://127.0.0.1:6878/ace/getstream?id=8e2292385bfe2459c884736bb91017b49e37f566 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://media.thehypemagazine.com/wp-content/uploads/2018/04/ESPN-Logo2-660x400.jpg" group-title="🆂🅿🅾🆁🆃🆂",ESPN 2US HD 60FPS
-http://127.0.0.1:6878/ace/getstream?id=a1ad5222a6e18d96d38e72173606b086a79278f5
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://media.thehypemagazine.com/wp-content/uploads/2018/04/ESPN-Logo2-660x400.jpg" group-title="🆂🅿🅾🆁🆃🆂",ESPN 1NL FHD
-http://127.0.0.1:6878/ace/getstream?id=11b05292665d1d265ced6b6fe4ed986ed68b9af8 
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.FR.bein" tvg-logo="https://media.thehypemagazine.com/wp-content/uploads/2018/04/ESPN-Logo2-660x400.jpg" group-title="🆂🅿🅾🆁🆃🆂",ESPN 2NL FHD
-http://127.0.0.1:6878/ace/getstream?id=da778ac51e5cf7accee2d2b5400d0642e01001b0
-#EXTINF:-1  group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://media.thehypemagazine.com/wp-content/uploads/2018/04/ESPN-Logo2-660x400.jpg" ,ESPN 4NL FHD
-http://127.0.0.1:6878/ace/getstream?id=4609bc307d35ec87799a168b80978139e7e8018c
-
-
-#EXTINF:0  group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/BTjwtR9/326af919-99e8-4d30-b941-0bd579e253df.jpg", MATCH! Arena HD 
-http://127.0.0.1:6878/ace/getstream?id=d13cbb3eb8a843cbdacc9068fc76f98c2351af50
-#EXTINF:0  group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://cdn.nba.com/manage/2012/12/44_Gift_Guide_24_NBA2K-1-1.jpg",MATCH! NBA HD 
-http://127.0.0.1:6878/ace/getstream?id=24428411815bc1dd069c0cbd377e55bee53c55a7
-#EXTINF:0  group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/1f9rCsn/e20790.jpg",O2TV FOTBAL HD 50FPS
-http://127.0.0.1:6878/ace/getstream?id=22fc94c6dfe03a3356e6acc0665a385196b4be10
-#EXTINF:0  group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/ch3B6xQ/fq0lii1590153399.jpg",O2TV SPORT HD 50FPS
-http://127.0.0.1:6878/ace/getstream?id=ce43864557dbe14a063f99d899a2017302bdcddb
-#EXTINF:0  group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/rGFpXkV/e20791.jpg",O2TV TENIS HD 50FPS
-http://127.0.0.1:6878/ace/getstream?id=bccfad59f867eedf187e4c9422eb8313a415a7c9
-#EXTINF:0  group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/p0ZwskN/ORF-Sport-plus.jpg",ORF+ SPORT HD 50FPS 5.1
-http://127.0.0.1:6878/ace/getstream?id=8b943c6e740c4943b783ba89702b9e2d1d6f7e6b
-#EXTINF:0  group-title="🆂🅿🅾🆁🆃🆂" 
-tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfUGvqU9mhZXwlv9wh3wfgZFZf0kSDiDM_c5Ay4FZ0I77bFGrjAxkVlJFoBIV0w8kZFps&usqp=CAU",ORANGE SPORT HD 
-http://127.0.0.1:6878/ace/getstream?id=a1e1a479f5bf0d7e9ac85cc706e8ff2c9c24ef2f
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1  group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0U2V5GUZIelNVBapQucPaAN4qJ0UOe3WCq__Pzd3quXZcXel94lZJKq0kpmsSzmzopcs&usqp=CAU"
-,SPORT 1 FHD DE
-http://127.0.0.1:6878/ace/getstream?id=d65a3f2c09ca1b697e4e3c522d5473b3376f869e
-#EXTINF:-1  group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0U2V5GUZIelNVBapQucPaAN4qJ0UOe3WCq__Pzd3quXZcXel94lZJKq0kpmsSzmzopcs&usqp=CAU"
-,SPORT 1 FHD UA
-http://127.0.0.1:6878/ace/getstream?id=a2053661fd7e8fc4a81b58c4ab0c03374072bebe
-
-#EXTINF:-1  group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://i.ibb.co/m4DGSXM/ta-i-xu-ng.png"
-,SPORTKLUB HD
-http://127.0.0.1:6878/ace/getstream?id=ce3a6a70f382eafa061f5b56d9e015609db94480
-
-#EXTINF:-1  group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://www.chillglobal.com/images/channels/viasat-sport-1432658408.jpg"
-,VIASAT SPORTHD 50FPS
-http://127.0.0.1:6878/ace/getstream?id=82d1f00fb722aa8404f26c7e754c0d5fd82f5217
-
-#EXTINF:-1  group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuzmQMrgIKStBS3v44tQoxZwGTR6D63rDDlA5MAkKvWb1EEs4eob6A6RKIXpS3xviPa6k&usqp=CAU"
-,CT SPORT HD
-http://127.0.0.1:6878/ace/getstream?id=3d4ecd8d4c122c207da7970e7a00970f5c2e910c
-#EXTINF:-1  group-title="🆂🅿🅾🆁🆃🆂" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS29NTRlHMBKaB4fQtELgVmqhH8NU-SQpKlsWO_RzYvOkTzkHNkUCnwuAiisIiRu1nqeFw&usqp=CAU"
-,VAMOS FHD
-http://127.0.0.1:6878/ace/getstream?id=f9ab54a6e9180c0d58eceb165146eb0994d055b8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-----------------
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/1121px-WWE_Logo.svg.png",WWE - Đấu Vật Giải Trí Thế Giới
-http://198.16.106.62:8278/streams/d/wwe_zero/playlist.m3u8
-
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Astro_Arena_Logo_2.jpg/revision/latest?cb=20190123083011.png", ASTRO ARENA
-http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂"  tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png", ASTRO CRIKET 
-http://server.sibfungold.info:8080/gaicu84/Vv094Vv094wOlsHwOlsH/52853
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="AstroSuperSport.my" tvg-logo="https://i.postimg.cc/3Wn5ZtDD/SUPERSPORTS.png", ASTRO SUPER SPORTS 
-http://server.sibfungold.info:8080/gaicu84/Vv094Vv094wOlsHwOlsH/52859
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id=" " tvg-logo="https://overseer.blackboxsys.net/images/png/my-asp2.png", ASTRO SUPER SPORTS 2
-http://server.sibfungold.info:8080/gaicu84/Vv094Vv094wOlsHwOlsH/52860
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id=" " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Astro_SuperSport_3.png/revision/latest?cb=20200924173711.png", ASTRO SUPER SPORTS 3
-http://server.sibfungold.info:8080/gaicu84/Vv094Vv094wOlsHwOlsH/52861
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id=" " tvg-logo="https://www.thesportsdb.com/images/media/logo/dtqhym1572377012.png", ASTRO SUPER SPORTS 4
-http://server.sibfungold.info:8080/gaicu84/Vv094Vv094wOlsHwOlsH/52862
-
-
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://user-images.githubusercontent.com/90315720/135419229-05beb7a0-6a34-4553-9557-c5b4189b0014.png", SKY NFL
-http://hd.skyhd-iptv.com:2095/stalkerenglnd/fBT1ZE9Zxu/879
-
-
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6402.1514269404.png", SKY RACING 1
-https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6411.1514269377.png", SKY RACING 2
-https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://www.frimleygreenclub.co.uk/wp-content/uploads/2020/01/sky-racing-1-1024x146.jpg", SKY RACING
-https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
-
-
-
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-variety-1.png",  SS VARIETY 1
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52871.m3u8
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-variety-2.png",  SS VARIETY 2
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52872.m3u8
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-variety-4.png",  SS VARIETY 4
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52873.m3u8
-
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-premier-league.png",SS PRIMER 
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52299.m3u8
-
-
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/lig.png",SS LALIGA
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52294.m3u8
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-action.png", SS ACTION 
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52300.m3u8
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-psl.png",  SS PSL
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52291.m3u8
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://user-images.githubusercontent.com/90315720/135414415-5c8bbb68-9660-488a-9229-6d127c9ddade.png",  SS GRANDSTAND
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52290.m3u8
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/maximo-1.png",  SS MÁSIMO 1
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/53021.m3u8
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-rugby.png",  SS RUGBY
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52301.m3u8
-#http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52296.m3u8
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-golf.png",  SS GOLF 
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52298.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/SK_1.png/revision/latest?cb=20171216060443.png", SK 1
-http://stream.tvtap.live:8081/live/klub1.stream/chunks.m3u8
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/SK_2.png/revision/latest?cb=20171216060512.png", SK 2
-http://stream.tvtap.live:8081/live/klub2.stream/chunks.m3u8
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/SK_3.png/revision/latest?cb=20171216065411.png", SK 3
-http://stream.tvtap.live:8081/live/klub3.stream/chunks.m3u8
-
-
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://www.setanta.kg/en/assets/components/mor/General/img/setantaeurasia/setanta-logo-sm.png", SETANTA SPORTS 1 FHD
-https://95-213-224-181.livesports24.online/rusetantaeurasia.m3u8
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="http://standart.tv/storage/channels/842/default/oUSKbnmUAIjOqJlawbJ7.png", SENTANTA SPORTS 2 FHD
-https://95-213-224-181.livesports24.online/setantaplusru.m3u8
-
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://user-images.githubusercontent.com/90315720/134815014-d6dc81bb-42eb-4b02-8ad7-056c214a7f54.png", SONY TEN 1 FHD 
-https://feed.play.mv/live/10005200/fMLTkj4OJC/1.m3u8
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://i.postimg.cc/3kLTJn3T/SPORTTV1.png", SPORT TV1
-https://cloudserver.server-cdn-streaming.com/live-player/19/live.m3u8
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://i.postimg.cc/ykHBfDLw/SPORTTV2.png", SPORT TV2
-https://cloudserver.server-cdn-streaming.com/live-player/20/live.m3u8
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://i.postimg.cc/1ggLRSW-G/SPORTTV3.png", SPORT TV3
-https://cloudserver.server-cdn-streaming.com/live-player/21/live.m3u8
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://img2.pngio.com/sony-ten2-sdon-white-realvu-sony-ten-2-png-1024_819.png", SONY TEN 2 FHD
-https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://user-images.githubusercontent.com/90315720/134815114-9e28e285-c190-4ac9-8713-0749efa2972d.png", SONY TEN 3 FHD 
-https://feed.play.mv/live/10005200/RG2fKR6d9p/1.m3u8
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png", SONY SIX FHD 
-https://feed.play.mv/live/10005200/hr55LTnS53/1.m3u8
-
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://i.postimg.cc/ZWsGhnLY/SPORTTV4.png", SPORT TV4
-#https://cloudserver.server-cdn-streaming.com/live-player/22/live.m3u8
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://i.postimg.cc/ZW5GgppD/SPORTTV5.png", SPORT TV5
-#https://cloudserver.server-cdn-streaming.com/live-player/23/live.m3u8
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂"  tvg-id="   " tvg-logo="https://blog.lcotiv.com/i/81895977092.png", BAHRAIN SPORTS 
-http://185.105.4.106:1935/live/Bahrain+Sports/chunklist_w1566557580.m3u8
-
-
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂"  tvg-id="   " tvg-logo="https://www.edgesports.eu/assets/images/layout/logo@2x.png", EDGE FHD
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-edgesportxumo/CDN/1920x1080_5640800/chunklist.m3u8
-
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂"  tvg-id="   " tvg-logo="https://trends365.net/images/article/2020/09/11/e0ad14b5-2e58-3cfa-9e79-dab020536be5.jpg", RUGBY TV
-https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png", TRUE SPORTS HD
-https://cloudserver.server-cdn-streaming.com/live-player/07/live.m3u8
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="http://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_original.png", TRUE SPORTS HD2
-https://cloudserver.server-cdn-streaming.com/live-player/08/live.m3u8
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="http://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_original.png", TRUE SPORTS HD3
-https://cloudserver.server-cdn-streaming.com/live-player/09/live.m3u8
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="http://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_original.png", TRUE SPORTS HD4
-https://cloudserver.server-cdn-streaming.com/live-player/10/live.m3u8
-
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://user-images.githubusercontent.com/90315720/134891041-956b074f-f29c-4509-a6d5-6cff33efa5ad.png", TNT SPORTS 1
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://user-images.githubusercontent.com/90315720/134891242-9c6fdc4b-e75f-4605-8a79-bc87630bf388.png", TNT SPORTS 2
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂"  tvg-id="   " tvg-logo="https://user-images.githubusercontent.com/90315720/134891277-433cd258-1ada-4717-be22-cbefaa1e0cb8.png", TNT SPORTS 3
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://user-images.githubusercontent.com/90315720/134891406-b415414e-db9d-4895-b6da-02028de24345.png", TNT SPORTS 4
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂"  tvg-id="   " tvg-logo="https://user-images.githubusercontent.com/90315720/134891432-0fe3556b-2109-4d65-b21c-ca645599555f.png", TNT SPORTS 5
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-
-
-
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂"  tvg-id="   " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png", ESPN 2 
-#http://rec2.distv.net/live/damaris/123456/143.m3u8
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂"  tvg-id="   " tvg-logo="https://www.nowonline.com.br/img/channels/espn_extra.png", ESPN EXTRA 
-http://rec2.distv.net/live/damaris/123456/145.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-512.png", ONE GOLF 
-http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://rogersarena.com/wp-content/uploads/2016/06/ufc-logo-small.png", UFC - Boxing
-#https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-
-
-
-
-
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FITE_TV.svg/1280px-FITE_TV.svg.png", FITE
-https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://i.postimg.cc/w7pKTfpP/Pics-Art-04-19-11-39-21.png", CCTV5 FHD
-http://1.183.73.177/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://i.postimg.cc/Y4VZc8Rd/Pics-Art-04-19-11-37-50.png", CCTV5+ 
-https://itv.olevod.tv:5443/live/cctv5phdbupt.m3u8
-
-
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="http://runnel.ir/ax/logo/adsports-1.png", AD SPORTS 1 FHD
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="http://runnel.ir/ax/logo/adsports-2.png", AD SPORTS 2 FHD
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Ad_sport_3.png", AD SPORTS 3 FHD
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/TVP_Sport.png", TVP SPORTS 
-http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8
-
-
-
-
-
-#EXTINF:0 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png", RTM SPORTS 
-http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://www.france-galop.com/sites/default/files/v01_racing_tv_logo_rtv_blue_rgb.png", DUBAI RACING FHD
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="        ", 
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport1.png", DUBAI SPORTS 1 FHD
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://user-images.githubusercontent.com/90315720/134878069-8bc2632f-4687-4044-862a-1e7172b5225d.png", DUBAI SPORTS 2 FHD
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport3.png", DUBAI SPORTS 3 FHD
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="   " tvg-logo="https://www.thesportsdb.com/images/media/logo/Ziggo_Sport_Racing.png", ZIGGO RACING FHD
-#http://stream.tvtap.live:8081/live/nl-ziggoracing.stream/chunks.m3u8
-#EXTINF:-1 group-title="🆂🅿🅾🆁🆃🆂" tvg-id="Ziggo Sport Select HD NL" tvg-logo="https://www.thesportsdb.com/images/media/logo/Ziggo_Sport_Select.png", ZIGGO SELECT 
-#http://31.220.41.88:8081/live/nl-ziggoselect.stream/chunks.m3u8
-
-
--------------------
-
-
-
-#EXTINF:-1 tvg-id="kcine" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_k1_163302405026.jpg" group-title="🅾🆃🅷🅴🆁"  tvg-chno="996",K+CINE HD
-#https://loop-hottest-1.roku.wurl.com/manifest/playlist.m3u8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=2CBEACE4255DC38A&Ticket=DE51370D2FE3804E
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#https://kpluslive.akamaized.net/live/prod_kplus_1_hd_fps/prod_kplus_1_hd_fps.isml/prod_kplus_1_hd_fps.mpd
-
-#https://22live00.akamaized.net:443/RMC_Sports_1/tracks-v1a1/mono.m3u8?token=JP9cDQmTumfCYDAB1GhETAZf3praOFYNmR%2BnveVZ3GgOUZKCkHEq%2Bw0vzgVHDh48ii7TpTeyk75tQHLRJyc1tNBKUn2hJlTJmadUzm47j0d7XRSnJpbnGF1%2BgUOKINtrqN5tzFTtw7lsoVxtXOf8jUhpJrmQDSwrd2xBc5ePUx366kpr8DeDFL5w24DEciNlol4TVI%2BDqbsgKZwrIcFYcsnw%3D%3D
-#EXTINF:-1 tvg-id="klife"  logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kns_163302405572.jpg"  group-title="🅾🆃🅷🅴🆁" tvg-chno="997",K+LIFE HD
-#https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live.m3u8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000016&SessionId=2CBEACE4255DC38A&Ticket=DE51370D2FE3804E
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#https://kpluslive.akamaized.net/live/prod_kplus_ns_hd_fps/prod_kplus_ns_hd_fps.isml/prod_kplus_ns_hd_fps.mpd
-
-#EXTINF:-1 tvg-id="ksport1" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpm_163302406207.jpg" group-title="🅾🆃🅷🅴🆁" tvg-chno="999",K+SPORT1 HD
-#http://93.157.62.180:80/KSport1/tracks-v1a1/mono.m3u8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000017&SessionId=2CBEACE4255DC38A&Ticket=DE51370D2FE3804E
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#https://vstv.broadpeak-aas.com/live/prod_kplus_pm_hd_fps/prod_kplus_pm_hd_fps.isml/prod_kplus_pm_hd_fps.mpd
-
-#EXTINF:-1 tvg-id="ksport2" logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kpc_163302406622.jpg" group-title="🅾🆃🅷🅴🆁" tvg-chno="998",K+SPORT2 HD
-#http://93.157.62.180:80/KSport2/tracks-v1a1/mono.m3u8	
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=2CBEACE4255DC38A&Ticket=DE51370D2FE3804E
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#https://kpluslive.akamaized.net/live/prod_kplus_pc_hd_fps/prod_kplus_pc_hd_fps.isml/prod_kplus_pc_hd_fps.mpd
-
-#EXTINF:-1 tvg-id="kkidshd" tvg-name="K+ Kids" tvg-logo="https://i.ibb.co/fQrGXrg/images.jpg" group-title="🅾🆃🅷🅴🆁",K+KIDS HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000223&SessionId=2CBEACE4255DC38A&Ticket=DE51370D2FE3804E
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#https://kpluslive.akamaized.net/live/prod_kplus_kids_hd_fps/prod_kplus_kids_hd_fps.isml/prod_kplus_kids_hd_fps.mpd
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#PHAPTX5
-
-
-
-
-#PHÁP GROUP ANDROID BOX TX5 LÀM VÌ ĐAM MÊ CHIA SẺ ^^!
 #EXTINF:-1 tvg-id="phim" tvg-logo="https://eatnmore.com/wp-content/uploads/2020/10/oldboy-272503.jpg" group-title="🅾🅳🅳 🅼🅾🆅🅸🅴",Báo Thù - Phim Lẻ
 https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210311/oldboy_2003_korea_tm/b65543efcb6afcdc3977d05b4ac8e24e_1080p.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="phim" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/cong-to-vien-hung-bao-ctvhb363901.jpg" group-title="🅾🅳🅳 🅼🅾🆅🅸🅴",Công Tố Viên Hung Bạo - Phim Lẻ
@@ -4223,6 +2714,995 @@ https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/fightformyway_
 #EXTINF:-1 tvg-id="phim" tvg-logo="https://phimcapba.vn/wp-content/uploads/2020/02/di%E1%BB%85n-vi%C3%AAn-phim-thanh-xu%C3%A2n-v%E1%BA%ADt-v%C3%A3.jpg" group-title="Thanh Xuân Vật Vã",Thanh Xuân Vật Vã - Tập 26 - Phim Bộ
 https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/fightformyway-s-26/84ab4f432c89d7551646b649167beff0-1080p.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="phim" tvg-logo="https://phimcapba.vn/wp-content/uploads/2020/02/di%E1%BB%85n-vi%C3%AAn-phim-thanh-xu%C3%A2n-v%E1%BA%ADt-v%C3%A3.jpg" group-title="Thanh Xuân Vật Vã",Thanh Xuân Vật Vã - Tập 27 - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/fightformyway_s_27/3f28297107af55c3929fb3d7efd37763_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://phimcapba.vn/wp-content/uploads/2020/02/di%E1%BB%85n-vi%C3%AAn-phim-thanh-xu%C3%A2n-v%E1%BA%ADt-v%C3%A3.jpg" group-title="Thanh Xuân Vật Vã",Thanh Xuân Vật Vã - Tập 28 - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/fightformyway-s-28/b53a3103a46c0012d32bd9f2d3491a1f-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://phimcapba.vn/wp-content/uploads/2020/02/di%E1%BB%85n-vi%C3%AAn-phim-thanh-xu%C3%A2n-v%E1%BA%ADt-v%C3%A3.jpg" group-title="Thanh Xuân Vật Vã",Thanh Xuân Vật Vã - Tập 29 - Phim Bộ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/fightformyway_s_29/a72c35f2a1b6c0172f17cb7cd33aa01e_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://phimcapba.vn/wp-content/uploads/2020/02/di%E1%BB%85n-vi%C3%AAn-phim-thanh-xu%C3%A2n-v%E1%BA%ADt-v%C3%A3.jpg" group-title="Thanh Xuân Vật Vã",Thanh Xuân Vật Vã - Tập 30 - Phim Bộ
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/fightformyway_s_30/7d1fe3997a740d22bc2cba049ec3f26b_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://phimcapba.vn/wp-content/uploads/2020/02/di%E1%BB%85n-vi%C3%AAn-phim-thanh-xu%C3%A2n-v%E1%BA%ADt-v%C3%A3.jpg" group-title="Thanh Xuân Vật Vã",Thanh Xuân Vật Vã - Tập 31 - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/fightformyway-s-31/44f51d85b4fe12e5c6b8291a0328fedc-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://phimcapba.vn/wp-content/uploads/2020/02/di%E1%BB%85n-vi%C3%AAn-phim-thanh-xu%C3%A2n-v%E1%BA%ADt-v%C3%A3.jpg" group-title="Thanh Xuân Vật Vã",Thanh Xuân Vật Vã - Tập 32 - Phim Bộ
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/fightformyway_s_32/504d3eae56021699ed5b2743dcf0ff04_1080p.mp4/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://phim33.co/upload/images/2018/01/bong-ma-2012-big.jpg" group-title="Bóng Ma",Bóng Ma- Tập 1 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/bongmatap1.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://phim33.co/upload/images/2018/01/bong-ma-2012-big.jpg" group-title="Bóng Ma",Bóng Ma- Tập 2 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/bongmatap2.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://phim33.co/upload/images/2018/01/bong-ma-2012-big.jpg" group-title="Bóng Ma",Bóng Ma- Tập 3 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/bongmatap3.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://phim33.co/upload/images/2018/01/bong-ma-2012-big.jpg" group-title="Bóng Ma",Bóng Ma- Tập 4 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/bongmatap4.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://phim33.co/upload/images/2018/01/bong-ma-2012-big.jpg" group-title="Bóng Ma",Bóng Ma- Tập 5 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/bongmatap5.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://phim33.co/upload/images/2018/01/bong-ma-2012-big.jpg" group-title="Bóng Ma",Bóng Ma- Tập 6 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/bongmatap6.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://phim33.co/upload/images/2018/01/bong-ma-2012-big.jpg" group-title="Bóng Ma",Bóng Ma- Tập 7 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/bongmatap7.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://phim33.co/upload/images/2018/01/bong-ma-2012-big.jpg" group-title="Bóng Ma",Bóng Ma- Tập 8 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/bongmatap8.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://phim33.co/upload/images/2018/01/bong-ma-2012-big.jpg" group-title="Bóng Ma",Bóng Ma- Tập 9 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/bongmatap9.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://phim33.co/upload/images/2018/01/bong-ma-2012-big.jpg" group-title="Bóng Ma",Bóng Ma- Tập 10 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/bongmatap10.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://phim33.co/upload/images/2018/01/bong-ma-2012-big.jpg" group-title="Bóng Ma",Bóng Ma- Tập 11 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/bongmatap11.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://phim33.co/upload/images/2018/01/bong-ma-2012-big.jpg" group-title="Bóng Ma",Bóng Ma- Tập 12 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/bongmatap12.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://phim33.co/upload/images/2018/01/bong-ma-2012-big.jpg" group-title="Bóng Ma",Bóng Ma- Tập 13 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/bongmatap13.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://phim33.co/upload/images/2018/01/bong-ma-2012-big.jpg" group-title="Bóng Ma",Bóng Ma- Tập 14 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/bongmatap14.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://phim33.co/upload/images/2018/01/bong-ma-2012-big.jpg" group-title="Bóng Ma",Bóng Ma- Tập 15 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/bongmatap15.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://phim33.co/upload/images/2018/01/bong-ma-2012-big.jpg" group-title="Bóng Ma",Bóng Ma- Tập 16 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/bongmatap16.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://phim33.co/upload/images/2018/01/bong-ma-2012-big.jpg" group-title="Bóng Ma",Bóng Ma- Tập 17 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/bongmatap17.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://phim33.co/upload/images/2018/01/bong-ma-2012-big.jpg" group-title="Bóng Ma",Bóng Ma- Tập 18 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/bongmatap18.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://phim33.co/upload/images/2018/01/bong-ma-2012-big.jpg" group-title="Bóng Ma",Bóng Ma- Tập 19 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/bongmatap19.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://phim33.co/upload/images/2018/01/bong-ma-2012-big.jpg" group-title="Bóng Ma",Bóng Ma- Tập 20 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/bongmatap20.mp4
+
+
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/31_08_2021/93031-08-2021_09g37-49.jpg" group-title="Tình Cờ Ta Gặp Lại Nhau",Tình Cờ Ta Gặp Lại Nhau - Tập 1A - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210902/you_raise_me_up_01a_edit/d58b85f4e5d47a8855db0882000f21a3_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/31_08_2021/93031-08-2021_09g37-49.jpg" group-title="Tình Cờ Ta Gặp Lại Nhau",Tình Cờ Ta Gặp Lại Nhau - Tập 1B - Phim Bộ
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210902/you_raise_me_up_01b_edit/ce2440147db2899a968324fad64df11f_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/31_08_2021/93031-08-2021_09g37-49.jpg" group-title="Tình Cờ Ta Gặp Lại Nhau",Tình Cờ Ta Gặp Lại Nhau - Tập 2A - Phim Bộ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210902/you_raise_me_up_02a_edit/38884dbd4c0e95e9dbc24771a6e33de5_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/31_08_2021/93031-08-2021_09g37-49.jpg" group-title="Tình Cờ Ta Gặp Lại Nhau",Tình Cờ Ta Gặp Lại Nhau - Tập 2B - Phim Bộ
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210902/you_raise_me_up_02b_edit/acadf2281866d655717fe3c709c02a46_1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjM1ZGUwZWFkYWRiMmI4MDI4YWY1ZWRjNjAzNzA3MjFjIiwgInZpZGVvX2lkIjogIjYxMmQ5OGRjMjA4OWJkMDAzMjQ3MjUyNyIsICJzZXJ2ZXJfdGltZSI6IDE2MzA1NDk3NzAsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/31_08_2021/93031-08-2021_09g37-49.jpg" group-title="Tình Cờ Ta Gặp Lại Nhau",Tình Cờ Ta Gặp Lại Nhau - Tập 3A - Phim Bộ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210902/you_raise_me_up_03a_edit/c6541db1afbd4a08bb9255de6b536858_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/31_08_2021/93031-08-2021_09g37-49.jpg" group-title="Tình Cờ Ta Gặp Lại Nhau",Tình Cờ Ta Gặp Lại Nhau - Tập 3B - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210902/you_raise_me_up_03b_edit/0fe4dc318bd2b81b6259d6dd7c4fe669_1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogImJhMzU0NjJmOTU4YmVmZmY5YzU3YTFhYzQyODlkNjg0IiwgInZpZGVvX2lkIjogIjYxMmQ5OGRjMjA4OWJkMDAzMjQ3MjUyNyIsICJzZXJ2ZXJfdGltZSI6IDE2MzA1NDkyOTksICJ2YWxpZF9taW51dGVzIjogNzIwfQ
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/31_08_2021/93031-08-2021_09g37-49.jpg" group-title="Tình Cờ Ta Gặp Lại Nhau",Tình Cờ Ta Gặp Lại Nhau - Tập 4A - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210902/you_raise_me_up_04a_edit/c64cd0862f31c6c90644c79fd20eb343_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/31_08_2021/93031-08-2021_09g37-49.jpg" group-title="Tình Cờ Ta Gặp Lại Nhau",Tình Cờ Ta Gặp Lại Nhau - Tập 4B - Phim Bộ
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210902/you_raise_me_up_04b_edit/5efc3db05d57ed76e3a772a466f99439_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/31_08_2021/93031-08-2021_09g37-49.jpg" group-title="Tình Cờ Ta Gặp Lại Nhau",Tình Cờ Ta Gặp Lại Nhau - Tập 5A - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210902/you_raise_me_up_05a_edit/3be9273ef21a458f044ca33ad89d8d5d_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/31_08_2021/93031-08-2021_09g37-49.jpg" group-title="Tình Cờ Ta Gặp Lại Nhau",Tình Cờ Ta Gặp Lại Nhau - Tập 5B - Phim Bộ
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210902/you_raise_me_up_05b_edit/ddc47eae65c93e9c7fbf5b70e19fce35_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/31_08_2021/93031-08-2021_09g37-49.jpg" group-title="Tình Cờ Ta Gặp Lại Nhau",Tình Cờ Ta Gặp Lại Nhau - Tập 6A - Phim 
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210902/you_raise_me_up_06a_edit/d5b411cd7120baef928bd43153be5e68_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/31_08_2021/93031-08-2021_09g37-49.jpg" group-title="Tình Cờ Ta Gặp Lại Nhau",Tình Cờ Ta Gặp Lại Nhau - Tập 6B - Phim Bộ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210902/you_raise_me_up_06b_edit/1ec2a10309fe74e808d55d484397e79a_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/31_08_2021/93031-08-2021_09g37-49.jpg" group-title="Tình Cờ Ta Gặp Lại Nhau",Tình Cờ Ta Gặp Lại Nhau - Tập 7A - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210902/you_raise_me_up_07a_edit/cbbf011e3923edce43df120f02d5cac9_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/31_08_2021/93031-08-2021_09g37-49.jpg" group-title="Tình Cờ Ta Gặp Lại Nhau",Tình Cờ Ta Gặp Lại Nhau - Tập 7B - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210902/you_raise_me_up_07b_edit/e58faf57dfba141678106d11a564eb5e_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/31_08_2021/93031-08-2021_09g37-49.jpg" group-title="Tình Cờ Ta Gặp Lại Nhau",Tình Cờ Ta Gặp Lại Nhau - Tập 8A - Phim Bộ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210902/you_raise_me_up_08a_edit/9bf1717830b666aedfa406d03c10801e_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/31_08_2021/93031-08-2021_09g37-49.jpg" group-title="Tình Cờ Ta Gặp Lại Nhau",Tình Cờ Ta Gặp Lại Nhau - Tập 8B - Phim Bộ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210902/you_raise_me_up_08b_edit/0ee381655702dfb20c2e1f4e6247d373_1080p.mp4/chunklist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/9/13/untitled-15999645409471200891255.png" group-title="Vì Sao Đưa Anh Tới",Vì Sao Đưa Anh Tới - Tập 1 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/visaoduaanhtoitap1.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/9/13/untitled-15999645409471200891255.png" group-title="Vì Sao Đưa Anh Tới",Vì Sao Đưa Anh Tới - Tập 2 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/visaoduaanhtoitap2.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/9/13/untitled-15999645409471200891255.png" group-title="Vì Sao Đưa Anh Tới",Vì Sao Đưa Anh Tới - Tập 3 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/visaoduaanhtoitap3.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/9/13/untitled-15999645409471200891255.png" group-title="Vì Sao Đưa Anh Tới",Vì Sao Đưa Anh Tới - Tập 4 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/visaoduaanhtoitap4.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/9/13/untitled-15999645409471200891255.png" group-title="Vì Sao Đưa Anh Tới",Vì Sao Đưa Anh Tới - Tập 5 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/visaoduaanhtoitap5.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/9/13/untitled-15999645409471200891255.png" group-title="Vì Sao Đưa Anh Tới",Vì Sao Đưa Anh Tới - Tập 6 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/visaoduaanhtoitap6.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/9/13/untitled-15999645409471200891255.png" group-title="Vì Sao Đưa Anh Tới",Vì Sao Đưa Anh Tới - Tập 7 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/visaoduaanhtoitap7.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/9/13/untitled-15999645409471200891255.png" group-title="Vì Sao Đưa Anh Tới",Vì Sao Đưa Anh Tới - Tập 8 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/visaoduaanhtoitap8.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/9/13/untitled-15999645409471200891255.png" group-title="Vì Sao Đưa Anh Tới",Vì Sao Đưa Anh Tới - Tập 9 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/visaoduaanhtoitap9.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/9/13/untitled-15999645409471200891255.png" group-title="Vì Sao Đưa Anh Tới",Vì Sao Đưa Anh Tới - Tập 10 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/visaoduaanhtoitap10.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/9/13/untitled-15999645409471200891255.png" group-title="Vì Sao Đưa Anh Tới",Vì Sao Đưa Anh Tới - Tập 11 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/visaoduaanhtoitap11.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/9/13/untitled-15999645409471200891255.png" group-title="Vì Sao Đưa Anh Tới",Vì Sao Đưa Anh Tới - Tập 12 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/visaoduaanhtoitap12.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/9/13/untitled-15999645409471200891255.png" group-title="Vì Sao Đưa Anh Tới",Vì Sao Đưa Anh Tới - Tập 13 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/visaoduaanhtoitap13.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/9/13/untitled-15999645409471200891255.png" group-title="Vì Sao Đưa Anh Tới",Vì Sao Đưa Anh Tới - Tập 14 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/visaoduaanhtoitap14.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/9/13/untitled-15999645409471200891255.png" group-title="Vì Sao Đưa Anh Tới",Vì Sao Đưa Anh Tới - Tập 15 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/visaoduaanhtoitap15.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/9/13/untitled-15999645409471200891255.png" group-title="Vì Sao Đưa Anh Tới",Vì Sao Đưa Anh Tới - Tập 16 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/visaoduaanhtoitap16.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/9/13/untitled-15999645409471200891255.png" group-title="Vì Sao Đưa Anh Tới",Vì Sao Đưa Anh Tới - Tập 17 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/visaoduaanhtoitap17.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/9/13/untitled-15999645409471200891255.png" group-title="Vì Sao Đưa Anh Tới",Vì Sao Đưa Anh Tới - Tập 18 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/visaoduaanhtoitap18.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/9/13/untitled-15999645409471200891255.png" group-title="Vì Sao Đưa Anh Tới",Vì Sao Đưa Anh Tới - Tập 19 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/visaoduaanhtoitap19.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/9/13/untitled-15999645409471200891255.png" group-title="Vì Sao Đưa Anh Tới",Vì Sao Đưa Anh Tới - Tập 20 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/visaoduaanhtoitap20.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/9/13/untitled-15999645409471200891255.png" group-title="Vì Sao Đưa Anh Tới",Vì Sao Đưa Anh Tới - Tập 21 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/visaoduaanhtoitap21.mp4
+
+
+
+
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://vnn-imgs-a1.vgcloud.vn/znews-photo.zadn.vn/w660/Uploaded/mdf_rkxrxd/2020_08_27/UR.jpg" group-title="Điên Thì Có Sao",Điên Thì Có Sao - Tập 1 - Phim Bộ
+https://scontent.cdninstagram.com/v/t66.36240-6/10000000_588905485856256_8002509153188016043_n.mp4?_nc_cat=107&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQu00253Du00253D&_nc_ohc=NJyFlPHzTikAX9Urrta&rl=1500&vabr=683&_nc_ht=scontent.fsgn2-3.fna&edm=APRAPSkEAAAA&oh=a05797405c310ec5f534ac6d6c81862d&oe=61425FB5
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://vnn-imgs-a1.vgcloud.vn/znews-photo.zadn.vn/w660/Uploaded/mdf_rkxrxd/2020_08_27/UR.jpg" group-title="Điên Thì Có Sao",Điên Thì Có Sao - Tập 2 - Phim Bộ
+https://ns31.kenhvn2.com/12022020/2201-2400/2335/2.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://vnn-imgs-a1.vgcloud.vn/znews-photo.zadn.vn/w660/Uploaded/mdf_rkxrxd/2020_08_27/UR.jpg" group-title="Điên Thì Có Sao",Điên Thì Có Sao - Tập 3 - Phim Bộ
+https://scontent.cdninstagram.com/v/t66.36240-6/10000000_264454238637335_2738010924079993220_n.mp4?_nc_cat=101&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQu00253Du00253D&_nc_ohc=3JHvk_jhM-sAX_9dZdq&rl=1500&vabr=707&_nc_ht=scontent.fsgn2-4.fna&edm=APRAPSkEAAAA&oh=488108dc7c51ca9ee0cc345c48379cb6&oe=613E2733
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://vnn-imgs-a1.vgcloud.vn/znews-photo.zadn.vn/w660/Uploaded/mdf_rkxrxd/2020_08_27/UR.jpg" group-title="Điên Thì Có Sao",Điên Thì Có Sao - Tập 4 - Phim Bộ
+https://scontent.cdninstagram.com/v/t66.36240-6/10000000_525379068537109_6436794886843225693_n.mp4?_nc_cat=1&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQu00253Du00253D&_nc_ohc=yvkjt2JOiEsAX8v9qHH&rl=1500&vabr=789&_nc_ht=scontent.fsgn2-4.fna&edm=APRAPSkEAAAA&oh=dab7f93141173c236b89271273a0c92a&oe=6141BA50
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://vnn-imgs-a1.vgcloud.vn/znews-photo.zadn.vn/w660/Uploaded/mdf_rkxrxd/2020_08_27/UR.jpg" group-title="Điên Thì Có Sao",Điên Thì Có Sao - Tập 5 - Phim Bộ
+https://scontent.cdninstagram.com/v/t66.36240-6/10000000_1824721551042047_928232396310861981_n.mp4?_nc_cat=110&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQu00253Du00253D&_nc_ohc=7DrGLLmO1ZEAX9OwWaf&_nc_oc=AQnCc25z37ri4UnrjqjrXO8YJ323HmXGYXgKh8OJ-cUw1oy6wnUv77YurcZT0CRcGzE&rl=1500&vabr=508&_nc_ht=scontent.fsgn2-6.fna&oh=db03bce2df3f27b96103e4da9efb0e52&oe=614347AC
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://vnn-imgs-a1.vgcloud.vn/znews-photo.zadn.vn/w660/Uploaded/mdf_rkxrxd/2020_08_27/UR.jpg" group-title="Điên Thì Có Sao",Điên Thì Có Sao - Tập 6 - Phim Bộ
+https://scontent.cdninstagram.com/v/t66.36240-6/10000000_906647420255623_2013884062751328270_n.mp4?_nc_cat=100&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQu00253Du00253D&_nc_ohc=KujDDNSFtfMAX_zrynq&rl=1500&vabr=657&_nc_ht=scontent.fsgn2-2.fna&edm=APRAPSkEAAAA&oh=04eb3a1a9992eb6db6266ed86c747b6b&oe=613F1102
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://vnn-imgs-a1.vgcloud.vn/znews-photo.zadn.vn/w660/Uploaded/mdf_rkxrxd/2020_08_27/UR.jpg" group-title="Điên Thì Có Sao",Điên Thì Có Sao - Tập 7 - Phim Bộ
+https://scontent.cdninstagram.com/v/t66.36240-6/10000000_984863318971761_8695185441560173249_n.mp4?_nc_cat=109&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQu00253Du00253D&_nc_ohc=4-h5eQEO3dkAX90MxK6&rl=1500&vabr=541&_nc_ht=scontent.fsgn2-6.fna&edm=APRAPSkEAAAA&oh=8e4324a83f4e10530c2068ba6b1104b9&oe=61413116
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://vnn-imgs-a1.vgcloud.vn/znews-photo.zadn.vn/w660/Uploaded/mdf_rkxrxd/2020_08_27/UR.jpg" group-title="Điên Thì Có Sao",Điên Thì Có Sao - Tập 8 - Phim Bộ
+https://scontent.cdninstagram.com/v/t66.36240-6/10000000_542088367124268_7604026879909717711_n.mp4?_nc_cat=1&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQ%3D%3D&_nc_ohc=hscYhgmKYZYAX84jEbC&rl=1500&vabr=597&_nc_ht=scontent.fsgn2-4.fna&edm=APRAPSkEAAAA&oh=16ed642aadc90af58034105abe88af71&oe=61437E30
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://vnn-imgs-a1.vgcloud.vn/znews-photo.zadn.vn/w660/Uploaded/mdf_rkxrxd/2020_08_27/UR.jpg" group-title="Điên Thì Có Sao",Điên Thì Có Sao - Tập 9 - Phim Bộ
+https://ns36.kenhvn2.com/12022020/2201-2400/2335/9.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://vnn-imgs-a1.vgcloud.vn/znews-photo.zadn.vn/w660/Uploaded/mdf_rkxrxd/2020_08_27/UR.jpg" group-title="Điên Thì Có Sao",Điên Thì Có Sao - Tập 10 - Phim Bộ
+https://scontent.cdninstagram.com/v/t66.36240-6/10000000_1006828240072327_2151722854086364847_n.mp4?_nc_cat=102&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQu00253Du00253D&_nc_ohc=Yv_Wcr9CQ1sAX9KV2pV&rl=1500&vabr=519&_nc_ht=scontent.fsgn2-6.fna&edm=APRAPSkEAAAA&oh=0cc339437b60edf8f32f7e2dd641cb54&oe=613DDC9D
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://vnn-imgs-a1.vgcloud.vn/znews-photo.zadn.vn/w660/Uploaded/mdf_rkxrxd/2020_08_27/UR.jpg" group-title="Điên Thì Có Sao",Điên Thì Có Sao - Tập 11 - Phim Bộ
+https://scontent.cdninstagram.com/v/t66.36240-6/10000000_231806098954738_6561311602447241535_n.mp4?_nc_cat=106&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQu00253Du00253D&_nc_ohc=GWstSLd9E6oAX_XuzHB&rl=1500&vabr=524&_nc_ht=scontent.fsgn2-3.fna&edm=APRAPSkEAAAA&oh=2295cd68575e13fdb26c0b6364245da3&oe=6140ECD4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://vnn-imgs-a1.vgcloud.vn/znews-photo.zadn.vn/w660/Uploaded/mdf_rkxrxd/2020_08_27/UR.jpg" group-title="Điên Thì Có Sao",Điên Thì Có Sao - Tập 12 - Phim Bộ
+https://ns36.kenhvn2.com/12022020/2201-2400/2335/12.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://vnn-imgs-a1.vgcloud.vn/znews-photo.zadn.vn/w660/Uploaded/mdf_rkxrxd/2020_08_27/UR.jpg" group-title="Điên Thì Có Sao",Điên Thì Có Sao - Tập 13 - Phim Bộ
+https://scontent.cdninstagram.com/v/t66.36240-6/10000000_848824639335068_269499333820851700_n.mp4?_nc_cat=103&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQu00253Du00253D&_nc_ohc=736cGSHaRAgAX-4FWBS&rl=1500&vabr=525&_nc_ht=scontent.fsgn2-2.fna&edm=APRAPSkEAAAA&oh=93c69f16ed9e92cad18d33188edf83f2&oe=613E7684
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://vnn-imgs-a1.vgcloud.vn/znews-photo.zadn.vn/w660/Uploaded/mdf_rkxrxd/2020_08_27/UR.jpg" group-title="Điên Thì Có Sao",Điên Thì Có Sao - Tập 14 - Phim Bộ
+https://scontent.cdninstagram.com/v/t66.36240-6/10000000_449197700128042_6344243328344828719_n.mp4?_nc_cat=107&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQu00253Du00253D&_nc_ohc=E-F9aFcx6-AAX_4iYdH&rl=1500&vabr=510&_nc_ht=scontent.fsgn2-1.fna&edm=APRAPSkEAAAA&oh=577a26a7ec760ef0bae1c7b06710799b&oe=613DC57E
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://vnn-imgs-a1.vgcloud.vn/znews-photo.zadn.vn/w660/Uploaded/mdf_rkxrxd/2020_08_27/UR.jpg" group-title="Điên Thì Có Sao",Điên Thì Có Sao - Tập 15 - Phim Bộ
+https://ns36.kenhvn2.com/12022020/2201-2400/2335/15.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://vnn-imgs-a1.vgcloud.vn/znews-photo.zadn.vn/w660/Uploaded/mdf_rkxrxd/2020_08_27/UR.jpg" group-title="Điên Thì Có Sao",Điên Thì Có Sao - Tập 16 - Phim Bộ
+https://scontent.cdninstagram.com/v/t66.36240-6/10000000_268044334949589_7174617311987909842_n.mp4?_nc_cat=107&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjE1MDAsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQu00253Du00253D&_nc_ohc=AEcivePNwvYAX_wpolt&rl=1500&vabr=597&_nc_ht=scontent.fsgn2-6.fna&edm=APRAPSkEAAAA&oh=718d28d62f3554c1b68c8703c6dd3a0b&oe=613EB3B9
+
+
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/9/18/reply-1988-15688187673081690833450.jpg" group-title="Lời Hồi Đáp 1998",Lời Hồi Đáp 1998 - Tập 1 - Phim Bộ
+https://bhd-vod.fptplay.net/hls/AVOD/Reply/Reply_01/Reply_01_720p.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/9/18/reply-1988-15688187673081690833450.jpg" group-title="Lời Hồi Đáp 1998",Lời Hồi Đáp 1998 - Tập 2 - Phim Bộ
+https://bhd-vod.fptplay.net/hls/AVOD/Reply/Reply_02/Reply_02_720p.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/9/18/reply-1988-15688187673081690833450.jpg" group-title="Lời Hồi Đáp 1998",Lời Hồi Đáp 1998 - Tập 3 - Phim Bộ
+https://bhd-vod.fptplay.net/hls/AVOD/Reply/Reply_03/Reply_03_720p.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/9/18/reply-1988-15688187673081690833450.jpg" group-title="Lời Hồi Đáp 1998",Lời Hồi Đáp 1998 - Tập 4 - Phim Bộ
+https://bhd-vod.fptplay.net/hls/AVOD/Reply/Reply_04/Reply_04_720p.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/9/18/reply-1988-15688187673081690833450.jpg" group-title="Lời Hồi Đáp 1998",Lời Hồi Đáp 1998 - Tập 5 - Phim Bộ
+https://bhd-vod.fptplay.net/hls/AVOD/Reply/Reply_05/Reply_05_720p.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/9/18/reply-1988-15688187673081690833450.jpg" group-title="Lời Hồi Đáp 1998",Lời Hồi Đáp 1998 - Tập 6 - Phim Bộ
+https://bhd-vod.fptplay.net/hls/AVOD/Reply/Reply_06/Reply_06_720p.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/9/18/reply-1988-15688187673081690833450.jpg" group-title="Lời Hồi Đáp 1998",Lời Hồi Đáp 1998 - Tập 7 - Phim Bộ
+https://bhd-vod.fptplay.net/hls/AVOD/Reply/Reply_07/Reply_07_720p.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/9/18/reply-1988-15688187673081690833450.jpg" group-title="Lời Hồi Đáp 1998",Lời Hồi Đáp 1998 - Tập 8 - Phim Bộ
+https://bhd-vod.fptplay.net/hls/AVOD/Reply/Reply_08/Reply_08_720p.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/9/18/reply-1988-15688187673081690833450.jpg" group-title="Lời Hồi Đáp 1998",Lời Hồi Đáp 1998 - Tập 9 - Phim Bộ
+https://bhd-vod.fptplay.net/hls/AVOD/Reply/Reply_09/Reply_09_720p.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/9/18/reply-1988-15688187673081690833450.jpg" group-title="Lời Hồi Đáp 1998",Lời Hồi Đáp 1998 - Tập 10 - Phim Bộ
+https://bhd-vod.fptplay.net/hls/AVOD/Reply/Reply_10/Reply_10_720p.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/9/18/reply-1988-15688187673081690833450.jpg" group-title="Lời Hồi Đáp 1998",Lời Hồi Đáp 1998 - Tập 11 - Phim Bộ
+https://bhd-vod.fptplay.net/hls/AVOD/Reply/Reply_11/Reply_11_720p.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/9/18/reply-1988-15688187673081690833450.jpg" group-title="Lời Hồi Đáp 1998",Lời Hồi Đáp 1998 - Tập 12 - Phim Bộ
+https://bhd-vod.fptplay.net/hls/AVOD/Reply/Reply_12/Reply_12_720p.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/9/18/reply-1988-15688187673081690833450.jpg" group-title="Lời Hồi Đáp 1998",Lời Hồi Đáp 1998 - Tập 13 - Phim Bộ
+https://bhd-vod.fptplay.net/hls/AVOD/Reply/Reply_13/Reply_13_720p.m3u8
+
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/9/18/reply-1988-15688187673081690833450.jpg" group-title="Lời Hồi Đáp 1998",Lời Hồi Đáp 1998 - Tập 14 - Phim Bộ
+https://bhd-vod.fptplay.net/hls/AVOD/Reply/Reply_14/Reply_14_720p.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/9/18/reply-1988-15688187673081690833450.jpg" group-title="Lời Hồi Đáp 1998",Lời Hồi Đáp 1998 - Tập 15 - Phim Bộ
+https://bhd-vod.fptplay.net/hls/AVOD/Reply/Reply_15/Reply_15_720p.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/9/18/reply-1988-15688187673081690833450.jpg" group-title="Lời Hồi Đáp 1998",Lời Hồi Đáp 1998 - Tập 16 - Phim Bộ
+https://bhd-vod.fptplay.net/hls/AVOD/Reply/Reply_16/Reply_16_720p.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/9/18/reply-1988-15688187673081690833450.jpg" group-title="Lời Hồi Đáp 1998",Lời Hồi Đáp 1998 - Tập 17 - Phim Bộ
+https://bhd-vod.fptplay.net/hls/AVOD/Reply/Reply_17/Reply_17_720p.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/9/18/reply-1988-15688187673081690833450.jpg" group-title="Lời Hồi Đáp 1998",Lời Hồi Đáp 1998 - Tập 18 - Phim Bộ
+https://bhd-vod.fptplay.net/hls/AVOD/Reply/Reply_18/Reply_18_720p.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/9/18/reply-1988-15688187673081690833450.jpg" group-title="Lời Hồi Đáp 1998",Lời Hồi Đáp 1998 - Tập 19 - Phim Bộ
+https://bhd-vod.fptplay.net/hls/AVOD/Reply/Reply_19/Reply_19_720p.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/9/18/reply-1988-15688187673081690833450.jpg" group-title="Lời Hồi Đáp 1998",Lời Hồi Đáp 1998 - Tập 20 - Phim Bộ
+https://bhd-vod.fptplay.net/hls/AVOD/Reply/Reply_20/Reply_20_720p.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg" group-title="Vẻ Đẹp Đích Thực",Vẻ Đẹp Đích Thực - Tập 1A - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210328/truebeauty_01_logo_a/ba5425dfcdcec514c290b944891e3c40.smil/chunklist_b4628000.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg" group-title="Vẻ Đẹp Đích Thực",Vẻ Đẹp Đích Thực - Tập 1B - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/truebeauty_01_logo_b/5ac23e2d89870fd1187944705ca7e8f4_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg" group-title="Vẻ Đẹp Đích Thực",Vẻ Đẹp Đích Thực - Tập 2A - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty_02_logo_a/2360e664d282f2ed89f7b7ca7e87d12d_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg" group-title="Vẻ Đẹp Đích Thực",Vẻ Đẹp Đích Thực - Tập 2B - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty-02-logo-b/1075fb800ab36cf944bf4522f65c88b8-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg" group-title="Vẻ Đẹp Đích Thực",Vẻ Đẹp Đích Thực - Tập 3A - Phim Bộ
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty-03-logo-a/ee0f10a490c6c592d12c3a501711f60a-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg" group-title="Vẻ Đẹp Đích Thực",Vẻ Đẹp Đích Thực - Tập 3B - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty_03_logo_b/5f370e787edf6762d31810f116b7c90f_1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogImUyNmViYThkNzkyODE3ZTVlNDEyZWUzMzhlMTM4MDZlIiwgInZpZGVvX2lkIjogIjYwNjBjMTNhMjA4OWJkNTQwZmViYjNhZCIsICJzZXJ2ZXJfdGltZSI6IDE2MzA3NzYwNDUsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg" group-title="Vẻ Đẹp Đích Thực",Vẻ Đẹp Đích Thực - Tập 4A - Phim Bộ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty_04_logo_a/732e1da61d0d52bf80730fb3d82d6d8c_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg" group-title="Vẻ Đẹp Đích Thực",Vẻ Đẹp Đích Thực - Tập 4B - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty-04-logo-b/2cae9c052360bb67ac962c670da788cc-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg" group-title="Vẻ Đẹp Đích Thực",Vẻ Đẹp Đích Thực - Tập 5A - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty_05_logo_a/e8abcbefe7272193e13f13f3382d8e95_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg" group-title="Vẻ Đẹp Đích Thực",Vẻ Đẹp Đích Thực - Tập 5B - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty_05_logo_b/9bee12f90c70c2afb351a9b831600c87_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg" group-title="Vẻ Đẹp Đích Thực",Vẻ Đẹp Đích Thực - Tập 6A - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty_06_logo_a/b436c19b82b0252cf739e2ede0181ff9_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg" group-title="Vẻ Đẹp Đích Thực",Vẻ Đẹp Đích Thực - Tập 6B - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty_06_logo_b/e940c97c51fa657ec3670896cf9124be_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg" group-title="Vẻ Đẹp Đích Thực",Vẻ Đẹp Đích Thực - Tập 7A - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty_07_logo_a/10eeddbc8f7bb439d43c5dc8f0c4f28e_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg" group-title="Vẻ Đẹp Đích Thực",Vẻ Đẹp Đích Thực - Tập 7B - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty_07_logo_b/5f2a9eb83ecee08a46624562309f478a_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg" group-title="Vẻ Đẹp Đích Thực",Vẻ Đẹp Đích Thực - Tập 8A - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty_08_logo_a/2e6afd8d3becf033e4a99225835ab00b_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg" group-title="Vẻ Đẹp Đích Thực",Vẻ Đẹp Đích Thực - Tập 8B - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty_08_logo_b/48f0ed1698a7dfe3ff49e16d8f0024d0_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg" group-title="Vẻ Đẹp Đích Thực",Vẻ Đẹp Đích Thực - Tập 9A - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty_09_logo_a/2521bae1b338ed36550aff55da95f272_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg" group-title="Vẻ Đẹp Đích Thực",Vẻ Đẹp Đích Thực - Tập 9B - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty_09_logo_b/d89223e6cac0f194dffb7b39ace3f944_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg" group-title="Vẻ Đẹp Đích Thực",Vẻ Đẹp Đích Thực - Tập 10A - Phim Bộ
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty_10_logo_a/ea534d2b60e1ac37c61ec4e9f2f3f5dc_1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjEwMjhhMWU4MTZkZjE0Y2NiM2Y2NmYzNDllNmZjZTJmIiwgInZpZGVvX2lkIjogIjYwNjBjMTNhMjA4OWJkNTQwZmViYjNhZCIsICJzZXJ2ZXJfdGltZSI6IDE2MzA3NzcwODEsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg" group-title="Vẻ Đẹp Đích Thực",Vẻ Đẹp Đích Thực - Tập 10B - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty_10_logo_b/91808e5cb6e0459400bfb811bab63f75_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg" group-title="Vẻ Đẹp Đích Thực",Vẻ Đẹp Đích Thực - Tập 11A - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty-11-logo-a/62503665c411d2d79b00746ac0eb58d2-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg" group-title="Vẻ Đẹp Đích Thực",Vẻ Đẹp Đích Thực - Tập 11B - Phim Bộ
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty_11_logo_b/aab968a979921fafebe2cf281b456d94_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg" group-title="Vẻ Đẹp Đích Thực",Vẻ Đẹp Đích Thực - Tập 12A - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty-12-logo-a/cbc799242832c909f0c491e3daa99e93-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg" group-title="Vẻ Đẹp Đích Thực",Vẻ Đẹp Đích Thực - Tập 12B - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty_12_logo_b/a29f93bb345da6011eba92839eeb5302_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg" group-title="Vẻ Đẹp Đích Thực",Vẻ Đẹp Đích Thực - Tập 13A - Phim Bộ
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty-13-logo-a/7deb27b4f577566dbe09ee3a73983a41-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg" group-title="Vẻ Đẹp Đích Thực",Vẻ Đẹp Đích Thực - Tập 13B - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty_13_logo_b/46f054de8a368baee7e6c5df7aff28da_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg" group-title="Vẻ Đẹp Đích Thực",Vẻ Đẹp Đích Thực - Tập 14A - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty-14-logo-a/5bd9f6ae595956a1abfb2500616acf85-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg" group-title="Vẻ Đẹp Đích Thực",Vẻ Đẹp Đích Thực - Tập 14B - Phim Bộ
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210329/truebeauty_14_logo_b/729f547a76aa7c52494dfbf78f8a1b27_1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogImMzZGYzZTViMzQ4ODc5OGZiZWJjYWJiYjMyNjA3NjlhIiwgInZpZGVvX2lkIjogIjYwNjBjMTNhMjA4OWJkNTQwZmViYjNhZCIsICJzZXJ2ZXJfdGltZSI6IDE2MzA3ODU5NzQsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg" group-title="Vẻ Đẹp Đích Thực",Vẻ Đẹp Đích Thực - Tập 15A - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210331/truebeauty-15-logo-a-v2/c637b73944c301a746799c68afa037b0-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg" group-title="Vẻ Đẹp Đích Thực",Vẻ Đẹp Đích Thực - Tập 15B - Phim Bộ
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210331/truebeauty_15_logo_b_v2/a1369be851c3dd71fd8346221bcfb18f_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg" group-title="Vẻ Đẹp Đích Thực",Vẻ Đẹp Đích Thực - Tập 16A - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210331/truebeauty-16-logo-a-v2/18e63f57544a24c49acdca573dd02ad7-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/600/2020/10/30/8d6ad09eb2d14d27b463b7099c04fa77-16040284279931210516765-crop-16040293469791828741136.jpeg" group-title="Vẻ Đẹp Đích Thực",Vẻ Đẹp Đích Thực - Tập 16B - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210331/truebeauty_16_logo_b_v3/3267ac7d782992b0f6054dc4c1bac6c1_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/24_12_2016/uncontrollaby-fond24-12-2016_22g26-20.jpg" group-title="Yêu Không Kiểm Soát",Yêu Không Kiểm Soát- Tập 1 - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/uncontrollablyfond_s_01/98831933d1b54ef50ab8995a7cf47d27_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/24_12_2016/uncontrollaby-fond24-12-2016_22g26-20.jpg" group-title="Yêu Không Kiểm Soát",Yêu Không Kiểm Soát- Tập 2 - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/uncontrollablyfond-s-02/e0b37ae89796e3f63fd6a35b81edbb1c-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/24_12_2016/uncontrollaby-fond24-12-2016_22g26-20.jpg" group-title="Yêu Không Kiểm Soát",Yêu Không Kiểm Soát- Tập 2 - Phim Bộ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/uncontrollablyfond_s_03/c4aa3d27f0a5dcc9d182489a73b43587_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/24_12_2016/uncontrollaby-fond24-12-2016_22g26-20.jpg" group-title="Yêu Không Kiểm Soát",Yêu Không Kiểm Soát- Tập 2 - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/uncontrollablyfond-s-04/fc82a002213d17743ca4bb227748a438-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/24_12_2016/uncontrollaby-fond24-12-2016_22g26-20.jpg" group-title="Yêu Không Kiểm Soát",Yêu Không Kiểm Soát- Tập 2 - Phim Bộ
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/uncontrollablyfond_s_05/2dbd6295c7366b0250245933147cf727_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/24_12_2016/uncontrollaby-fond24-12-2016_22g26-20.jpg" group-title="Yêu Không Kiểm Soát",Yêu Không Kiểm Soát- Tập 2 - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/uncontrollablyfond-s-06/f5dcdcba25e67053292d5abae4a3be1c-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/24_12_2016/uncontrollaby-fond24-12-2016_22g26-20.jpg" group-title="Yêu Không Kiểm Soát",Yêu Không Kiểm Soát- Tập 2 - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/uncontrollablyfond_s_07/f29f501d349ba09d61c19e561f7c8a0d_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/24_12_2016/uncontrollaby-fond24-12-2016_22g26-20.jpg" group-title="Yêu Không Kiểm Soát",Yêu Không Kiểm Soát- Tập 2 - Phim Bộ
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/uncontrollablyfond-s-08/b88aab9833d689e7371a22c5e48e1f4d-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/24_12_2016/uncontrollaby-fond24-12-2016_22g26-20.jpg" group-title="Yêu Không Kiểm Soát",Yêu Không Kiểm Soát- Tập 2 - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/uncontrollablyfond_s_09/566c31a228c3c34dc9f567ed3c0a09b1_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/24_12_2016/uncontrollaby-fond24-12-2016_22g26-20.jpg" group-title="Yêu Không Kiểm Soát",Yêu Không Kiểm Soát- Tập 2 - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/uncontrollablyfond-s-10/5705c7bdafd2b9288a5b6d7dafabcb44-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/24_12_2016/uncontrollaby-fond24-12-2016_22g26-20.jpg" group-title="Yêu Không Kiểm Soát",Yêu Không Kiểm Soát- Tập 2 - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/uncontrollablyfond_s_11/fd6893d757a4522e4955154f34d294ce_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/24_12_2016/uncontrollaby-fond24-12-2016_22g26-20.jpg" group-title="Yêu Không Kiểm Soát",Yêu Không Kiểm Soát- Tập 2 - Phim Bộ
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/uncontrollablyfond-s-12/f279c8508a11a1157c64107bff4311a5-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/24_12_2016/uncontrollaby-fond24-12-2016_22g26-20.jpg" group-title="Yêu Không Kiểm Soát",Yêu Không Kiểm Soát- Tập 2 - Phim Bộ
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/uncontrollablyfond_s_13/b08e8619fa4c14514a086ee07d4fb06b_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/24_12_2016/uncontrollaby-fond24-12-2016_22g26-20.jpg" group-title="Yêu Không Kiểm Soát",Yêu Không Kiểm Soát- Tập 2 - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/uncontrollablyfond-s-14/6d4b51042e5552d88ba81c0497885539-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/24_12_2016/uncontrollaby-fond24-12-2016_22g26-20.jpg" group-title="Yêu Không Kiểm Soát",Yêu Không Kiểm Soát- Tập 2 - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/uncontrollablyfond_s_15/1f421bbf0948ea6e0af719de5f2d7cd3_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/24_12_2016/uncontrollaby-fond24-12-2016_22g26-20.jpg" group-title="Yêu Không Kiểm Soát",Yêu Không Kiểm Soát- Tập 2 - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/uncontrollablyfond-s-16/d094909bee662efce189055e3742312c-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/24_12_2016/uncontrollaby-fond24-12-2016_22g26-20.jpg" group-title="Yêu Không Kiểm Soát",Yêu Không Kiểm Soát- Tập 2 - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/uncontrollablyfond_s_17/fcabc002dec72ef7b89d0cf762dc9c51_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/24_12_2016/uncontrollaby-fond24-12-2016_22g26-20.jpg" group-title="Yêu Không Kiểm Soát",Yêu Không Kiểm Soát- Tập 2 - Phim Bộ
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/uncontrollablyfond-s-18/610c2d8d79f98f28a7fb2a842470f047-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/24_12_2016/uncontrollaby-fond24-12-2016_22g26-20.jpg" group-title="Yêu Không Kiểm Soát",Yêu Không Kiểm Soát- Tập 2 - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/uncontrollablyfond_s_19/7bde7779964bed3b414b62c8a0848376_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/24_12_2016/uncontrollaby-fond24-12-2016_22g26-20.jpg" group-title="Yêu Không Kiểm Soát",Yêu Không Kiểm Soát- Tập 2 - Phim Bộ
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/uncontrollablyfond-s-20/1bb34f96df43d4a09af0db9ee527884b-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/24_12_2016/uncontrollaby-fond24-12-2016_22g26-20.jpg" group-title="Yêu Không Kiểm Soát",Yêu Không Kiểm Soát- Tập 2 - Phim Bộ
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/uncontrollablyfond_s_21/181a66ca0af21fe12e6d5552d0305096_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/24_12_2016/uncontrollaby-fond24-12-2016_22g26-20.jpg" group-title="Yêu Không Kiểm Soát",Yêu Không Kiểm Soát- Tập 2 - Phim Bộ
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/uncontrollablyfond-s-22/cf74b1220fc65919641b2cdbc7171486-1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjBkZDRkMjk0ODA5MTVhNjAxMjdkMGVjMjk4ZGU1OWZlIiwgInZpZGVvX2lkIjogIjYwMWE2YWI3MjA4OWJkMTFiNmQ5YmMzNyIsICJzZXJ2ZXJfdGltZSI6IDE2MzA3Nzc1OTAsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/24_12_2016/uncontrollaby-fond24-12-2016_22g26-20.jpg" group-title="Yêu Không Kiểm Soát",Yêu Không Kiểm Soát- Tập 2 - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/uncontrollablyfond_s_23/14d2f16bb9943998da85e13ea9bc0c30_1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogImQ0YzM4OGUyYTAyYjM3NTdhNDJhYmZkODViYWQ3M2E2IiwgInZpZGVvX2lkIjogIjYwMWE2YWI3MjA4OWJkMTFiNmQ5YmMzNyIsICJzZXJ2ZXJfdGltZSI6IDE2MzEzNTcxNjQsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/24_12_2016/uncontrollaby-fond24-12-2016_22g26-20.jpg" group-title="Yêu Không Kiểm Soát",Yêu Không Kiểm Soát- Tập 2 - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/uncontrollablyfond-s-24/383e535d94a05afd1a783239dd29a16f-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/24_12_2016/uncontrollaby-fond24-12-2016_22g26-20.jpg" group-title="Yêu Không Kiểm Soát",Yêu Không Kiểm Soát- Tập 2 - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/uncontrollablyfond_s_25/cd17e5e4b04d9f630435c46260b6ac4a_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/24_12_2016/uncontrollaby-fond24-12-2016_22g26-20.jpg" group-title="Yêu Không Kiểm Soát",Yêu Không Kiểm Soát- Tập 2 - Phim Bộ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/uncontrollablyfond-s-26/29aa5d4de02b586a866020e870bbc5d4-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/24_12_2016/uncontrollaby-fond24-12-2016_22g26-20.jpg" group-title="Yêu Không Kiểm Soát",Yêu Không Kiểm Soát- Tập 2 - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/uncontrollablyfond_s_27/3aba34332f5eb8fd857026d7f406c393_1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjM1OWJiYjM2ZDYyNTFhZjBlYWE2NmUwNDFkZjFkY2NjIiwgInZpZGVvX2lkIjogIjYwMWE2YWI3MjA4OWJkMTFiNmQ5YmMzNyIsICJzZXJ2ZXJfdGltZSI6IDE2Mjk1MjUxOTksICJ2YWxpZF9taW51dGVzIjogNzIwfQ
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/24_12_2016/uncontrollaby-fond24-12-2016_22g26-20.jpg" group-title="Yêu Không Kiểm Soát",Yêu Không Kiểm Soát- Tập 2 - Phim Bộ
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/uncontrollablyfond-s-28/e0edc233782d706c3f0f60243f4ea694-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/24_12_2016/uncontrollaby-fond24-12-2016_22g26-20.jpg" group-title="Yêu Không Kiểm Soát",Yêu Không Kiểm Soát- Tập 2 - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/uncontrollablyfond_s_29/293c0dda51929012301072288bb3eae0_1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjJkZDhhNTM3YWQ0YTI2MTJmMjhmNGY1ZjYzNDlhYTFjIiwgInZpZGVvX2lkIjogIjYwMWE2YWI3MjA4OWJkMTFiNmQ5YmMzNyIsICJzZXJ2ZXJfdGltZSI6IDE2MzA4OTQ1MzUsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/24_12_2016/uncontrollaby-fond24-12-2016_22g26-20.jpg" group-title="Yêu Không Kiểm Soát",Yêu Không Kiểm Soát- Tập 2 - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/uncontrollablyfond-s-30/d9b3d9c3e75fa34b0757f83b74f4e57b-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/24_12_2016/uncontrollaby-fond24-12-2016_22g26-20.jpg" group-title="Yêu Không Kiểm Soát",Yêu Không Kiểm Soát- Tập 2 - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/uncontrollablyfond_s_31/0fc2b1087a0b52b1a2ff3e9f92f5fdc5_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/24_12_2016/uncontrollaby-fond24-12-2016_22g26-20.jpg" group-title="Yêu Không Kiểm Soát",Yêu Không Kiểm Soát- Tập 2 - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/uncontrollablyfond-s-32/bef062585b0694b4fed889242e3b0d1d-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/24_12_2016/uncontrollaby-fond24-12-2016_22g26-20.jpg" group-title="Yêu Không Kiểm Soát",Yêu Không Kiểm Soát- Tập 2 - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/uncontrollablyfond_s_33/3ea65d924a8c9c1682a8dcafd6604ab5_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/24_12_2016/uncontrollaby-fond24-12-2016_22g26-20.jpg" group-title="Yêu Không Kiểm Soát",Yêu Không Kiểm Soát- Tập 2 - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/uncontrollablyfond-s-34/af08c462faeb10f6a8f9137a0fb62a8e-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/24_12_2016/uncontrollaby-fond24-12-2016_22g26-20.jpg" group-title="Yêu Không Kiểm Soát",Yêu Không Kiểm Soát- Tập 2 - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/uncontrollablyfond_s_35/50c80204dfadb9b4dd5bc4700f501154_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/24_12_2016/uncontrollaby-fond24-12-2016_22g26-20.jpg" group-title="Yêu Không Kiểm Soát",Yêu Không Kiểm Soát- Tập 2 - Phim Bộ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/uncontrollablyfond-s-36/68f497fa71bc74d73a1728f074eeb253-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/24_12_2016/uncontrollaby-fond24-12-2016_22g26-20.jpg" group-title="Yêu Không Kiểm Soát",Yêu Không Kiểm Soát- Tập 2 - Phim Bộ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/uncontrollablyfond_s_37/d4e5643979646491f5f0bc06c22d4d10_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/24_12_2016/uncontrollaby-fond24-12-2016_22g26-20.jpg" group-title="Yêu Không Kiểm Soát",Yêu Không Kiểm Soát- Tập 2 - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/uncontrollablyfond-s-38/315b973e3073b76b72b22f6889ef1b7e-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/24_12_2016/uncontrollaby-fond24-12-2016_22g26-20.jpg" group-title="Yêu Không Kiểm Soát",Yêu Không Kiểm Soát- Tập 2 - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/uncontrollablyfond_s_39/a0c9a1e8af7bb12509398ec28bbeb219_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/24_12_2016/uncontrollaby-fond24-12-2016_22g26-20.jpg" group-title="Yêu Không Kiểm Soát",Yêu Không Kiểm Soát- Tập 2 - Phim Bộ
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/uncontrollablyfond-s-40/70644da4fa70d5b9ac0c60eef97e0ff9-1080p.mp4/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/12/13/fb-4-1607877747166882225952.png" group-title="Chàng Hậu",Chàng Hậu - Tập 1 - Phim Bộ
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210620/mrqueen_sub_01/1e22cb73a9e7a7098be96969f6f07b72_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/12/13/fb-4-1607877747166882225952.png" group-title="Chàng Hậu",Chàng Hậu - Tập 2 - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210620/mrqueen_sub_02/bc0be134a72c8a294273eef67ec6efa7_1080p.mp4/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/12/13/fb-4-1607877747166882225952.png" group-title="Chàng Hậu",Chàng Hậu - Tập 2 - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210620/mrqueen_sub_03/807f5a930a8dc5404f132c41d676b30a_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/12/13/fb-4-1607877747166882225952.png" group-title="Chàng Hậu",Chàng Hậu - Tập 2 - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210620/mrqueen_sub_04/e0534a1fcddc0e3c880e2c51729ef89f_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/12/13/fb-4-1607877747166882225952.png" group-title="Chàng Hậu",Chàng Hậu - Tập 2 - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210620/mrqueen_sub_05/8ccd68a28d578cd99880f712d5e65b8b_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/12/13/fb-4-1607877747166882225952.png" group-title="Chàng Hậu",Chàng Hậu - Tập 2 - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210620/mrqueen_sub_06/977d6a9945049624bda79161a7a837d2_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/12/13/fb-4-1607877747166882225952.png" group-title="Chàng Hậu",Chàng Hậu - Tập 2 - Phim Bộ
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210620/mrqueen_sub_07/d6e7b9279272ad6f0fe0b07133df7b79_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/12/13/fb-4-1607877747166882225952.png" group-title="Chàng Hậu",Chàng Hậu - Tập 2 - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210620/mrqueen_sub_08/4effd4a31532f6967a1a6197ad96c189_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/12/13/fb-4-1607877747166882225952.png" group-title="Chàng Hậu",Chàng Hậu - Tập 2 - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210620/mrqueen_sub_09/d12c7b34e15449f920b2f37c3cc3646f_1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogImM2MzJmOTlhYTI5ZTQ3MDdmNWI2MWYzNDE0NGVjMTA1IiwgInZpZGVvX2lkIjogIjYwY2UwNDM5MjA4OWJkMTYwYTVmNGNmYSIsICJzZXJ2ZXJfdGltZSI6IDE2MjkzNTgyMjgsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/12/13/fb-4-1607877747166882225952.png" group-title="Chàng Hậu",Chàng Hậu - Tập 2 - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210620/mrqueen_sub_10/29aa3dbfd85ac8174c2bd6bae4700e11_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/12/13/fb-4-1607877747166882225952.png" group-title="Chàng Hậu",Chàng Hậu - Tập 2 - Phim Bộ
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210620/mrqueen_sub_11/9717957ba8b87ea0bcc55709e8545bb7_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/12/13/fb-4-1607877747166882225952.png" group-title="Chàng Hậu",Chàng Hậu - Tập 2 - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210620/mrqueen_sub_12/00255688c04467b258bb52874a9148f7_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/12/13/fb-4-1607877747166882225952.png" group-title="Chàng Hậu",Chàng Hậu - Tập 2 - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210620/mrqueen_sub_13/280c366180883533ca903016eaf95c6b_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/12/13/fb-4-1607877747166882225952.png" group-title="Chàng Hậu",Chàng Hậu - Tập 2 - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210620/mrqueen_sub_14/42f7ec8879209209ef172898cc0ae95d_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/12/13/fb-4-1607877747166882225952.png" group-title="Chàng Hậu",Chàng Hậu - Tập 2 - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210620/mrqueen_sub_15/390816359ebfdf3255e21f34998e9079_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/12/13/fb-4-1607877747166882225952.png" group-title="Chàng Hậu",Chàng Hậu - Tập 2 - Phim Bộ
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210620/mrqueen_sub_16/8aca89f392b87ceb0edae6a6d8c6d45f_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/12/13/fb-4-1607877747166882225952.png" group-title="Chàng Hậu",Chàng Hậu - Tập 2 - Phim Bộ
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210620/mrqueen_sub_17/0741c3368ced040bfd315c62a31b88b0_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/12/13/fb-4-1607877747166882225952.png" group-title="Chàng Hậu",Chàng Hậu - Tập 2 - Phim Bộ
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210620/mrqueen_sub_18/a8a2880307f360fb620df6102eb49430_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/12/13/fb-4-1607877747166882225952.png" group-title="Chàng Hậu",Chàng Hậu - Tập 2 - Phim Bộ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210620/mrqueen_sub_19/9ce064806a0f09072e903d341d6112bb_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/12/13/fb-4-1607877747166882225952.png" group-title="Chàng Hậu",Chàng Hậu - Tập 2 - Phim Bộ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210620/mrqueen_sub_20/4b724f9c7cc85c0d04944838101afb78_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/12/13/fb-4-1607877747166882225952.png" group-title="Chàng Hậu",Chàng Hậu - Tập 2 - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210622/mrqueen_sub_21/6864be721354fc3f56d2958dac7c0a7c_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/12/13/fb-4-1607877747166882225952.png" group-title="Chàng Hậu",Chàng Hậu - Tập 2 - Phim Bộ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210622/mrqueen_sub_22/6e03ac5a9926fae3f75e32211b6084c1_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/12/13/fb-4-1607877747166882225952.png" group-title="Chàng Hậu",Chàng Hậu - Tập 2 - Phim Bộ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210622/mrqueen_sub_23/f17525c3a9d29ddf100135bc2de1af53_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/12/13/fb-4-1607877747166882225952.png" group-title="Chàng Hậu",Chàng Hậu - Tập 2 - Phim Bộ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210622/mrqueen_sub_24/d86b0a8be197b340349dc2d79354b9f2_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/12/13/fb-4-1607877747166882225952.png" group-title="Chàng Hậu",Chàng Hậu - Tập 2 - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210624/mrqueen_sub_25/8a940b556c8e6695979d3e28936c1e83_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/12/13/fb-4-1607877747166882225952.png" group-title="Chàng Hậu",Chàng Hậu - Tập 2 - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210624/mrqueen_sub_26/29ea408b3d9d4b31d1267fd284f765c8_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/12/13/fb-4-1607877747166882225952.png" group-title="Chàng Hậu",Chàng Hậu - Tập 2 - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210624/mrqueen_sub_27/fde90cc5d07f1d7a41aba4069ee440bb_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/12/13/fb-4-1607877747166882225952.png" group-title="Chàng Hậu",Chàng Hậu - Tập 2 - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210624/mrqueen_sub_28/5a0d655fa5ac9428e9ab55a2a316abb6_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/12/13/fb-4-1607877747166882225952.png" group-title="Chàng Hậu",Chàng Hậu - Tập 2 - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210628/mrqueen_sub_29/b5ead5f7a00f7067907a1ae4e23539e0_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/12/13/fb-4-1607877747166882225952.png" group-title="Chàng Hậu",Chàng Hậu - Tập 2 - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210628/mrqueen_sub_30/860179c06a144939b02bcb5ba01296d0_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/12/13/fb-4-1607877747166882225952.png" group-title="Chàng Hậu",Chàng Hậu - Tập 2 - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210628/mrqueen_sub_31/be44bdd8d0b82b2ec38192280e3b9f54_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/12/13/fb-4-1607877747166882225952.png" group-title="Chàng Hậu",Chàng Hậu - Tập 2 - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210628/mrqueen_sub_32/bd8550a4ee1a7d613be183a6a59deef4_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/12/13/fb-4-1607877747166882225952.png" group-title="Chàng Hậu",Chàng Hậu - Tập 2 - Phim Bộ
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210629/mrqueen_sub_33/083b958888bf948513fd63b9cfba5c99_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/12/13/fb-4-1607877747166882225952.png" group-title="Chàng Hậu",Chàng Hậu - Tập 2 - Phim Bộ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210629/mrqueen_sub_34/1fe2b3e118b6e44aba383dbbb9faa823_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/12/13/fb-4-1607877747166882225952.png" group-title="Chàng Hậu",Chàng Hậu - Tập 2 - Phim Bộ
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210629/mrqueen_sub_35/e557ec0a191e147ea80fa7ac6937288c_1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogImEwMTEwZDliYmM4NDVkYTM0MmViNDkwZWI4OGRiMzRlIiwgInZpZGVvX2lkIjogIjYwY2UwNDM5MjA4OWJkMTYwYTVmNGNmYSIsICJzZXJ2ZXJfdGltZSI6IDE2MzAxNjM3MTcsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/12/13/fb-4-1607877747166882225952.png" group-title="Chàng Hậu",Chàng Hậu - Tập 2 - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210629/mrqueen_sub_36/f0d088f84e622b991da4975a90eddc8d_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/12/13/fb-4-1607877747166882225952.png" group-title="Chàng Hậu",Chàng Hậu - Tập 2 - Phim Bộ
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210701/mrqueen_sub_37/25d7ebbdea59408c95a66816d2b3abc3_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/12/13/fb-4-1607877747166882225952.png" group-title="Chàng Hậu",Chàng Hậu - Tập 2 - Phim Bộ
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210701/mrqueen_sub_38/0a1bdb7efe6cc6683197c1a31c9f427a_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/12/13/fb-4-1607877747166882225952.png" group-title="Chàng Hậu",Chàng Hậu - Tập 2 - Phim Bộ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210701/mrqueen_sub_39/2849c5d131b4a47d5955cbf3f653f975_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/203336854389633024/2020/12/13/fb-4-1607877747166882225952.png" group-title="Chàng Hậu",Chàng Hậu - Tập 2 - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210701/mrqueen_sub_40/c896e2b038b22569c20980b017800303_1080p.mp4/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png" group-title="Bạn Trai Tôi Là Hồ Ly",Bạn Trai Tôi Là Hồ Ly - Tập 1 - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201008/taleoftheninetailed_01_logo_a/e70c603f86d19d84d564ba0fd3af00a1_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png" group-title="Bạn Trai Tôi Là Hồ Ly",Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201008/taleoftheninetailed_01_logo_b/075263a267a492667159780c0a90a788_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png" group-title="Bạn Trai Tôi Là Hồ Ly",Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201012/taleoftheninetailed_02_logo_a/72f497533f3cdfb0aedf7528b0db12d1_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png" group-title="Bạn Trai Tôi Là Hồ Ly",Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201012/taleoftheninetailed-02-logo-b/e6cb1793f82ec3de9e58014c104e3d1f-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png" group-title="Bạn Trai Tôi Là Hồ Ly",Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201016/taleoftheninetailed_03_logo_a/8a7b1fe73cef27e58ee1010b7c515356_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png" group-title="Bạn Trai Tôi Là Hồ Ly",Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201017/taleoftheninetailed_03_logo_b/117b43d606f24534de3544f894f07b4a_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png" group-title="Bạn Trai Tôi Là Hồ Ly",Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201026/taleoftheninetailed-04-logo-a-v2/2377c4b7d49c0dc9501bcb7aca722164-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png" group-title="Bạn Trai Tôi Là Hồ Ly",Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201026/taleoftheninetailed_04_logo_b_v2/e08d282eb450929b9d83ca9fdd406e1c_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png" group-title="Bạn Trai Tôi Là Hồ Ly",Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201029/taleoftheninetailed-05-logo-a-v2/5557dd8f68b1315f7266e07ac9da70e6-1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjJjNjNiNTk5Y2FjODJhMWFmZDZkMjIwYWJkMzY2NmFiIiwgInZpZGVvX2lkIjogIjVmNzFhOTk5MjA4OWJkMDBkYTRkYjdmZCIsICJzZXJ2ZXJfdGltZSI6IDE2MzA3Nzg1OTcsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png" group-title="Bạn Trai Tôi Là Hồ Ly",Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201029/taleoftheninetailed_05_logo_b_v2/353bed2f352dfb9eacff228ef56b704a_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png" group-title="Bạn Trai Tôi Là Hồ Ly",Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201029/taleoftheninetailed-06-logo-a-v2/7a8c40fff9c92f0b0bab9edce09430f6-1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjA0M2M0ZGVhNDRjNWRkZjlkMGQ2OTBhOWFhMjA1ZmRiIiwgInZpZGVvX2lkIjogIjVmNzFhOTk5MjA4OWJkMDBkYTRkYjdmZCIsICJzZXJ2ZXJfdGltZSI6IDE2MzA3NzMyNzgsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png" group-title="Bạn Trai Tôi Là Hồ Ly",Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201029/taleoftheninetailed_06_logo_b_v3/c192e377c14bc28f39e1f56509fd2031_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png" group-title="Bạn Trai Tôi Là Hồ Ly",Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201029/taleoftheninetailed-07-logo-a/3a99a83d1b743c8f0b4378a41f00323a-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png" group-title="Bạn Trai Tôi Là Hồ Ly",Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201029/taleoftheninetailed_07_logo_b/4c61ddd9d85feb717b06559298442456_1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogImJlMDUzNTE4ODM0MTZmZDhjMjUxNGU2N2Q3ZjBkNDQ0IiwgInZpZGVvX2lkIjogIjVmNzFhOTk5MjA4OWJkMDBkYTRkYjdmZCIsICJzZXJ2ZXJfdGltZSI6IDE2MzA3ODgxNDcsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png" group-title="Bạn Trai Tôi Là Hồ Ly",Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201031/taleoftheninetailed-08-logo-a/11cc46fe048fb52b0d6663a8375b5f29-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png" group-title="Bạn Trai Tôi Là Hồ Ly",Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201031/taleoftheninetailed_08_logo_b/489ce8c3000a8b0102a80e807d28607f_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png" group-title="Bạn Trai Tôi Là Hồ Ly",Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201105/taleoftheninetailed_09_logo_a/6baaef5f4ab688e8702a16094c0ca0df_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png" group-title="Bạn Trai Tôi Là Hồ Ly",Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201105/taleoftheninetailed-09-logo-b/a16b38e4674c7386e8205e3b60288132-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png" group-title="Bạn Trai Tôi Là Hồ Ly",Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201112/taleoftheninetailed_10_logo_a/481d014a04b43f7ab8d88a582c851c7f_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png" group-title="Bạn Trai Tôi Là Hồ Ly",Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201112/taleoftheninetailed-10-logo-b/48ff72541a23ce73f7c16f5c23e69ece-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png" group-title="Bạn Trai Tôi Là Hồ Ly",Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
+
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2020/10/9/800-417-16022244118352101081864.png" group-title="Bạn Trai Tôi Là Hồ Ly",Bạn Trai Tôi Là Hồ Ly - Tập 2 - Phim Bộ
+
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.vieon.vn/vieplay-image/thumbnail_v4/2021/04/29/169diqne_1920x1080-yeutrongdauthuong.jpg" group-title="Yêu Trong Đau Thương",Yêu Trong Đau Thương - Tập 1 - Phim Bộ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200819/lissub_01/ca91998d17630a3b55c6a6149f7d7e70_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.vieon.vn/vieplay-image/thumbnail_v4/2021/04/29/169diqne_1920x1080-yeutrongdauthuong.jpg" group-title="Yêu Trong Đau Thương",Yêu Trong Đau Thương - Tập 2 - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200819/lissub-02/3e6353ff65fbf7e9e53b310c8d1f7164-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/9/18/reply-1988-15688187673081690833450.jpg" group-title="Chị Đẹp Mua Thức Ăn Ngon Cho Tôi",Chị Đẹp Mua Thức Ăn Ngon Cho Tôi - Tập 1 - Phim Bộ
+
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.tuoitrethudo.com.vn/stores/news_dataimages/tuoitrethudocomvn/022020/13/14/mot-phim-thao-thuc-voi-ha-canh-noi-anh-30-.6902.jpg" group-title="Báo Động Khẩn, Tình Yêu Hạ Cánh",Báo Động Khẩn, Tình Yêu Hạ Cánh - Tập 1 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/tinhyeuhacanhtap1.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.tuoitrethudo.com.vn/stores/news_dataimages/tuoitrethudocomvn/022020/13/14/mot-phim-thao-thuc-voi-ha-canh-noi-anh-30-.6902.jpg" group-title="Báo Động Khẩn, Tình Yêu Hạ Cánh",Báo Động Khẩn, Tình Yêu Hạ Cánh - Tập 1 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/tinhyeuhacanhtap2.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.tuoitrethudo.com.vn/stores/news_dataimages/tuoitrethudocomvn/022020/13/14/mot-phim-thao-thuc-voi-ha-canh-noi-anh-30-.6902.jpg" group-title="Báo Động Khẩn, Tình Yêu Hạ Cánh",Báo Động Khẩn, Tình Yêu Hạ Cánh - Tập 1 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/tinhyeuhacanhtap3.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.tuoitrethudo.com.vn/stores/news_dataimages/tuoitrethudocomvn/022020/13/14/mot-phim-thao-thuc-voi-ha-canh-noi-anh-30-.6902.jpg" group-title="Báo Động Khẩn, Tình Yêu Hạ Cánh",Báo Động Khẩn, Tình Yêu Hạ Cánh - Tập 1 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/tinhyeuhacanhtap4.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.tuoitrethudo.com.vn/stores/news_dataimages/tuoitrethudocomvn/022020/13/14/mot-phim-thao-thuc-voi-ha-canh-noi-anh-30-.6902.jpg" group-title="Báo Động Khẩn, Tình Yêu Hạ Cánh",Báo Động Khẩn, Tình Yêu Hạ Cánh - Tập 1 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/tinhyeuhacanhtap5.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.tuoitrethudo.com.vn/stores/news_dataimages/tuoitrethudocomvn/022020/13/14/mot-phim-thao-thuc-voi-ha-canh-noi-anh-30-.6902.jpg" group-title="Báo Động Khẩn, Tình Yêu Hạ Cánh",Báo Động Khẩn, Tình Yêu Hạ Cánh - Tập 1 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/tinhyeuhacanhtap6.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.tuoitrethudo.com.vn/stores/news_dataimages/tuoitrethudocomvn/022020/13/14/mot-phim-thao-thuc-voi-ha-canh-noi-anh-30-.6902.jpg" group-title="Báo Động Khẩn, Tình Yêu Hạ Cánh",Báo Động Khẩn, Tình Yêu Hạ Cánh - Tập 1 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/tinhyeuhacanhtap7.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.tuoitrethudo.com.vn/stores/news_dataimages/tuoitrethudocomvn/022020/13/14/mot-phim-thao-thuc-voi-ha-canh-noi-anh-30-.6902.jpg" group-title="Báo Động Khẩn, Tình Yêu Hạ Cánh",Báo Động Khẩn, Tình Yêu Hạ Cánh - Tập 1 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/tinhyeuhacanhtap8.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.tuoitrethudo.com.vn/stores/news_dataimages/tuoitrethudocomvn/022020/13/14/mot-phim-thao-thuc-voi-ha-canh-noi-anh-30-.6902.jpg" group-title="Báo Động Khẩn, Tình Yêu Hạ Cánh",Báo Động Khẩn, Tình Yêu Hạ Cánh - Tập 1 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/tinhyeuhacanhtap9.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.tuoitrethudo.com.vn/stores/news_dataimages/tuoitrethudocomvn/022020/13/14/mot-phim-thao-thuc-voi-ha-canh-noi-anh-30-.6902.jpg" group-title="Báo Động Khẩn, Tình Yêu Hạ Cánh",Báo Động Khẩn, Tình Yêu Hạ Cánh - Tập 1 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/tinhyeuhacanhtap10.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.tuoitrethudo.com.vn/stores/news_dataimages/tuoitrethudocomvn/022020/13/14/mot-phim-thao-thuc-voi-ha-canh-noi-anh-30-.6902.jpg" group-title="Báo Động Khẩn, Tình Yêu Hạ Cánh",Báo Động Khẩn, Tình Yêu Hạ Cánh - Tập 1 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/tinhyeuhacanhtap11.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.tuoitrethudo.com.vn/stores/news_dataimages/tuoitrethudocomvn/022020/13/14/mot-phim-thao-thuc-voi-ha-canh-noi-anh-30-.6902.jpg" group-title="Báo Động Khẩn, Tình Yêu Hạ Cánh",Báo Động Khẩn, Tình Yêu Hạ Cánh - Tập 1 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/tinhyeuhacanhtap12.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.tuoitrethudo.com.vn/stores/news_dataimages/tuoitrethudocomvn/022020/13/14/mot-phim-thao-thuc-voi-ha-canh-noi-anh-30-.6902.jpg" group-title="Báo Động Khẩn, Tình Yêu Hạ Cánh",Báo Động Khẩn, Tình Yêu Hạ Cánh - Tập 1 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/tinhyeuhacanhtap13.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.tuoitrethudo.com.vn/stores/news_dataimages/tuoitrethudocomvn/022020/13/14/mot-phim-thao-thuc-voi-ha-canh-noi-anh-30-.6902.jpg" group-title="Báo Động Khẩn, Tình Yêu Hạ Cánh",Báo Động Khẩn, Tình Yêu Hạ Cánh - Tập 1 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/tinhyeuhacanhtap14.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.tuoitrethudo.com.vn/stores/news_dataimages/tuoitrethudocomvn/022020/13/14/mot-phim-thao-thuc-voi-ha-canh-noi-anh-30-.6902.jpg" group-title="Báo Động Khẩn, Tình Yêu Hạ Cánh",Báo Động Khẩn, Tình Yêu Hạ Cánh - Tập 1 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/tinhyeuhacanhtap15.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.tuoitrethudo.com.vn/stores/news_dataimages/tuoitrethudocomvn/022020/13/14/mot-phim-thao-thuc-voi-ha-canh-noi-anh-30-.6902.jpg" group-title="Báo Động Khẩn, Tình Yêu Hạ Cánh",Báo Động Khẩn, Tình Yêu Hạ Cánh - Tập 1 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/tinhyeuhacanhtap16.
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/9/18/reply-1988-15688187673081690833450.jpg" group-title="Bí Mật Nàng Fangirl",Bí Mật Nàng Fangirl - Tập 1 - Phim Bộ
+https://bhd-vod.fptplay.net/hls/AVOD/HerPrivateLife/HerPrivateLife_01_TM/HerPrivateLife_01_TM_720p.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://i.pinimg.com/originals/7b/dc/26/7bdc26067f272d1cc4b039751791907f.jpg" group-title="Tiên Nữ Cử Tạ Kim Bok Joo ",Tiên Nữ Cử Tạ Kim Bok Joo - Tập 1 - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20201025/wfkbjsub1080_01/ce46bb957eb86b41f6174507feedd0a1.smil/chunklist_b4628000.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://i.pinimg.com/originals/7b/dc/26/7bdc26067f272d1cc4b039751791907f.jpg" group-title="Tiên Nữ Cử Tạ Kim Bok Joo ",Tiên Nữ Cử Tạ Kim Bok Joo - Tập 2 - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201025/wfkbjsub1080-02/a822229516048e807681bd9b091b88eb-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/9/18/reply-1988-15688187673081690833450.jpg" group-title="Cô Nàng Mạnh Mẽ Do Bong Soon",Cô Nàng Mạnh Mẽ Do Bong Soon - Tập 1 - Phim Bộ
+
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/9/18/reply-1988-15688187673081690833450.jpg" group-title="Cá Mực Hầm Mật",Cá Mực Hầm Mật - Tập 1 - Phim Bộ
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/9/18/reply-1988-15688187673081690833450.jpg" group-title="Chuyện Tình Bác Sĩ",Chuyện Tình Bác Sĩ - Tập 1 - Phim Bộ
+
+
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://truyenhinh.fpt.vn/wp-content/uploads/e56cc77bf31b93fe377f7a26740d4a25_1505290030_37911507499230.jpg" group-title="Gửi Thời Thanh Xuân Tươi Đẹp",Gửi Thời Thanh Xuân Tươi Đẹp - Tập 1 - Phim Bộ
+https://bhd-vod.fptplay.net/hls/AVOD/GuiThoiThanhXuan/GuiThoiThanhXuan_01/GuiThoiThanhXuan_01_720p.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/9/18/reply-1988-15688187673081690833450.jpg" group-title="Khi Nàng Say Giấc",Khi Nàng Say Giấc - Tập 1 - Phim Bộ
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://truyenhinh.fpt.vn/wp-content/uploads/54523679_2198523730463732_7660334928470474752_n.jpg" group-title="Truy Sát",Truy Sát - Tập 1 - Phim Bộ
+https://bhd-vod.fptplay.net/hls/AVOD/KillIt/KillIt_01_fix/KillIt_01_720p.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6110aeeea0d502ce6eae4341_nhung-nguoi-sat-canh-cung-park-sea-roy.jpg" group-title="Tầng Lớp Itaewon",Tầng Lớp Itaewon - Tập 1 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/itaewontm1.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6110aeeea0d502ce6eae4341_nhung-nguoi-sat-canh-cung-park-sea-roy.jpg" group-title="Tầng Lớp Itaewon",Tầng Lớp Itaewon - Tập 2 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/itaewontm2.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6110aeeea0d502ce6eae4341_nhung-nguoi-sat-canh-cung-park-sea-roy.jpg" group-title="Tầng Lớp Itaewon",Tầng Lớp Itaewon - Tập 3 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/itaewontm3.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6110aeeea0d502ce6eae4341_nhung-nguoi-sat-canh-cung-park-sea-roy.jpg" group-title="Tầng Lớp Itaewon",Tầng Lớp Itaewon - Tập 4 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/itaewontm4.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6110aeeea0d502ce6eae4341_nhung-nguoi-sat-canh-cung-park-sea-roy.jpg" group-title="Tầng Lớp Itaewon",Tầng Lớp Itaewon - Tập 5 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/itaewontm5.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6110aeeea0d502ce6eae4341_nhung-nguoi-sat-canh-cung-park-sea-roy.jpg" group-title="Tầng Lớp Itaewon",Tầng Lớp Itaewon - Tập 6 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/itaewontm6.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6110aeeea0d502ce6eae4341_nhung-nguoi-sat-canh-cung-park-sea-roy.jpg" group-title="Tầng Lớp Itaewon",Tầng Lớp Itaewon - Tập 7 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/itaewontm7.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6110aeeea0d502ce6eae4341_nhung-nguoi-sat-canh-cung-park-sea-roy.jpg" group-title="Tầng Lớp Itaewon",Tầng Lớp Itaewon - Tập 8 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/itaewontm8.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6110aeeea0d502ce6eae4341_nhung-nguoi-sat-canh-cung-park-sea-roy.jpg" group-title="Tầng Lớp Itaewon",Tầng Lớp Itaewon - Tập 9 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/itaewontm9.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6110aeeea0d502ce6eae4341_nhung-nguoi-sat-canh-cung-park-sea-roy.jpg" group-title="Tầng Lớp Itaewon",Tầng Lớp Itaewon - Tập 10 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/itaewontm10.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6110aeeea0d502ce6eae4341_nhung-nguoi-sat-canh-cung-park-sea-roy.jpg" group-title="Tầng Lớp Itaewon",Tầng Lớp Itaewon - Tập 11 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/itaewontm11.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6110aeeea0d502ce6eae4341_nhung-nguoi-sat-canh-cung-park-sea-roy.jpg" group-title="Tầng Lớp Itaewon",Tầng Lớp Itaewon - Tập 12 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/itaewontm12.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6110aeeea0d502ce6eae4341_nhung-nguoi-sat-canh-cung-park-sea-roy.jpg" group-title="Tầng Lớp Itaewon",Tầng Lớp Itaewon - Tập 13 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/itaewontm13.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6110aeeea0d502ce6eae4341_nhung-nguoi-sat-canh-cung-park-sea-roy.jpg" group-title="Tầng Lớp Itaewon",Tầng Lớp Itaewon - Tập 14 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/itaewontm14.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6110aeeea0d502ce6eae4341_nhung-nguoi-sat-canh-cung-park-sea-roy.jpg" group-title="Tầng Lớp Itaewon",Tầng Lớp Itaewon - Tập 15 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/itaewontm15.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://www.fullphimz.net/static/5fe2d564b3fa6403ffa11d1c/6110aeeea0d502ce6eae4341_nhung-nguoi-sat-canh-cung-park-sea-roy.jpg" group-title="Tầng Lớp Itaewon",Tầng Lớp Itaewon - Tập 16 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/itaewontm16.mp4
+
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.vieon.vn/vieplay-image/thumbnail_v4/2021/04/12/rj3fke7m_1920x1080-matdanhk2.jpg" group-title="Mật Danh K2",Mật Danh K2 - Tập 1 - Phim Bộ
+https://vnw-vod-cdn.popsww.com/hn-fcb8AXDuoacTVJMZyIHIA2PHXFw/videos/transcoded/mat_danh_k2_-_ep01-popsapp/index-f1-v1-a1.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cuoifly.tuoitre.vn/1200/900/ttc/r/2020/10/28/tu-trai-qua-bae-suzy-nam-joo-hyuk-va-kim-seon-ho-la-3-dien-vien-chinh-cua-start-up-1603851112-16x9.jpg" group-title="Khởi Nghiệp",Khởi Nghiệp - Tập 1 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/khoinghieptm1.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cuoifly.tuoitre.vn/1200/900/ttc/r/2020/10/28/tu-trai-qua-bae-suzy-nam-joo-hyuk-va-kim-seon-ho-la-3-dien-vien-chinh-cua-start-up-1603851112-16x9.jpg" group-title="Khởi Nghiệp",Khởi Nghiệp - Tập 2 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/khoinghieptm2.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cuoifly.tuoitre.vn/1200/900/ttc/r/2020/10/28/tu-trai-qua-bae-suzy-nam-joo-hyuk-va-kim-seon-ho-la-3-dien-vien-chinh-cua-start-up-1603851112-16x9.jpg" group-title="Khởi Nghiệp",Khởi Nghiệp - Tập 3 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/khoinghieptm3.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cuoifly.tuoitre.vn/1200/900/ttc/r/2020/10/28/tu-trai-qua-bae-suzy-nam-joo-hyuk-va-kim-seon-ho-la-3-dien-vien-chinh-cua-start-up-1603851112-16x9.jpg" group-title="Khởi Nghiệp",Khởi Nghiệp - Tập 4 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/khoinghieptm4.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cuoifly.tuoitre.vn/1200/900/ttc/r/2020/10/28/tu-trai-qua-bae-suzy-nam-joo-hyuk-va-kim-seon-ho-la-3-dien-vien-chinh-cua-start-up-1603851112-16x9.jpg" group-title="Khởi Nghiệp",Khởi Nghiệp - Tập 5 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/khoinghieptm5.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cuoifly.tuoitre.vn/1200/900/ttc/r/2020/10/28/tu-trai-qua-bae-suzy-nam-joo-hyuk-va-kim-seon-ho-la-3-dien-vien-chinh-cua-start-up-1603851112-16x9.jpg" group-title="Khởi Nghiệp",Khởi Nghiệp - Tập 6 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/khoinghieptm6.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cuoifly.tuoitre.vn/1200/900/ttc/r/2020/10/28/tu-trai-qua-bae-suzy-nam-joo-hyuk-va-kim-seon-ho-la-3-dien-vien-chinh-cua-start-up-1603851112-16x9.jpg" group-title="Khởi Nghiệp",Khởi Nghiệp - Tập 7 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/khoinghieptm7.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cuoifly.tuoitre.vn/1200/900/ttc/r/2020/10/28/tu-trai-qua-bae-suzy-nam-joo-hyuk-va-kim-seon-ho-la-3-dien-vien-chinh-cua-start-up-1603851112-16x9.jpg" group-title="Khởi Nghiệp",Khởi Nghiệp - Tập 8 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/khoinghieptm8.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cuoifly.tuoitre.vn/1200/900/ttc/r/2020/10/28/tu-trai-qua-bae-suzy-nam-joo-hyuk-va-kim-seon-ho-la-3-dien-vien-chinh-cua-start-up-1603851112-16x9.jpg" group-title="Khởi Nghiệp",Khởi Nghiệp - Tập 9 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/khoinghieptm9.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cuoifly.tuoitre.vn/1200/900/ttc/r/2020/10/28/tu-trai-qua-bae-suzy-nam-joo-hyuk-va-kim-seon-ho-la-3-dien-vien-chinh-cua-start-up-1603851112-16x9.jpg" group-title="Khởi Nghiệp",Khởi Nghiệp - Tập 10 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/khoinghieptm10.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cuoifly.tuoitre.vn/1200/900/ttc/r/2020/10/28/tu-trai-qua-bae-suzy-nam-joo-hyuk-va-kim-seon-ho-la-3-dien-vien-chinh-cua-start-up-1603851112-16x9.jpg" group-title="Khởi Nghiệp",Khởi Nghiệp - Tập 11 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/khoinghieptm11.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cuoifly.tuoitre.vn/1200/900/ttc/r/2020/10/28/tu-trai-qua-bae-suzy-nam-joo-hyuk-va-kim-seon-ho-la-3-dien-vien-chinh-cua-start-up-1603851112-16x9.jpg" group-title="Khởi Nghiệp",Khởi Nghiệp - Tập 12 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/khoinghieptm12.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cuoifly.tuoitre.vn/1200/900/ttc/r/2020/10/28/tu-trai-qua-bae-suzy-nam-joo-hyuk-va-kim-seon-ho-la-3-dien-vien-chinh-cua-start-up-1603851112-16x9.jpg" group-title="Khởi Nghiệp",Khởi Nghiệp - Tập 13 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/khoinghieptm13.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cuoifly.tuoitre.vn/1200/900/ttc/r/2020/10/28/tu-trai-qua-bae-suzy-nam-joo-hyuk-va-kim-seon-ho-la-3-dien-vien-chinh-cua-start-up-1603851112-16x9.jpg" group-title="Khởi Nghiệp",Khởi Nghiệp - Tập 14 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/khoinghieptm14.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cuoifly.tuoitre.vn/1200/900/ttc/r/2020/10/28/tu-trai-qua-bae-suzy-nam-joo-hyuk-va-kim-seon-ho-la-3-dien-vien-chinh-cua-start-up-1603851112-16x9.jpg" group-title="Khởi Nghiệp",Khởi Nghiệp - Tập 15 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/khoinghieptm15.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cuoifly.tuoitre.vn/1200/900/ttc/r/2020/10/28/tu-trai-qua-bae-suzy-nam-joo-hyuk-va-kim-seon-ho-la-3-dien-vien-chinh-cua-start-up-1603851112-16x9.jpg" group-title="Khởi Nghiệp",Khởi Nghiệp - Tập 16 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/khoinghieptm16.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://o.vdoc.vn/data/image/2021/08/17/lich-chieu-phim-hoc-vien-canh-sat-700.jpg" group-title="Học Viện Cảnh Sát",Học Viện Cảnh Sát- Tập 1 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/hocviencanhsatvs1.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://o.vdoc.vn/data/image/2021/08/17/lich-chieu-phim-hoc-vien-canh-sat-700.jpg" group-title="Học Viện Cảnh Sát",Học Viện Cảnh Sát- Tập 2 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/hocviencanhsatvs2.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://o.vdoc.vn/data/image/2021/08/17/lich-chieu-phim-hoc-vien-canh-sat-700.jpg" group-title="Học Viện Cảnh Sát",Học Viện Cảnh Sát- Tập 3 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/hocviencanhsatvs3.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://o.vdoc.vn/data/image/2021/08/17/lich-chieu-phim-hoc-vien-canh-sat-700.jpg" group-title="Học Viện Cảnh Sát",Học Viện Cảnh Sát- Tập 4 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/hocviencanhsatvs4.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://o.vdoc.vn/data/image/2021/08/17/lich-chieu-phim-hoc-vien-canh-sat-700.jpg" group-title="Học Viện Cảnh Sát",Học Viện Cảnh Sát- Tập 5 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/hocviencanhsatvs5.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://o.vdoc.vn/data/image/2021/08/17/lich-chieu-phim-hoc-vien-canh-sat-700.jpg" group-title="Học Viện Cảnh Sát",Học Viện Cảnh Sát- Tập 6 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/hocviencanhsatvs6.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://o.vdoc.vn/data/image/2021/08/17/lich-chieu-phim-hoc-vien-canh-sat-700.jpg" group-title="Học Viện Cảnh Sát",Học Viện Cảnh Sát- Tập 7 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/hocviencanhsatvs7.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://o.vdoc.vn/data/image/2021/08/17/lich-chieu-phim-hoc-vien-canh-sat-700.jpg" group-title="Học Viện Cảnh Sát",Học Viện Cảnh Sát- Tập 8 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/hocviencanhsatvs8.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://o.vdoc.vn/data/image/2021/08/17/lich-chieu-phim-hoc-vien-canh-sat-700.jpg" group-title="Học Viện Cảnh Sát",Học Viện Cảnh Sát- Tập 9 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/hocviencanhsatvs9.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://o.vdoc.vn/data/image/2021/08/17/lich-chieu-phim-hoc-vien-canh-sat-700.jpg" group-title="Học Viện Cảnh Sát",Học Viện Cảnh Sát- Tập 10 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/hocviencanhsatvs10.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://o.vdoc.vn/data/image/2021/08/17/lich-chieu-phim-hoc-vien-canh-sat-700.jpg" group-title="Học Viện Cảnh Sát",Học Viện Cảnh Sát- Tập 11 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/hocviencanhsatvs11.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://o.vdoc.vn/data/image/2021/08/17/lich-chieu-phim-hoc-vien-canh-sat-700.jpg" group-title="Học Viện Cảnh Sát",Học Viện Cảnh Sát- Tập 12 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/hocviencanhsatvs12.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://o.vdoc.vn/data/image/2021/08/17/lich-chieu-phim-hoc-vien-canh-sat-700.jpg" group-title="Học Viện Cảnh Sát",Học Viện Cảnh Sát- Tập 13 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/hocviencanhsatvs13.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://o.vdoc.vn/data/image/2021/08/17/lich-chieu-phim-hoc-vien-canh-sat-700.jpg" group-title="Học Viện Cảnh Sát",Học Viện Cảnh Sát- Tập 14 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/hocviencanhsatvs14.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://o.vdoc.vn/data/image/2021/08/17/lich-chieu-phim-hoc-vien-canh-sat-700.jpg" group-title="Học Viện Cảnh Sát",Học Viện Cảnh Sát- Tập 15 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/hocviencanhsatvs15.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://o.vdoc.vn/data/image/2021/08/17/lich-chieu-phim-hoc-vien-canh-sat-700.jpg" group-title="Học Viện Cảnh Sát",Học Viện Cảnh Sát- Tập 16 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/hocviencanhsatvs16.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://o.vdoc.vn/data/image/2021/08/17/lich-chieu-phim-hoc-vien-canh-sat-700.jpg" group-title="Học Viện Cảnh Sát",Học Viện Cảnh Sát- Tập 17 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/hocviencanhsatvs17.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://o.vdoc.vn/data/image/2021/08/17/lich-chieu-phim-hoc-vien-canh-sat-700.jpg" group-title="Học Viện Cảnh Sát",Học Viện Cảnh Sát- Tập 18 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/hocviencanhsatvs18.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://o.vdoc.vn/data/image/2021/08/17/lich-chieu-phim-hoc-vien-canh-sat-700.jpg" group-title="Học Viện Cảnh Sát",Học Viện Cảnh Sát- Tập 19 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/hocviencanhsatvs19.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://o.vdoc.vn/data/image/2021/08/17/lich-chieu-phim-hoc-vien-canh-sat-700.jpg" group-title="Học Viện Cảnh Sát",Học Viện Cảnh Sát- Tập 20 - Phim Bộ
+http://s3-hcm-r1.longvan.net/phimle/hocviencanhsatvs20.mp4
+
+
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/8/19/1-15662219574821186494559.jpg" group-title="Học Viện Quân Sự Liệt Hỏa",Học Viện Quân Sự Liệt Hỏa - Tập 1 - Phim Bộ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200911/hvqslhsub-01/956607f6aaa1b7145d8ad44d644d48f1-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2019/8/19/1-15662219574821186494559.jpg" group-title="Học Viện Quân Sự Liệt Hỏa",Học Viện Quân Sự Liệt Hỏa - Tập 2 - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200911/hvqslhsub_02/32222768f888a18beee1f0fb9de13140_1080p.mp4/chunklist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="phim" tvg-logo="http://imageakm1.tv360.vn/image1/2018/05/17/12/a305e466/a305e466-480f-4f54-a9f7-b2c88854205f_640_360.jpg" group-title="Nữ Công Tố Viên",Nữ Công Tố Viên - Tập 1 - Phim Bộ
+http://vod-zlr2.tv360.vn/video1/2018/05/17/11/7b2b71c2/7b2b71c2-13e5-4156-ba33-2ace9dd13ebf_4_.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="http://imageakm1.tv360.vn/image1/2018/05/17/12/a305e466/a305e466-480f-4f54-a9f7-b2c88854205f_640_360.jpg" group-title="Nữ Công Tố Viên",Nữ Công Tố Viên - Tập 2 - Phim Bộ
+http://vod-zlr2.tv360.vn/video1/2018/05/17/11/e0ddcb6f/e0ddcb6f-6d05-458b-bf21-524a4cf39cb0_4_.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="http://imageakm1.tv360.vn/image1/2018/05/17/12/a305e466/a305e466-480f-4f54-a9f7-b2c88854205f_640_360.jpg" group-title="Nữ Công Tố Viên",Nữ Công Tố Viên - Tập 3 - Phim Bộ
+http://vod-zlr2.tv360.vn/video1/2018/05/17/17/5129b295/5129b295-1db2-42ac-a741-85366f39337c_4_.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://newsmd1fr.keeng.net/tiin/archive/imageslead/510/201912/20191214/thumb4_125622255595592.jpg" group-title="Nữ Công Tố Viên",Nữ Công Tố Viên 2 - Tập 1 - Phim Bộ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200831/pfj2sub_01/e8045e48ec4e64287f018cbb56ee9c7b_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://newsmd1fr.keeng.net/tiin/archive/imageslead/510/201912/20191214/thumb4_125622255595592.jpg" group-title="Nữ Công Tố Viên",Nữ Công Tố Viên 2 - Tập 2 - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200831/pfj2sub-02/6194718794d520304227092b1c94a0b5-1080p.mp4/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="phim" tvg-logo="http://imageakm1.tv360.vn/image1/2021/08/30/22/41f5bdc8/41f5bdc8-c85f-42c2-8ffe-9d8d6e5501bb_640_360.jpg" group-title="Bầu Trời Rực Đỏ",Bầu Trời Rực Đỏ - Tập 1 - Phim Bộ
+https://scontent.cdninstagram.com/v/t66.36240-6/10000000_3067125976849574_7251535001389395250_n.mp4?_nc_cat=106&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjIxMDQsInJsYSI6NDA5NiwidmVuY29kZV90YWciOiJvZXBfaGQifQu00253Du00253D&_nc_ohc=YSNfCUllvkUAX8J35Hu&rl=2104&vabr=1403&_nc_ht=scontent-amt2-1.xx&edm=APRAPSkEAAAA&oh=9d04ace0d45f654e2f6f6dac970783bc&oe=613FC8C1
+
+
+
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://i3.wp.com/image.bongngocdn.com/upload/bg-phim-han-su-khoi-dau-2021.jpg" group-title="LUCA: Sự Khởi Đầu",LUCA: Sự Khởi Đầu- Tập 1 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/lucasukhoidautm1.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://i3.wp.com/image.bongngocdn.com/upload/bg-phim-han-su-khoi-dau-2021.jpg" group-title="LUCA: Sự Khởi Đầu",LUCA: Sự Khởi Đầu- Tập 2 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/lucasukhoidautm2.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://i3.wp.com/image.bongngocdn.com/upload/bg-phim-han-su-khoi-dau-2021.jpg" group-title="LUCA: Sự Khởi Đầu",LUCA: Sự Khởi Đầu- Tập 3 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/lucasukhoidautm3.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://i3.wp.com/image.bongngocdn.com/upload/bg-phim-han-su-khoi-dau-2021.jpg" group-title="LUCA: Sự Khởi Đầu",LUCA: Sự Khởi Đầu- Tập 4 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/lucasukhoidautm4.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://i3.wp.com/image.bongngocdn.com/upload/bg-phim-han-su-khoi-dau-2021.jpg" group-title="LUCA: Sự Khởi Đầu",LUCA: Sự Khởi Đầu- Tập 5 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/lucasukhoidautm5.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://i3.wp.com/image.bongngocdn.com/upload/bg-phim-han-su-khoi-dau-2021.jpg" group-title="LUCA: Sự Khởi Đầu",LUCA: Sự Khởi Đầu- Tập 6 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/lucasukhoidautm6.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://i3.wp.com/image.bongngocdn.com/upload/bg-phim-han-su-khoi-dau-2021.jpg" group-title="LUCA: Sự Khởi Đầu",LUCA: Sự Khởi Đầu- Tập 7 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/lucasukhoidautm7.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://i3.wp.com/image.bongngocdn.com/upload/bg-phim-han-su-khoi-dau-2021.jpg" group-title="LUCA: Sự Khởi Đầu",LUCA: Sự Khởi Đầu- Tập 8 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/lucasukhoidautm8.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://i3.wp.com/image.bongngocdn.com/upload/bg-phim-han-su-khoi-dau-2021.jpg" group-title="LUCA: Sự Khởi Đầu",LUCA: Sự Khởi Đầu- Tập 9 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/lucasukhoidautm9.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://i3.wp.com/image.bongngocdn.com/upload/bg-phim-han-su-khoi-dau-2021.jpg" group-title="LUCA: Sự Khởi Đầu",LUCA: Sự Khởi Đầu- Tập 10 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/lucasukhoidautm10.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://i3.wp.com/image.bongngocdn.com/upload/bg-phim-han-su-khoi-dau-2021.jpg" group-title="LUCA: Sự Khởi Đầu",LUCA: Sự Khởi Đầu- Tập 11 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/lucasukhoidautm11.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://i3.wp.com/image.bongngocdn.com/upload/bg-phim-han-su-khoi-dau-2021.jpg" group-title="LUCA: Sự Khởi Đầu",LUCA: Sự Khởi Đầu- Tập 12 - Phim Bộ
+http://s3-hcm1-r1.longvan.net/phimle/lucasukhoidautm12.mp4
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://ss-images.saostar.vn/w800/pc/1618818593943/saostar-gnod20e5srkfn4fw.jpg" group-title="Sông Đón Trăng Lên",Sông Đón Trăng Lên- Tập 1 - Phim Bộ
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210419/master_river_where_the_moon_rises_01_update_1080p/157094a7fa124dc6804bd365b3e7942d_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://ss-images.saostar.vn/w800/pc/1618818593943/saostar-gnod20e5srkfn4fw.jpg" group-title="Sông Đón Trăng Lên",Sông Đón Trăng Lên- Tập 2 - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210419/master_river_where_the_moon_rises_02_update_1080p/8280a03dd03d815dc42d6eb9f27cbd4b_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://afamilycdn.com/2018/3/5/photo-1-1520220736205935445624.jpg" group-title="Hoa Du Ký",Hoa Du Ký - Tập 1 - Phim Bộ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201121/hdksub1080_01/5a2f80133a9d7af549e6c6eb99951519_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub-01/74cee5476b82d1210ca2c0686e376e17-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub_02/e697189ac587b320a62f9544321be3a7_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub-03/77c18440388c1ed80d53386c41a6afbd-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub_04/9befdadf8dcaeda66f8726529d1eee1e_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub-05/332d88f1157f6fd28e21ae6367c1b1b4-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub_06/8303ce95fa96532f16e4c9cef220b3cb_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub-07/37cc443e0ae0a9557e7bf6d4845c7b72-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub_08/9e98a4f44a28fc5851b0b6e659687a65_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub_09/06de7a55e21e5589fee7a132a7f92fcc_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub_10/223b11030e413ec95fc9a3b54d8b4444_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub-11/29c8611b3cdb592176b19dcb2a80eb6e-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub-12/3af0f320b92c3df5d4f15c5d530c46c2-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub-13/9dd8a50aef3cdf03bf535718f130d3fd-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub_14/d446d790005e7e50493e420b42be8a7b_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub_15/137733b52280e65abbfe345cc4893b18_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub-16/74fa621db26d8d8160bc7c2de80058e2-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub_17/1464b3b53a182ac5bbcd6181e45eafeb_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub-18/42dbedc452cca9eb32603f4d22a35cb1-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub_19/ec6c30945e4a3b3f4d94677cd21157b9_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub-20/7c0d530b338e70ef44f8f6f6406da2a7-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub-21/06c17e391c15e7a840894b743f5ff204-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub_22/e8044e6c9a173ebee94fea4441f7a829_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub_23/817f8e0d7b0243d400ce707f9a04d05a_1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjEwZDU5YjU3YmU2MjA0ZmEzYjMyZjZjMWYyZjAxZGM1IiwgInZpZGVvX2lkIjogIjVmODE0YTQ1MjA4OWJkMmQ1MzljYTZhYiIsICJzZXJ2ZXJfdGltZSI6IDE2MzEwMzM2NjMsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub-24/8be67fe450108144f2f6d7cce321d0b9-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub-25/a4a6dd80cffb5b1397b75c5be40e3e40-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub-26/98180227b54b9593759c20cbf56dd94c-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub-27/0c9bc90e8cd29fa95a76e76071817bd3-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub-28/86678f16cf2e68aee5930b8e6d122530-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub-29/c6019afd217b1ec218f697fbf33437f9-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub-30/69d74c2fa8c165d03f00d452f052b214-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub-31/c75738dfc6f34bb94cf6e9ae68dc2396-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub-32/d87f0e10646958f499168dce7fe81039-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub_33/60e10d7ad959245f899de7dccfb1dca1_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub_34/4cce36cdca886b31606bc22b46dc2716_1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogImQ2MDBhMmJmMTYzOTQ5YWQzYmViZjQyYWYwMmI4OWJhIiwgInZpZGVvX2lkIjogIjVmODE0YTQ1MjA4OWJkMmQ1MzljYTZhYiIsICJzZXJ2ZXJfdGltZSI6IDE2MzA3MTU3ODUsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub_35/fd808a6fa4387c12af695050f6afddb9_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub_36/4074d14758722d6f554f1b61539548fa_1080p.mp4/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub_37/f0ed9fd9c7ad6306554e2c771bfc0df2_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub-38/d45eddc688bbd751044f50b19b23952e-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub_39/e0f38de13c5317a55ba0f73f3d02e3ea_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub_40/2c0e0d6751f24da37321620e585ee724_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub_41/1d96dc4e866b699a4cb8b7865c4c3987_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub-42/2b4d46ac83286c37a4547d5a3a8a75f2-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub-43/25021f755d246d22c2fbd04cf90d564d-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub_44/3e009ed9c619738e0d44be79a2de2610_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub_45/1bc0b4017e1ea9d69329382cd5840f96_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub_46/eb8352b6f5c15c551a3bf66e90fea9a7_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub-47/a539e2a4dcf7583a956be67a5fcb19bf-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub_48/01b68a16059228087b06c1e693e24f5b_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub-49/5da6ed79fc97dbc5e61f0ee004bd5270-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub_50/a4f659fef4abe47fe9bdbaadebbab864_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub-51/2251a28fa2f0a49ea29b7881e811760f-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub_52/f608c85da65a22911cc481da60d7692f_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub-53/0f65a80fa7225c2a5e770b55dd3568a0-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub_54/535e298bf19d5f54fb6bce66222218c8_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub-55/527e50c1bdea5d1b5d95ccb5d0ee1b81-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn.moveek.com/media/cache/large/7fc8b8dc9667a2fcf04613c8b6663550aaf5f227.jpg" group-title="Hành Vi Phạm Tội",Hành Vi Phạm Tội - Tập 1 - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201010/cmdub_56/3bd7c6ceb3b9cb6a56abf54a323560a4_1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogImJlNzdkYWM3YzMzZjU1YjAzOGJlODRjNjVhOTg4NmFmIiwgInZpZGVvX2lkIjogIjVmODE0YTQ1MjA4OWJkMmQ1MzljYTZhYiIsICJzZXJ2ZXJfdGltZSI6IDE2MzA3NDkwNzEsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://bloganchoi.com/wp-content/uploads/2017/10/witchs-court.jpg" group-title="Hành Vi Phạm Tội",Phù Thủy Tòa Án - Tập 1 - Phim Bộ
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210830/witchscourt_2017_southkorea_01_tm/10a6eb579c3069c36236799c6878cd86_1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogImVjMjU0ZDhjZmQzNGRmODM1NGUxNDQ2MjU2YjIyN2UxIiwgInZpZGVvX2lkIjogIjYxMmJkNTY1MjA4OWJkMjExZjE1M2I5YSIsICJzZXJ2ZXJfdGltZSI6IDE2MzAzODc2NzgsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://bloganchoi.com/wp-content/uploads/2017/10/witchs-court.jpg" group-title="Hành Vi Phạm Tội",Phù Thủy Tòa Án - Tập 1 - Phim Bộ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210830/witchscourt_2017_southkorea_02_tm/4c85e63637b5c6c1ee848a1f408c3cf5_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://bloganchoi.com/wp-content/uploads/2017/10/witchs-court.jpg" group-title="Hành Vi Phạm Tội",Phù Thủy Tòa Án - Tập 1 - Phim Bộ
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210830/witchscourt_2017_southkorea_03_tm/377b9a50dab290e03e76d75c344ad1b4_1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogImI4ZGJkMzgxZDQ1ZTU3NzlhNWI5NGNmMGEwZTBmM2I4IiwgInZpZGVvX2lkIjogIjYxMmJkNTY1MjA4OWJkMjExZjE1M2I5YSIsICJzZXJ2ZXJfdGltZSI6IDE2MzEyNTUxMzksICJ2YWxpZF9taW51dGVzIjogNzIwfQ
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://bloganchoi.com/wp-content/uploads/2017/10/witchs-court.jpg" group-title="Hành Vi Phạm Tội",Phù Thủy Tòa Án - Tập 1 - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210830/witchscourt_2017_southkorea_04_tm/9f32db50372013f192d46e6ab8a3ca45_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://bloganchoi.com/wp-content/uploads/2017/10/witchs-court.jpg" group-title="Hành Vi Phạm Tội",Phù Thủy Tòa Án - Tập 1 - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210830/witchscourt_2017_southkorea_05_tm/4910b6b3d6c2e93cf7cdf99c22993e18_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://bloganchoi.com/wp-content/uploads/2017/10/witchs-court.jpg" group-title="Hành Vi Phạm Tội",Phù Thủy Tòa Án - Tập 1 - Phim Bộ
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210830/witchscourt_2017_southkorea_06_tm/17bdbd1f75bddfe01b766779fb011753_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://bloganchoi.com/wp-content/uploads/2017/10/witchs-court.jpg" group-title="Hành Vi Phạm Tội",Phù Thủy Tòa Án - Tập 1 - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210830/witchscourt_2017_southkorea_07_tm/07ec746393ebb4b5bfb04e2d597d9048_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://bloganchoi.com/wp-content/uploads/2017/10/witchs-court.jpg" group-title="Hành Vi Phạm Tội",Phù Thủy Tòa Án - Tập 1 - Phim Bộ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210830/witchscourt_2017_southkorea_08_tm/b1be0b939880d732c7a1c7da3c6a3618_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://bloganchoi.com/wp-content/uploads/2017/10/witchs-court.jpg" group-title="Hành Vi Phạm Tội",Phù Thủy Tòa Án - Tập 1 - Phim Bộ
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210830/witchscourt_2017_southkorea_09_tm/3cfe0f704ccad7cb0146cbf6bd616734_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://bloganchoi.com/wp-content/uploads/2017/10/witchs-court.jpg" group-title="Hành Vi Phạm Tội",Phù Thủy Tòa Án - Tập 1 - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210830/witchscourt_2017_southkorea_10_tm/082f88e383138a94b0c0f63d948698da_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://bloganchoi.com/wp-content/uploads/2017/10/witchs-court.jpg" group-title="Hành Vi Phạm Tội",Phù Thủy Tòa Án - Tập 1 - Phim Bộ
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210830/witchscourt_2017_southkorea_11_tm/d7ec0993542ea7d905841b96368ee3c2_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://bloganchoi.com/wp-content/uploads/2017/10/witchs-court.jpg" group-title="Hành Vi Phạm Tội",Phù Thủy Tòa Án - Tập 1 - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210830/witchscourt_2017_southkorea_12_tm/ab01d518f16f6c77a20791ff8e487d83_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://bloganchoi.com/wp-content/uploads/2017/10/witchs-court.jpg" group-title="Hành Vi Phạm Tội",Phù Thủy Tòa Án - Tập 1 - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210830/witchscourt_2017_southkorea_13_tm/c816e2bc00b42a8bfe5f54c4ce10d041_1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjNiYzBmYTg5YWVlNGY3ODI0YWU0NmJmZDNmMTVjN2MxIiwgInZpZGVvX2lkIjogIjYxMmJkNTY1MjA4OWJkMjExZjE1M2I5YSIsICJzZXJ2ZXJfdGltZSI6IDE2MzA0MTk5ODcsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://bloganchoi.com/wp-content/uploads/2017/10/witchs-court.jpg" group-title="Hành Vi Phạm Tội",Phù Thủy Tòa Án - Tập 1 - Phim Bộ
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210830/witchscourt_2017_southkorea_14_tm/f11e722500f46103a5bc043d6b2f1809_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://bloganchoi.com/wp-content/uploads/2017/10/witchs-court.jpg" group-title="Hành Vi Phạm Tội",Phù Thủy Tòa Án - Tập 1 - Phim Bộ
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210830/witchscourt_2017_southkorea_15_tm/94994440af004eb0762121cff58e08a8_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://bloganchoi.com/wp-content/uploads/2017/10/witchs-court.jpg" group-title="Hành Vi Phạm Tội",Phù Thủy Tòa Án - Tập 1 - Phim Bộ
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210830/witchscourt_2017_southkorea_16_tm/7c4ff85d4e5fe718376cebfbe1c1129d_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://bloganchoi.com/wp-content/uploads/2017/10/witchs-court.jpg" group-title="Hành Vi Phạm Tội",Phù Thủy Tòa Án - Tập 1 - Phim Bộ
+
+
+
+
+
+
+gió mùa đông năm ấy
+gió mùa đông năm ấy
+gió mùa đông năm ấy
+
+
+bay cao ước mơ
+cô bé người gỗ
+hai thế giới
+
+tình sử ok jang gung
+
+
+
+signal
+người đọc tâm lý
+căp đôi điều tra
+cuộc sống trên sao hỏa
+tín hiệu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi- Tập 1 - Phim Bộ
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202102/tinhyeukhongcoloip1_01_ok_s2p224s3v4_4500_2038xmb8098_0197327297e04171/eeb79318/hls/mapper-fhd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi- Tập 2 - Phim Bộ
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202102/tinhyeukhongcoloip1_02_ok_v244f5l3o3_4500_1798qvy8833_b95d06815d5d5839/01897637/hls/mapper-fhd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi- Tập 3 - Phim Bộ
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202102/tinhyeukhongcoloip1_03_ok_24x224n3n3_4500_3015ogb1134_d1eb120b10aab535/8528c063/hls/mapper-fhd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi- Tập 4 - Phim Bộ
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202102/tinhyeukhongcoloip1_04_ok_5464z3q3x4_4500_3298mzn8756_701c52e19e3cd12c/253d39f5/hls/mapper-fhd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi- Tập 5 - Phim Bộ
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202102/tinhyeukhongcoloip1_05_ok_64z2z315o3_4500_1256acb4326_c742daa94154ef32/07e142ae/hls/mapper-fhd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi- Tập 6 - Phim Bộ
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202102/tinhyeukhongcoloip1_06_ok_p2a434p3h3_4500_1870fsc6665_ca4c527679f02590/495a6cc8/hls/mapper-fhd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi- Tập 7 - Phim Bộ
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202102/tinhyeukhongcoloip1_07_ok_24a4e5r3s4_4500_2191cpv1656_722c69f07e1c0cad/dd61cb12/hls/mapper-fhd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi- Tập 8 - Phim Bộ
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202102/tinhyeukhongcoloip1_08_ok_542344j3x4_4500_3809euf1268_c0c160d6686207f1/7aa1a786/hls/mapper-fhd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi- Tập 9 - Phim Bộ
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202102/tinhyeukhongcoloip1_09_ok_r25354z4u4_4500_4375nry5755_22596e971798e017/149f3460/hls/mapper-fhd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi- Tập 10 - Phim Bộ
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202102/tinhyeukhongcoloip1_10_ok_44w24405w4_4500_5236mbt9995_647fd9cd84b767e3/667fda9a/hls/mapper-fhd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi- Tập 11 - Phim Bộ
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202102/tinhyeukhongcoloip1_11_ok_y2q274j3o3_4500_2492iab4124_ecba563f9ebd077b/b732f870/hls/mapper-fhd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi- Tập 12 - Phim Bộ
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202102/tinhyeukhongcoloip1_12_ok_44q254z4x4_4500_1549gpe3674_104e62df3f18f131/82a18047/hls/mapper-fhd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi- Tập 13 - Phim Bộ
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202102/tinhyeukhongcoloip1_13_ok_v2t284p3u4_4500_3507nmw3168_37b24aa2e226f8cc/918ae56f/hls/mapper-fhd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi- Tập 14 - Phim Bộ
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202102/tinhyeukhongcoloip1_14_ok_x2v2h505o3_4500_3453gml4548_f616af4c28e2601b/15921ab4/hls/mapper-fhd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi- Tập 15 - Phim Bộ
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202102/tinhyeukhongcoloip1_15_ok_q2v2c5l3i3_4500_3138czh591_04450d7acb8feda0/eeea07d5/hls/mapper-fhd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi- Tập 16 - Phim Bộ
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202102/tinhyeukhongcoloip1_16_ok_44v2d5r3l3_4500_3047boq8275_cd0b8f55cf0d7926/48de0081/hls/mapper-fhd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi- Tập 17 - Phim Bộ
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202103/tinhyeukhongcoloip1_17_ok_u29404x4w4_4500_3243oeo6173_20062236b8ba0e87/355a8324/hls/mapper-fhd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi- Tập 18 - Phim Bộ
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202102/tinhyeukhongcoloip1_18_ok_2403c5q3h3_4500_1429zwe1709_a9790f4954750fbf/ac42d138/hls/mapper-fhd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi- Tập 19 - Phim Bộ
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202102/tinhyeukhongcoloip1_19_ok_44z224q3w4_4500_5488lrs3109_1dacae8f24530687/ac2712cf/hls/mapper-fhd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi- Tập 20 - Phim Bộ
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202102/tinhyeukhongcoloip1_20_ok_y2q2h5o3x4_4500_77iom7691_244a8a4d6807a279/0b9ad01d/hls/mapper-fhd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi- Tập 21 - Phim Bộ
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202103/tinhyeukhongcoloip1_21_ok_54u234j3u4_4500_5210cwz3895_ccb6d227c7a5ff61/6160549a/hls/mapper-fhd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi- Tập 22 - Phim Bộ
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202102/tinhyeukhongcoloip1_22_ok_64y274z4h3_4500_1663omm1797_a1d308ed4d3da23b/521b7df8/hls/mapper-fhd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi 2 - Tập 1 - Phim Bộ
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202103/tinhyeukhongcoloip2_01_ok_q2r214y4v4_4500_4189bpg2282_4669a4b8aeb6260a/c99240fb/hls/mapper-fhd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi 2 - Tập 2 - Phim Bộ
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202102/tinhyeukhongcoloip2_02_ok_14t2g5s3j3_4500_5535mrl2139_93a0448aa063e462/10ff6a22/hls/mapper-fhd/playlist.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi 2 - Tập 1 - Phim Bộ
+
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi 2 - Tập 1 - Phim Bộ
+
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi 2 - Tập 1 - Phim Bộ
+
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi 2 - Tập 1 - Phim Bộ
+
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi 2 - Tập 1 - Phim Bộ
+
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi 2 - Tập 1 - Phim Bộ
+
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi 2 - Tập 1 - Phim Bộ
+
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi 2 - Tập 1 - Phim Bộ
+
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi 2 - Tập 1 - Phim Bộ
+
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi 2 - Tập 1 - Phim Bộ
+
+
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi 2 - Tập 1 - Phim Bộ
+
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi 2 - Tập 1 - Phim Bộ
+
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi 2 - Tập 1 - Phim Bộ
+
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi 2 - Tập 1 - Phim Bộ
+
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi 2 - Tập 1 - Phim Bộ
+
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi 2 - Tập 1 - Phim Bộ
+
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi 2 - Tập 1 - Phim Bộ
+
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi 2 - Tập 1 - Phim Bộ
+
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static2.yan.vn/YanNews/201906/201906190150199756-773b3e99-cd32-46c9-a24f-e7fdee29723d.jpeg" group-title="Tình Yêu Không Có Lỗi",Tình Yêu Không Có Lỗi 2 - Tập 1 - Phim Bộ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0Tập 27 - Phim Bộ
 https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/fightformyway_s_27/3f28297107af55c3929fb3d7efd37763_1080p.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="phim" tvg-logo="https://phimcapba.vn/wp-content/uploads/2020/02/di%E1%BB%85n-vi%C3%AAn-phim-thanh-xu%C3%A2n-v%E1%BA%ADt-v%C3%A3.jpg" group-title="Thanh Xuân Vật Vã",Thanh Xuân Vật Vã - Tập 28 - Phim Bộ
 https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210328/fightformyway-s-28/b53a3103a46c0012d32bd9f2d3491a1f-1080p.mp4/chunklist.m3u8
